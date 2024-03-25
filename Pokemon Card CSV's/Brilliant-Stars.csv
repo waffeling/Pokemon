@@ -1,0 +1,217 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+RS,001,Exeggcute,Pkmn › Basic,{G},Common,$0.02
+BRS,002,Exeggutor,Pkmn › Stage 1,{G},Uncommon,$0.03
+BRS,003,Shroomish,Pkmn › Basic,{G},Common,$0.13
+BRS,004,Breloom,Pkmn › Stage 1,{G},Rare,$0.10
+BRS,005,Tropius,Pkmn › Basic,{G},Uncommon,$0.04
+BRS,006,Turtwig,Pkmn › Basic,{G},Common,$0.05
+BRS,007,Grotle,Pkmn › Stage 1,{G},Uncommon,$0.08
+BRS,008,Torterra,Pkmn › Stage 2,{G},Rare Holo,$0.18
+BRS,009,Burmy,Pkmn › Basic,{G},Common,$0.04
+BRS,010,Wormadam,Pkmn › Stage 1,{G},Rare,$0.06
+BRS,011,Mothim,Pkmn › Stage 1,{G},Rare,$0.08
+BRS,012,Cherubi,Pkmn › Basic,{G},Common,$0.04
+BRS,013,Shaymin V,Pkmn › Basic,{G},Holo Rare V,$0.45
+BRS,014,Shaymin VSTAR,Pkmn › VSTAR,{G},Holo Rare VSTAR,$0.70
+BRS,015,Karrablast,Pkmn › Basic,{G},Common,$0.03
+BRS,016,Zarude V,Pkmn › Basic,{G},Holo Rare V,$0.54
+BRS,017,Charizard V,Pkmn › Basic,{R},Holo Rare V,$2.14
+BRS,018,Charizard VSTAR,Pkmn › VSTAR,{R},Holo Rare VSTAR,$7.15
+BRS,019,Magmar,Pkmn › Basic,{R},Common,$0.06
+BRS,020,Magmortar,Pkmn › Stage 1,{R},Rare,$0.08
+BRS,021,Moltres,Pkmn › Basic,{R},Rare Holo,$0.17
+BRS,022,Entei V,Pkmn › Basic,{R},Holo Rare V,$3.71
+BRS,023,Torkoal,Pkmn › Basic,{R},Uncommon,$0.04
+BRS,024,Chimchar,Pkmn › Basic,{R},Common,$0.04
+BRS,025,Monferno,Pkmn › Stage 1,{R},Uncommon,$0.05
+BRS,026,Infernape,Pkmn › Stage 2,{R},Rare Holo,$0.15
+BRS,027,Simisear V,Pkmn › Basic,{R},Holo Rare V,$0.43
+BRS,028,Kingler V,Pkmn › Basic,{W},Holo Rare V,$0.49
+BRS,029,Kingler VMAX,Pkmn › VMAX,{W},Holo Rare VMAX,$1.28
+BRS,030,Staryu,Pkmn › Basic,{W},Common,$0.04
+BRS,031,Lapras,Pkmn › Basic,{W},Rare,$0.13
+BRS,032,Corphish,Pkmn › Basic,{W},Common,$0.03
+BRS,033,Crawdaunt,Pkmn › Stage 1,{W},Uncommon,$0.04
+BRS,034,Snorunt,Pkmn › Basic,{W},Common,$0.02
+BRS,035,Piplup,Pkmn › Basic,{W},Common,$0.08
+BRS,036,Prinplup,Pkmn › Stage 1,{W},Uncommon,$0.08
+BRS,037,Empoleon,Pkmn › Stage 2,{W},Rare Holo,$0.13
+BRS,038,Buizel,Pkmn › Basic,{W},Common,$0.03
+BRS,039,Floatzel,Pkmn › Stage 1,{W},Uncommon,$0.03
+BRS,040,Lumineon V,Pkmn › Basic,{W},Holo Rare V,$3.71
+BRS,041,Manaphy,Pkmn › Basic,{W},Rare,$0.87
+BRS,042,Cubchoo,Pkmn › Basic,{W},Common,$0.02
+BRS,043,Beartic,Pkmn › Stage 1,{W},Uncommon,$0.03
+BRS,044,Eiscue,Pkmn › Basic,{W},Rare,$0.15
+BRS,045,Raichu V,Pkmn › Basic,{L},Holo Rare V,$3.06
+BRS,046,Electabuzz,Pkmn › Basic,{L},Common,$0.03
+BRS,047,Electivire,Pkmn › Stage 1,{L},Rare,$0.13
+BRS,048,Raikou V,Pkmn › Basic,{L},Holo Rare V,$5.43
+BRS,049,Shinx,Pkmn › Basic,{L},Common,$0.03
+BRS,050,Luxio,Pkmn › Stage 1,{L},Uncommon,$0.04
+BRS,051,Luxray,Pkmn › Stage 2,{L},Rare,$0.07
+BRS,052,Pachirisu,Pkmn › Basic,{L},Uncommon,$0.05
+BRS,053,Clefairy,Pkmn › Basic,{P},Common,$0.03
+BRS,054,Clefable,Pkmn › Stage 1,{P},Rare,$0.07
+BRS,055,Starmie,Pkmn › Stage 1,{P},Uncommon,$0.03
+BRS,056,Mewtwo,Pkmn › Basic,{P},Rare,$0.12
+BRS,057,Granbull V,Pkmn › Basic,{P},Holo Rare V,$0.44
+BRS,058,Baltoy,Pkmn › Basic,{P},Common,$0.10
+BRS,059,Claydol,Pkmn › Stage 1,{P},Uncommon,$0.02
+BRS,060,Duskull,Pkmn › Basic,{P},Common,$0.05
+BRS,061,Dusclops,Pkmn › Stage 1,{P},Uncommon,$0.03
+BRS,062,Dusknoir,Pkmn › Stage 2,{P},Rare Holo,$0.13
+BRS,063,Chimecho,Pkmn › Basic,{P},Common,$0.03
+BRS,064,Whimsicott V,Pkmn › Basic,{P},Holo Rare V,$0.42
+BRS,065,Whimsicott VSTAR,Pkmn › VSTAR,{P},Holo Rare VSTAR,$0.55
+BRS,066,Sigilyph,Pkmn › Basic,{P},Uncommon,$0.04
+BRS,067,Dedenne,Pkmn › Basic,{P},Common,$0.03
+BRS,068,Mimikyu V,Pkmn › Basic,{P},Holo Rare V,$0.55
+BRS,069,Mimikyu VMAX,Pkmn › VMAX,{P},Holo Rare VMAX,$1.89
+BRS,070,Milcery,Pkmn › Basic,{P},Common,$0.05
+BRS,071,Alcremie,Pkmn › Stage 1,{P},Rare,$0.08
+BRS,072,Hitmontop,Pkmn › Basic,{F},Uncommon,$0.06
+BRS,073,Nosepass,Pkmn › Basic,{F},Common,$0.03
+BRS,074,Trapinch,Pkmn › Basic,{F},Common,$0.04
+BRS,075,Vibrava,Pkmn › Stage 1,{F},Uncommon,$0.04
+BRS,076,Flygon,Pkmn › Stage 2,{F},Rare,$0.06
+BRS,077,Wormadam,Pkmn › Stage 1,{F},Rare,$0.07
+BRS,078,Riolu,Pkmn › Basic,{F},Common,$0.05
+BRS,079,Lucario,Pkmn › Stage 1,{F},Rare Holo,$0.20
+BRS,080,Throh,Pkmn › Basic,{F},Common,$0.05
+BRS,081,Sawk,Pkmn › Basic,{F},Common,$0.04
+BRS,082,Golett,Pkmn › Basic,{F},Common,$0.03
+BRS,083,Golurk,Pkmn › Stage 1,{F},Rare,$0.06
+BRS,084,Grimer,Pkmn › Basic,{D},Common,$0.04
+BRS,085,Muk,Pkmn › Stage 1,{D},Rare,$0.10
+BRS,086,Sneasel,Pkmn › Basic,{D},Common,$0.02
+BRS,087,Weavile,Pkmn › Stage 1,{D},Uncommon,$0.03
+BRS,088,Honchkrow V,Pkmn › Basic,{D},Holo Rare V,$0.43
+BRS,089,Spiritomb,Pkmn › Basic,{D},Common,$0.04
+BRS,090,Purrloin,Pkmn › Basic,{D},Common,$0.09
+BRS,091,Liepard,Pkmn › Stage 1,{D},Rare,$0.08
+BRS,092,Impidimp,Pkmn › Basic,{D},Common,$0.05
+BRS,093,Morgrem,Pkmn › Stage 1,{D},Uncommon,$0.03
+BRS,094,Grimmsnarl,Pkmn › Stage 2,{D},Rare,$0.08
+BRS,095,Morpeko V,Pkmn › Basic,{D},Holo Rare V,$0.48
+BRS,096,Aggron V,Pkmn › Basic,{M},Holo Rare V,$0.67
+BRS,097,Aggron VMAX,Pkmn › VMAX,{M},Holo Rare VMAX,$1.58
+BRS,098,Wormadam,Pkmn › Stage 1,{M},Rare,$0.07
+BRS,099,Probopass,Pkmn › Stage 1,{M},Uncommon,$0.08
+BRS,100,Heatran,Pkmn › Basic,{M},Rare,$0.11
+BRS,101,Escavalier,Pkmn › Stage 1,{M},Rare,$0.10
+BRS,102,Klink,Pkmn › Basic,{M},Common,$0.03
+BRS,103,Klang,Pkmn › Stage 1,{M},Uncommon,$0.04
+BRS,104,Klinklang,Pkmn › Stage 2,{M},Rare,$0.06
+BRS,105,Zamazenta V,Pkmn › Basic,{M},Holo Rare V,$0.56
+BRS,106,Flygon V,Pkmn › Basic,{N},Holo Rare V,$0.47
+BRS,107,Gible,Pkmn › Basic,{N},Common,$0.04
+BRS,108,Gabite,Pkmn › Stage 1,{N},Uncommon,$0.05
+BRS,109,Garchomp,Pkmn › Stage 2,{N},Rare Holo,$0.19
+BRS,110,Axew,Pkmn › Basic,{N},Common,$0.04
+BRS,111,Fraxure,Pkmn › Stage 1,{N},Uncommon,$0.05
+BRS,112,Haxorus,Pkmn › Stage 2,{N},Rare,$0.07
+BRS,113,Druddigon,Pkmn › Basic,{N},Rare,$0.09
+BRS,114,Dracovish V,Pkmn › Basic,{N},Holo Rare V,$0.57
+BRS,115,Farfetch’d,Pkmn › Basic,{C},Common,$0.04
+BRS,116,Castform,Pkmn › Basic,{C},Common,$0.03
+BRS,117,Starly,Pkmn › Basic,{C},Common,$0.03
+BRS,118,Staravia,Pkmn › Stage 1,{C},Uncommon,$0.03
+BRS,119,Staraptor,Pkmn › Stage 2,{C},Rare,$0.06
+BRS,120,Bidoof,Pkmn › Basic,{C},Common,$0.09
+BRS,121,Bibarel,Pkmn › Stage 1,{C},Rare Holo,$1.54
+BRS,122,Arceus V,Pkmn › Basic,{C},Holo Rare V,$3.35
+BRS,123,Arceus VSTAR,Pkmn › VSTAR,{C},Holo Rare VSTAR,$8.85
+BRS,124,Minccino,Pkmn › Basic,{C},Common,$0.10
+BRS,125,Cinccino,Pkmn › Stage 1,{C},Uncommon,$0.04
+BRS,126,Tornadus,Pkmn › Basic,{C},Rare,$0.08
+BRS,127,Hawlucha,Pkmn › Basic,{C},Common,$0.09
+BRS,128,Drampa V,Pkmn › Basic,{C},Holo Rare V,$0.45
+BRS,129,Acerola’s Premonition,Trainer › Supporter,,Uncommon,$0.05
+BRS,130,Barry,Trainer › Supporter,,Uncommon,$0.04
+BRS,131,Blunder Policy,Trainer › Tool,,Uncommon,$0.05
+BRS,132,Boss’s Orders,Trainer › Supporter,,Rare Holo,$0.54
+BRS,133,Café Master,Trainer › Supporter,,Uncommon,$0.07
+BRS,134,Cheren’s Care,Trainer › Supporter,,Uncommon,$0.06
+BRS,135,Choice Belt,Trainer › Tool,,Uncommon,$0.07
+BRS,136,Cleansing Gloves,Trainer › Tool,,Uncommon,$0.07
+BRS,137,Collapsed Stadium,Trainer › Stadium,,Uncommon,$0.11
+BRS,138,Cynthia’s Ambition,Trainer › Supporter,,Uncommon,$0.06
+BRS,139,Fresh Water Set,Trainer › Item,,Uncommon,$0.05
+BRS,140,Friends in Galar,Trainer › Supporter,,Uncommon,$0.05
+BRS,141,Gloria,Trainer › Supporter,,Uncommon,$0.04
+BRS,142,Hunting Gloves,Trainer › Tool,,Uncommon,$0.04
+BRS,143,Kindler,Trainer › Supporter,,Uncommon,$0.14
+BRS,144,Magma Basin,Trainer › Stadium,,Uncommon,$0.09
+BRS,145,Marnie’s Pride,Trainer › Supporter,,Uncommon,$0.07
+BRS,146,Pot Helmet,Trainer › Tool,,Uncommon,$0.06
+BRS,147,Professor’s Research,Trainer › Supporter,,Rare Holo,$0.16
+BRS,148,Roseanne’s Backup,Trainer › Supporter,,Uncommon,$0.05
+BRS,149,Team Yell’s Cheer,Trainer › Supporter,,Uncommon,$0.21
+BRS,150,Ultra Ball,Trainer › Item,,Uncommon,$0.08
+BRS,151,Double Turbo Energy,Energy › Special,,Uncommon,$0.20
+BRS,152,Shaymin V,Pkmn › Basic,{G},Ultra Rare,$1.69
+BRS,153,Charizard V,Pkmn › Basic,{R},Ultra Rare,$16.55
+BRS,154,Charizard V,Pkmn › Basic,{R},Ultra Rare,$119.39
+BRS,155,Lumineon V,Pkmn › Basic,{W},Ultra Rare,$5.23
+BRS,156,Lumineon V,Pkmn › Basic,{W},Ultra Rare,$13.89
+BRS,157,Pikachu V,Pkmn › Basic,{L},Ultra Rare,$5.04
+BRS,158,Raichu V,Pkmn › Basic,{L},Ultra Rare,$5.60
+BRS,159,Granbull V,Pkmn › Basic,{P},Ultra Rare,$0.90
+BRS,160,Whimsicott V,Pkmn › Basic,{P},Ultra Rare,$1.02
+BRS,161,Honchkrow V,Pkmn › Basic,{D},Ultra Rare,$1.12
+BRS,162,Honchkrow V,Pkmn › Basic,{D},Ultra Rare,$6.46
+BRS,163,Zamazenta V,Pkmn › Basic,{M},Ultra Rare,$1.59
+BRS,164,Flygon V,Pkmn › Basic,{N},Ultra Rare,$1.66
+BRS,165,Arceus V,Pkmn › Basic,{C},Ultra Rare,$6.77
+BRS,166,Arceus V,Pkmn › Basic,{C},Ultra Rare,$26.30
+BRS,167,Barry,Trainer › Supporter,,Ultra Rare,$1.13
+BRS,168,Cheren’s Care,Trainer › Supporter,,Ultra Rare,$1.77
+BRS,169,Cynthia’s Ambition,Trainer › Supporter,,Ultra Rare,$5.61
+BRS,170,Kindler,Trainer › Supporter,,Ultra Rare,$0.94
+BRS,171,Marnie’s Pride,Trainer › Supporter,,Ultra Rare,$8.66
+BRS,172,Roseanne’s Backup,Trainer › Supporter,,Ultra Rare,$3.87
+BRS,173,Shaymin VSTAR,Pkmn › VSTAR,{G},Rainbow Rare,$5.03
+BRS,174,Charizard VSTAR,Pkmn › VSTAR,{R},Rainbow Rare,$51.86
+BRS,175,Whimsicott VSTAR,Pkmn › VSTAR,{P},Rainbow Rare,$4.61
+BRS,176,Arceus VSTAR,Pkmn › VSTAR,{C},Rainbow Rare,$10.89
+BRS,177,Cheren’s Care,Trainer › Supporter,,Rainbow Rare,$2.64
+BRS,178,Cynthia’s Ambition,Trainer › Supporter,,Rainbow Rare,$4.41
+BRS,179,Kindler,Trainer › Supporter,,Rainbow Rare,$2.18
+BRS,180,Roseanne’s Backup,Trainer › Supporter,,Rainbow Rare,$2.48
+BRS,181,Galarian Articuno V,Pkmn › Basic,{P},Rare Secret,$6.10
+BRS,182,Galarian Zapdos V,Pkmn › Basic,{F},Rare Secret,$6.86
+BRS,183,Galarian Moltres V,Pkmn › Basic,{D},Rare Secret,$9.73
+BRS,184,Arceus VSTAR,Pkmn › VSTAR,{C},Rare Secret,$12.68
+BRS,185,Magma Basin,Trainer › Stadium,,Rare Secret,$6.73
+BRS,186,Ultra Ball,Trainer › Item,,Rare Secret,$28.56
+BRS,TG01,Flareon,Pkmn › Stage 1,{R},Trainer Gallery Holo Rare,$2.94
+BRS,TG02,Vaporeon,Pkmn › Stage 1,{W},Trainer Gallery Holo Rare,$3.59
+BRS,TG03,Octillery,Pkmn › Stage 1,{W},Trainer Gallery Holo Rare,$0.67
+BRS,TG04,Jolteon,Pkmn › Stage 1,{L},Trainer Gallery Holo Rare,$2.11
+BRS,TG05,Zekrom,Pkmn › Basic,{L},Trainer Gallery Holo Rare,$1.33
+BRS,TG06,Dusknoir,Pkmn › Stage 2,{P},Trainer Gallery Holo Rare,$0.55
+BRS,TG07,Dedenne,Pkmn › Basic,{P},Trainer Gallery Holo Rare,$0.94
+BRS,TG08,Alcremie,Pkmn › Stage 1,{P},Trainer Gallery Holo Rare,$0.54
+BRS,TG09,Ariados,Pkmn › Stage 1,{D},Trainer Gallery Holo Rare,$0.55
+BRS,TG10,Houndoom,Pkmn › Stage 1,{D},Trainer Gallery Holo Rare,$0.69
+BRS,TG11,Eevee,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$2.41
+BRS,TG12,Oranguru,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$0.63
+BRS,TG13,Boltund V,Pkmn › Basic,{L},Trainer Gallery Holo Rare V or VMAX,$3.89
+BRS,TG14,Sylveon V,Pkmn › Basic,{P},Trainer Gallery Holo Rare V or VMAX,$13.57
+BRS,TG15,Sylveon VMAX,Pkmn › VMAX,{P},Trainer Gallery Holo Rare V or VMAX,$16.21
+BRS,TG16,Mimikyu V,Pkmn › Basic,{P},Trainer Gallery Holo Rare V or VMAX,$10.59
+BRS,TG17,Mimikyu VMAX,Pkmn › VMAX,{P},Trainer Gallery Holo Rare V or VMAX,$12.19
+BRS,TG18,Single Strike Urshifu V,Pkmn › Basic,{F},Trainer Gallery Holo Rare V or VMAX,$2.11
+BRS,TG19,Single Strike Urshifu VMAX,Pkmn › VMAX,{F},Trainer Gallery Holo Rare V or VMAX,$4.11
+BRS,TG20,Rapid Strike Urshifu V,Pkmn › Basic,{F},Trainer Gallery Holo Rare V or VMAX,$1.96
+BRS,TG21,Rapid Strike Urshifu VMAX,Pkmn › VMAX,{F},Trainer Gallery Holo Rare V or VMAX,$7.20
+BRS,TG22,Umbreon V,Pkmn › Basic,{D},Trainer Gallery Holo Rare V or VMAX,$16.44
+BRS,TG23,Umbreon VMAX,Pkmn › VMAX,{D},Trainer Gallery Holo Rare V or VMAX,$21.43
+BRS,TG24,Acerola’s Premonition,Trainer › Supporter,,Trainer Gallery Ultra Rare,$5.09
+BRS,TG25,Café Master,Trainer › Supporter,,Trainer Gallery Ultra Rare,$1.34
+BRS,TG26,Gloria,Trainer › Supporter,,Trainer Gallery Ultra Rare,$5.91
+BRS,TG27,Rapid Strike Style Mustard,Trainer › Supporter,,Trainer Gallery Ultra Rare,$1.13
+BRS,TG28,Single Strike Style Mustard,Trainer › Supporter,,Trainer Gallery Ultra Rare,$1.04
+BRS,TG29,Single Strike Urshifu VMAX,Pkmn › VMAX,{F},Trainer Gallery Secret Rare,$2.62
+BRS,TG30,Rapid Strike Urshifu VMAX,Pkmn › VMAX,{F},Trainer Gallery Secret Rare,$2.4

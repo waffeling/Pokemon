@@ -1,0 +1,208 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+EW,001,Bulbasaur,Pkmn › Basic,{G},Common,$0.22
+MEW,002,Ivysaur,Pkmn › Stage 1,{G},Uncommon,$0.08
+MEW,003,Venusaur ex,Pkmn › Stage 2,{G},Double Rare,$1.58
+MEW,004,Charmander,Pkmn › Basic,{R},Common,$0.10
+MEW,005,Charmeleon,Pkmn › Stage 1,{R},Uncommon,$0.10
+MEW,006,Charizard ex,Pkmn › Stage 2,{R},Double Rare,$4.26
+MEW,007,Squirtle,Pkmn › Basic,{W},Common,$0.08
+MEW,008,Wartortle,Pkmn › Stage 1,{W},Uncommon,$0.09
+MEW,009,Blastoise ex,Pkmn › Stage 2,{W},Double Rare,$2.21
+MEW,010,Caterpie,Pkmn › Basic,{G},Common,$0.16
+MEW,011,Metapod,Pkmn › Stage 1,{G},Common,$0.14
+MEW,012,Butterfree,Pkmn › Stage 2,{G},Uncommon,$0.06
+MEW,013,Weedle,Pkmn › Basic,{G},Common,$0.08
+MEW,014,Kakuna,Pkmn › Stage 1,{G},Common,$0.13
+MEW,015,Beedrill,Pkmn › Stage 2,{G},Rare,$0.11
+MEW,016,Pidgey,Pkmn › Basic,{C},Common,$0.19
+MEW,017,Pidgeotto,Pkmn › Stage 1,{C},Common,$0.13
+MEW,018,Pidgeot,Pkmn › Stage 2,{C},Uncommon,$0.07
+MEW,019,Rattata,Pkmn › Basic,{C},Common,$0.04
+MEW,020,Raticate,Pkmn › Stage 1,{C},Uncommon,$0.06
+MEW,021,Spearow,Pkmn › Basic,{C},Common,$0.04
+MEW,022,Fearow,Pkmn › Stage 1,{C},Uncommon,$0.06
+MEW,023,Ekans,Pkmn › Basic,{D},Common,$0.17
+MEW,024,Arbok ex,Pkmn › Stage 1,{D},Double Rare,$1.36
+MEW,025,Pikachu,Pkmn › Basic,{L},Common,$0.08
+MEW,026,Raichu,Pkmn › Stage 1,{L},Rare,$0.11
+MEW,027,Sandshrew,Pkmn › Basic,{F},Common,$0.16
+MEW,028,Sandslash,Pkmn › Stage 1,{F},Uncommon,$0.06
+MEW,029,Nidoran Female,Pkmn › Basic,{D},Common,$0.13
+MEW,030,Nidorina,Pkmn › Stage 1,{D},Uncommon,$0.07
+MEW,031,Nidoqueen,Pkmn › Stage 2,{D},Uncommon,$0.06
+MEW,032,Nidoran Male,Pkmn › Basic,{D},Common,$0.14
+MEW,033,Nidorino,Pkmn › Stage 1,{D},Uncommon,$0.07
+MEW,034,Nidoking,Pkmn › Stage 2,{D},Rare,$0.15
+MEW,035,Clefairy,Pkmn › Basic,{P},Common,$0.04
+MEW,036,Clefable,Pkmn › Stage 1,{P},Uncommon,$0.07
+MEW,037,Vulpix,Pkmn › Basic,{R},Common,$0.04
+MEW,038,Ninetales ex,Pkmn › Stage 1,{R},Double Rare,$0.95
+MEW,039,Jigglypuff,Pkmn › Basic,{C},Common,$0.11
+MEW,040,Wigglytuff ex,Pkmn › Stage 1,{C},Double Rare,$0.71
+MEW,041,Zubat,Pkmn › Basic,{D},Common,$0.03
+MEW,042,Golbat,Pkmn › Stage 1,{D},Uncommon,$0.05
+MEW,043,Oddish,Pkmn › Basic,{G},Common,$0.16
+MEW,044,Gloom,Pkmn › Stage 1,{G},Uncommon,$0.08
+MEW,045,Vileplume,Pkmn › Stage 2,{G},Rare,$0.14
+MEW,046,Paras,Pkmn › Basic,{G},Common,$0.05
+MEW,047,Parasect,Pkmn › Stage 1,{G},Uncommon,$0.11
+MEW,048,Venonat,Pkmn › Basic,{G},Common,$0.05
+MEW,049,Venomoth,Pkmn › Stage 1,{G},Uncommon,$0.10
+MEW,050,Diglett,Pkmn › Basic,{F},Common,$0.13
+MEW,051,Dugtrio,Pkmn › Stage 1,{F},Uncommon,$0.07
+MEW,052,Meowth,Pkmn › Basic,{C},Common,$0.05
+MEW,053,Persian,Pkmn › Stage 1,{C},Uncommon,$0.06
+MEW,054,Psyduck,Pkmn › Basic,{W},Common,$0.18
+MEW,055,Golduck,Pkmn › Stage 1,{W},Uncommon,sold out
+MEW,056,Mankey,Pkmn › Basic,{F},Common,$0.04
+MEW,057,Primeape,Pkmn › Stage 1,{F},Uncommon,$0.04
+MEW,058,Growlithe,Pkmn › Basic,{R},Common,$0.17
+MEW,059,Arcanine,Pkmn › Stage 1,{R},Uncommon,$0.07
+MEW,060,Poliwag,Pkmn › Basic,{W},Common,$0.05
+MEW,061,Poliwhirl,Pkmn › Stage 1,{W},Common,$0.11
+MEW,062,Poliwrath,Pkmn › Stage 2,{W},Uncommon,$0.05
+MEW,063,Abra,Pkmn › Basic,{P},Common,$0.04
+MEW,064,Kadabra,Pkmn › Stage 1,{P},Uncommon,$0.06
+MEW,065,Alakazam ex,Pkmn › Stage 2,{P},Double Rare,$1.20
+MEW,066,Machop,Pkmn › Basic,{F},Common,$0.04
+MEW,067,Machoke,Pkmn › Stage 1,{F},Uncommon,$0.22
+MEW,068,Machamp,Pkmn › Stage 2,{F},Rare,$0.10
+MEW,069,Bellsprout,Pkmn › Basic,{G},Common,$0.05
+MEW,070,Weepinbell,Pkmn › Stage 1,{G},Common,$0.10
+MEW,071,Victreebel,Pkmn › Stage 2,{G},Uncommon,$0.06
+MEW,072,Tentacool,Pkmn › Basic,{W},Common,$0.03
+MEW,073,Tentacruel,Pkmn › Stage 1,{W},Uncommon,$0.04
+MEW,074,Geodude,Pkmn › Basic,{F},Common,$0.05
+MEW,075,Graveler,Pkmn › Stage 1,{F},Uncommon,$0.05
+MEW,076,Golem ex,Pkmn › Stage 2,{F},Double Rare,$0.74
+MEW,077,Ponyta,Pkmn › Basic,{R},Common,$0.04
+MEW,078,Rapidash,Pkmn › Stage 1,{R},Uncommon,$0.06
+MEW,079,Slowpoke,Pkmn › Basic,{P},Common,$0.05
+MEW,080,Slowbro,Pkmn › Stage 1,{P},Uncommon,$0.05
+MEW,081,Magnemite,Pkmn › Basic,{L},Common,$0.05
+MEW,082,Magneton,Pkmn › Stage 1,{L},Uncommon,$0.05
+MEW,083,Farfetch’d,Pkmn › Basic,{C},Common,$0.03
+MEW,084,Doduo,Pkmn › Basic,{C},Common,$0.05
+MEW,085,Dodrio,Pkmn › Stage 1,{C},Rare,$0.14
+MEW,086,Seel,Pkmn › Basic,{W},Common,$0.04
+MEW,087,Dewgong,Pkmn › Stage 1,{W},Uncommon,$0.08
+MEW,088,Grimer,Pkmn › Basic,{D},Common,$0.07
+MEW,089,Muk,Pkmn › Stage 1,{D},Uncommon,$0.05
+MEW,090,Shellder,Pkmn › Basic,{W},Common,$0.15
+MEW,091,Cloyster,Pkmn › Stage 1,{W},Uncommon,$0.07
+MEW,092,Gastly,Pkmn › Basic,{P},Common,$0.06
+MEW,093,Haunter,Pkmn › Stage 1,{P},Uncommon,$0.06
+MEW,094,Gengar,Pkmn › Stage 2,{P},Rare,$0.15
+MEW,095,Onix,Pkmn › Basic,{F},Uncommon,$0.05
+MEW,096,Drowzee,Pkmn › Basic,{P},Common,$0.04
+MEW,097,Hypno,Pkmn › Stage 1,{P},Uncommon,sold out
+MEW,098,Krabby,Pkmn › Basic,{W},Common,$0.04
+MEW,099,Kingler,Pkmn › Stage 1,{W},Uncommon,$0.06
+MEW,100,Voltorb,Pkmn › Basic,{L},Common,$0.04
+MEW,101,Electrode,Pkmn › Stage 1,{L},Rare,$0.11
+MEW,102,Exeggcute,Pkmn › Basic,{G},Common,$0.04
+MEW,103,Exeggutor,Pkmn › Stage 1,{G},Uncommon,$0.05
+MEW,104,Cubone,Pkmn › Basic,{F},Common,$0.08
+MEW,105,Marowak,Pkmn › Stage 1,{F},Rare,$0.13
+MEW,106,Hitmonlee,Pkmn › Basic,{F},Uncommon,$0.06
+MEW,107,Hitmonchan,Pkmn › Basic,{F},Uncommon,$0.07
+MEW,108,Lickitung,Pkmn › Basic,{C},Common,$0.04
+MEW,109,Koffing,Pkmn › Basic,{D},Common,$0.06
+MEW,110,Weezing,Pkmn › Stage 1,{D},Rare,$0.12
+MEW,111,Rhyhorn,Pkmn › Basic,{F},Common,$0.05
+MEW,112,Rhydon,Pkmn › Stage 1,{F},Uncommon,$0.05
+MEW,113,Chansey,Pkmn › Basic,{C},Rare,$0.13
+MEW,114,Tangela,Pkmn › Basic,{G},Common,$0.03
+MEW,115,Kangaskhan ex,Pkmn › Basic,{C},Double Rare,$0.85
+MEW,116,Horsea,Pkmn › Basic,{W},Common,$0.06
+MEW,117,Seadra,Pkmn › Stage 1,{W},Uncommon,$0.04
+MEW,118,Goldeen,Pkmn › Basic,{W},Common,$0.06
+MEW,119,Seaking,Pkmn › Stage 1,{W},Uncommon,$0.07
+MEW,120,Staryu,Pkmn › Basic,{W},Common,$0.04
+MEW,121,Starmie,Pkmn › Stage 1,{W},Rare,$0.12
+MEW,122,Mr. Mime,Pkmn › Basic,{P},Rare,$0.11
+MEW,123,Scyther,Pkmn › Basic,{G},Uncommon,$0.12
+MEW,124,Jynx ex,Pkmn › Basic,{W},Double Rare,$1.03
+MEW,125,Electabuzz,Pkmn › Basic,{L},Common,$0.05
+MEW,126,Magmar,Pkmn › Basic,{R},Common,$0.04
+MEW,127,Pinsir,Pkmn › Basic,{G},Uncommon,$0.08
+MEW,128,Tauros,Pkmn › Basic,{C},Uncommon,$0.05
+MEW,129,Magikarp,Pkmn › Basic,{W},Common,$0.14
+MEW,130,Gyarados,Pkmn › Stage 1,{W},Rare,$0.12
+MEW,131,Lapras,Pkmn › Basic,{W},Uncommon,$0.05
+MEW,132,Ditto,Pkmn › Basic,{C},Rare,$0.18
+MEW,133,Eevee,Pkmn › Basic,{C},Common,$0.07
+MEW,134,Vaporeon,Pkmn › Stage 1,{W},Rare,$0.18
+MEW,135,Jolteon,Pkmn › Stage 1,{L},Rare,$0.15
+MEW,136,Flareon,Pkmn › Stage 1,{R},Rare,$0.15
+MEW,137,Porygon,Pkmn › Basic,{C},Common,$0.04
+MEW,138,Omanyte,Pkmn › Stage 1,{W},Uncommon,$0.09
+MEW,139,Omastar,Pkmn › Stage 2,{W},Rare,$0.08
+MEW,140,Kabuto,Pkmn › Stage 1,{F},Uncommon,$0.11
+MEW,141,Kabutops,Pkmn › Stage 2,{F},Rare,$0.11
+MEW,142,Aerodactyl,Pkmn › Stage 1,{C},Rare,$0.14
+MEW,143,Snorlax,Pkmn › Basic,{C},Uncommon,$0.06
+MEW,144,Articuno,Pkmn › Basic,{W},Rare,$0.15
+MEW,145,Zapdos ex,Pkmn › Basic,{L},Double Rare,$1.28
+MEW,146,Moltres,Pkmn › Basic,{R},Rare,$0.14
+MEW,147,Dratini,Pkmn › Basic,{N},Common,$0.11
+MEW,148,Dragonair,Pkmn › Stage 1,{N},Uncommon,$0.09
+MEW,149,Dragonite,Pkmn › Stage 2,{N},Rare,$0.18
+MEW,150,Mewtwo,Pkmn › Basic,{P},Rare,$0.23
+MEW,151,Mew ex,Pkmn › Basic,{P},Double Rare,$4.55
+MEW,152,Antique Dome Fossil,Trainer › Item,,Common,$0.08
+MEW,153,Antique Helix Fossil,Trainer › Item,,Common,$0.11
+MEW,154,Antique Old Amber,Trainer › Item,,Common,$0.10
+MEW,155,Big Air Balloon,Trainer › Tool,,Uncommon,$0.07
+MEW,156,Bill’s Transfer,Trainer › Supporter,,Uncommon,$0.09
+MEW,157,Cycling Road,Trainer › Stadium,,Uncommon,$0.06
+MEW,158,Daisy’s Help,Trainer › Supporter,,Uncommon,$0.07
+MEW,159,Energy Sticker,Trainer › Item,,Uncommon,$0.20
+MEW,160,Erika’s Invitation,Trainer › Supporter,,Uncommon,$0.08
+MEW,161,Giovanni’s Charisma,Trainer › Supporter,,Uncommon,$0.11
+MEW,162,Grabber,Trainer › Item,,Uncommon,$0.25
+MEW,163,Leftovers,Trainer › Tool,,Uncommon,$0.09
+MEW,164,Protective Goggles,Trainer › Tool,,Uncommon,$0.13
+MEW,165,Rigid Band,Trainer › Tool,,Uncommon,$0.09
+MEW,166,Bulbasaur,Pkmn › Basic,{G},Illustration Rare,$26.21
+MEW,167,Ivysaur,Pkmn › Stage 1,{G},Illustration Rare,$19.73
+MEW,168,Charmander,Pkmn › Basic,{R},Illustration Rare,$28.04
+MEW,169,Charmeleon,Pkmn › Stage 1,{R},Illustration Rare,$20.83
+MEW,170,Squirtle,Pkmn › Basic,{W},Illustration Rare,$27.58
+MEW,171,Wartortle,Pkmn › Stage 1,{W},Illustration Rare,$22.01
+MEW,172,Caterpie,Pkmn › Basic,{G},Illustration Rare,$9.00
+MEW,173,Pikachu,Pkmn › Basic,{L},Illustration Rare,$18.67
+MEW,174,Nidoking,Pkmn › Stage 2,{D},Illustration Rare,$8.96
+MEW,175,Psyduck,Pkmn › Basic,{W},Illustration Rare,sold out
+MEW,176,Poliwhirl,Pkmn › Stage 1,{W},Illustration Rare,$10.75
+MEW,177,Machoke,Pkmn › Stage 1,{F},Illustration Rare,$6.79
+MEW,178,Tangela,Pkmn › Basic,{G},Illustration Rare,$5.58
+MEW,179,Mr. Mime,Pkmn › Basic,{P},Illustration Rare,$5.14
+MEW,180,Omanyte,Pkmn › Stage 1,{W},Illustration Rare,$6.56
+MEW,181,Dragonair,Pkmn › Stage 1,{N},Illustration Rare,$16.30
+MEW,182,Venusaur ex,Pkmn › Stage 2,{G},Ultra Rare,$17.20
+MEW,183,Charizard ex,Pkmn › Stage 2,{R},Ultra Rare,$38.15
+MEW,184,Blastoise ex,Pkmn › Stage 2,{W},Ultra Rare,$19.50
+MEW,185,Arbok ex,Pkmn › Stage 1,{D},Ultra Rare,$9.57
+MEW,186,Ninetales ex,Pkmn › Stage 1,{R},Ultra Rare,$15.95
+MEW,187,Wigglytuff ex,Pkmn › Stage 1,{C},Ultra Rare,$8.03
+MEW,188,Alakazam ex,Pkmn › Stage 2,{P},Ultra Rare,$12.29
+MEW,189,Golem ex,Pkmn › Stage 2,{F},Ultra Rare,$8.80
+MEW,190,Kangaskhan ex,Pkmn › Basic,{C},Ultra Rare,$10.11
+MEW,191,Jynx ex,Pkmn › Basic,{W},Ultra Rare,$8.66
+MEW,192,Zapdos ex,Pkmn › Basic,{L},Ultra Rare,$14.33
+MEW,193,Mew ex,Pkmn › Basic,{P},Ultra Rare,$20.68
+MEW,194,Bill’s Transfer,Trainer › Supporter,,Ultra Rare,$5.75
+MEW,195,Daisy’s Help,Trainer › Supporter,,Ultra Rare,$6.18
+MEW,196,Erika’s Invitation,Trainer › Supporter,,Ultra Rare,$11.26
+MEW,197,Giovanni’s Charisma,Trainer › Supporter,,Ultra Rare,$4.84
+MEW,198,Venusaur ex,Pkmn › Stage 2,{G},Special Illustration Rare,$41.00
+MEW,199,Charizard ex,Pkmn › Stage 2,{R},Special Illustration Rare,$111.24
+MEW,200,Blastoise ex,Pkmn › Stage 2,{W},Special Illustration Rare,$47.62
+MEW,201,Alakazam ex,Pkmn › Stage 2,{P},Special Illustration Rare,$28.95
+MEW,202,Zapdos ex,Pkmn › Basic,{L},Special Illustration Rare,$36.32
+MEW,203,Erika’s Invitation,Trainer › Supporter,,Special Illustration Rare,$19.82
+MEW,204,Giovanni’s Charisma,Trainer › Supporter,,Special Illustration Rare,$9.31
+MEW,205,Mew ex,Pkmn › Basic,{P},Hyper Rare,$7.05
+MEW,206,Switch,Trainer › Item,,Hyper Rare,$4.68
+MEW,207,Basic {P} Energy,Energy › Basic,,Hyper Rare,$4.0

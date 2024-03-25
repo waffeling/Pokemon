@@ -1,0 +1,259 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+VI,001,Pineco,Pkmn › Basic,{G},Common,sold out
+SVI,002,Heracross,Pkmn › Basic,{G},Uncommon,sold out
+SVI,003,Shroomish,Pkmn › Basic,{G},Common,sold out
+SVI,004,Breloom,Pkmn › Stage 1,{G},Uncommon,sold out
+SVI,005,Cacnea,Pkmn › Basic,{G},Common,sold out
+SVI,006,Cacturne,Pkmn › Stage 1,{G},Uncommon,sold out
+SVI,007,Tropius,Pkmn › Basic,{G},Common,sold out
+SVI,008,Scatterbug,Pkmn › Basic,{G},Common,sold out
+SVI,009,Spewpa,Pkmn › Stage 1,{G},Common,sold out
+SVI,010,Vivillon,Pkmn › Stage 2,{G},Uncommon,sold out
+SVI,011,Skiddo,Pkmn › Basic,{G},Common,sold out
+SVI,012,Gogoat,Pkmn › Stage 1,{G},Common,sold out
+SVI,013,Sprigatito,Pkmn › Basic,{G},Common,sold out
+SVI,014,Floragato,Pkmn › Stage 1,{G},Uncommon,sold out
+SVI,015,Meowscarada,Pkmn › Stage 2,{G},Rare,sold out
+SVI,016,Tarountula,Pkmn › Basic,{G},Common,sold out
+SVI,017,Tarountula,Pkmn › Basic,{G},Common,sold out
+SVI,018,Tarountula,Pkmn › Basic,{G},Common,sold out
+SVI,019,Spidops ex,Pkmn › Stage 1,{G},Double Rare,sold out
+SVI,020,Smoliv,Pkmn › Basic,{G},Common,sold out
+SVI,021,Smoliv,Pkmn › Basic,{G},Common,sold out
+SVI,022,Dolliv,Pkmn › Stage 1,{G},Common,sold out
+SVI,023,Arboliva,Pkmn › Stage 2,{G},Rare,sold out
+SVI,024,Toedscool,Pkmn › Basic,{G},Common,sold out
+SVI,025,Toedscool,Pkmn › Basic,{G},Common,sold out
+SVI,026,Toedscruel,Pkmn › Stage 1,{G},Uncommon,sold out
+SVI,027,Capsakid,Pkmn › Basic,{G},Common,sold out
+SVI,028,Capsakid,Pkmn › Basic,{G},Common,sold out
+SVI,029,Scovillain,Pkmn › Stage 1,{G},Uncommon,sold out
+SVI,030,Growlithe,Pkmn › Basic,{R},Common,sold out
+SVI,031,Growlithe,Pkmn › Basic,{R},Common,sold out
+SVI,032,Arcanine ex,Pkmn › Stage 1,{R},Double Rare,sold out
+SVI,033,Houndour,Pkmn › Basic,{R},Common,sold out
+SVI,034,Houndoom,Pkmn › Stage 1,{R},Common,sold out
+SVI,035,Torkoal,Pkmn › Basic,{R},Uncommon,sold out
+SVI,036,Fuecoco,Pkmn › Basic,{R},Common,sold out
+SVI,037,Crocalor,Pkmn › Stage 1,{R},Uncommon,sold out
+SVI,038,Skeledirge,Pkmn › Stage 2,{R},Rare,sold out
+SVI,039,Charcadet,Pkmn › Basic,{R},Common,sold out
+SVI,040,Charcadet,Pkmn › Basic,{R},Common,sold out
+SVI,041,Armarouge,Pkmn › Stage 1,{R},Rare,sold out
+SVI,042,Slowpoke,Pkmn › Basic,{W},Common,sold out
+SVI,043,Slowbro,Pkmn › Stage 1,{W},Rare,sold out
+SVI,044,Magikarp,Pkmn › Basic,{W},Common,sold out
+SVI,045,Gyarados ex,Pkmn › Stage 1,{W},Double Rare,sold out
+SVI,046,Buizel,Pkmn › Basic,{W},Common,sold out
+SVI,047,Floatzel,Pkmn › Stage 1,{W},Uncommon,sold out
+SVI,048,Alomomola,Pkmn › Basic,{W},Common,sold out
+SVI,049,Clauncher,Pkmn › Basic,{W},Common,sold out
+SVI,050,Clawitzer,Pkmn › Stage 1,{W},Common,sold out
+SVI,051,Bruxish,Pkmn › Basic,{W},Common,sold out
+SVI,052,Quaxly,Pkmn › Basic,{W},Common,sold out
+SVI,053,Quaxwell,Pkmn › Stage 1,{W},Uncommon,sold out
+SVI,054,Quaquaval,Pkmn › Stage 2,{W},Rare,sold out
+SVI,055,Wiglett,Pkmn › Basic,{W},Common,sold out
+SVI,056,Wiglett,Pkmn › Basic,{W},Common,sold out
+SVI,057,Wugtrio,Pkmn › Stage 1,{W},Uncommon,sold out
+SVI,058,Cetoddle,Pkmn › Basic,{W},Common,sold out
+SVI,059,Cetoddle,Pkmn › Basic,{W},Common,sold out
+SVI,060,Cetitan,Pkmn › Stage 1,{W},Uncommon,sold out
+SVI,061,Dondozo,Pkmn › Basic,{W},Rare,sold out
+SVI,062,Tatsugiri,Pkmn › Basic,{W},Uncommon,sold out
+SVI,063,Magnemite,Pkmn › Basic,{L},Common,sold out
+SVI,064,Magneton,Pkmn › Stage 1,{L},Common,sold out
+SVI,065,Magnezone ex,Pkmn › Stage 2,{L},Double Rare,sold out
+SVI,066,Mareep,Pkmn › Basic,{L},Common,sold out
+SVI,067,Flaaffy,Pkmn › Stage 1,{L},Uncommon,sold out
+SVI,068,Pachirisu,Pkmn › Basic,{L},Uncommon,sold out
+SVI,069,Rotom,Pkmn › Basic,{L},Common,sold out
+SVI,070,Rotom,Pkmn › Basic,{L},Common,sold out
+SVI,071,Toxel,Pkmn › Basic,{L},Common,sold out
+SVI,072,Toxtricity,Pkmn › Stage 1,{L},Uncommon,sold out
+SVI,073,Pawmi,Pkmn › Basic,{L},Common,sold out
+SVI,074,Pawmi,Pkmn › Basic,{L},Common,sold out
+SVI,075,Pawmo,Pkmn › Stage 1,{L},Common,sold out
+SVI,076,Pawmot,Pkmn › Stage 2,{L},Rare,sold out
+SVI,077,Wattrel,Pkmn › Basic,{L},Common,sold out
+SVI,078,Wattrel,Pkmn › Basic,{L},Common,sold out
+SVI,079,Kilowattrel,Pkmn › Stage 1,{L},Uncommon,sold out
+SVI,080,Miraidon,Pkmn › Basic,{L},Rare,sold out
+SVI,081,Miraidon ex,Pkmn › Basic,{L},Double Rare,sold out
+SVI,082,Drowzee,Pkmn › Basic,{P},Common,sold out
+SVI,083,Hypno,Pkmn › Stage 1,{P},Uncommon,sold out
+SVI,084,Ralts,Pkmn › Basic,{P},Common,sold out
+SVI,085,Kirlia,Pkmn › Stage 1,{P},Common,sold out
+SVI,086,Gardevoir ex,Pkmn › Stage 2,{P},Double Rare,sold out
+SVI,087,Shuppet,Pkmn › Basic,{P},Common,sold out
+SVI,088,Banette ex,Pkmn › Stage 1,{P},Double Rare,sold out
+SVI,089,Drifloon,Pkmn › Basic,{P},Common,sold out
+SVI,090,Drifblim,Pkmn › Stage 1,{P},Uncommon,sold out
+SVI,091,Flabébé,Pkmn › Basic,{P},Common,sold out
+SVI,092,Floette,Pkmn › Stage 1,{P},Common,sold out
+SVI,093,Florges,Pkmn › Stage 2,{P},Uncommon,sold out
+SVI,094,Dedenne,Pkmn › Basic,{P},Common,sold out
+SVI,095,Dedenne,Pkmn › Basic,{P},Common,sold out
+SVI,096,Klefki,Pkmn › Basic,{P},Rare,sold out
+SVI,097,Fidough,Pkmn › Basic,{P},Common,sold out
+SVI,098,Fidough,Pkmn › Basic,{P},Common,sold out
+SVI,099,Dachsbun,Pkmn › Stage 1,{P},Uncommon,sold out
+SVI,100,Flittle,Pkmn › Basic,{P},Common,sold out
+SVI,101,Flittle,Pkmn › Basic,{P},Common,sold out
+SVI,102,Flittle,Pkmn › Basic,{P},Common,sold out
+SVI,103,Espathra,Pkmn › Stage 1,{P},Uncommon,sold out
+SVI,104,Greavard,Pkmn › Basic,{P},Common,sold out
+SVI,105,Greavard,Pkmn › Basic,{P},Common,sold out
+SVI,106,Houndstone,Pkmn › Stage 1,{P},Rare,sold out
+SVI,107,Mankey,Pkmn › Basic,{F},Common,sold out
+SVI,108,Primeape,Pkmn › Stage 1,{F},Common,sold out
+SVI,109,Annihilape,Pkmn › Stage 2,{F},Rare,sold out
+SVI,110,Meditite,Pkmn › Basic,{F},Common,sold out
+SVI,111,Medicham,Pkmn › Stage 1,{F},Uncommon,sold out
+SVI,112,Riolu,Pkmn › Basic,{F},Common,sold out
+SVI,113,Riolu,Pkmn › Basic,{F},Common,sold out
+SVI,114,Lucario,Pkmn › Stage 1,{F},Uncommon,sold out
+SVI,115,Sandile,Pkmn › Basic,{F},Common,sold out
+SVI,116,Krokorok,Pkmn › Stage 1,{F},Common,sold out
+SVI,117,Krookodile,Pkmn › Stage 2,{F},Uncommon,sold out
+SVI,118,Hawlucha,Pkmn › Basic,{F},Rare,sold out
+SVI,119,Silicobra,Pkmn › Basic,{F},Common,sold out
+SVI,120,Sandaconda,Pkmn › Stage 1,{F},Uncommon,sold out
+SVI,121,Stonjourner,Pkmn › Basic,{F},Uncommon,sold out
+SVI,122,Klawf,Pkmn › Basic,{F},Rare,sold out
+SVI,123,Great Tusk ex,Pkmn › Basic,{F},Double Rare,sold out
+SVI,124,Koraidon,Pkmn › Basic,{F},Rare,sold out
+SVI,125,Koraidon ex,Pkmn › Basic,{F},Double Rare,sold out
+SVI,126,Grimer,Pkmn › Basic,{D},Common,sold out
+SVI,127,Muk,Pkmn › Stage 1,{D},Uncommon,sold out
+SVI,128,Seviper,Pkmn › Basic,{D},Common,sold out
+SVI,129,Spiritomb,Pkmn › Basic,{D},Uncommon,sold out
+SVI,130,Croagunk,Pkmn › Basic,{D},Common,sold out
+SVI,131,Toxicroak ex,Pkmn › Stage 1,{D},Double Rare,sold out
+SVI,132,Pawniard,Pkmn › Basic,{D},Common,sold out
+SVI,133,Bisharp,Pkmn › Stage 1,{D},Common,sold out
+SVI,134,Kingambit,Pkmn › Stage 2,{D},Rare,sold out
+SVI,135,Maschiff,Pkmn › Basic,{D},Common,sold out
+SVI,136,Maschiff,Pkmn › Basic,{D},Common,sold out
+SVI,137,Mabosstiff,Pkmn › Stage 1,{D},Uncommon,sold out
+SVI,138,Bombirdier,Pkmn › Basic,{D},Uncommon,sold out
+SVI,139,Forretress,Pkmn › Stage 1,{M},Uncommon,sold out
+SVI,140,Varoom,Pkmn › Basic,{M},Common,sold out
+SVI,141,Varoom,Pkmn › Basic,{M},Common,sold out
+SVI,142,Revavroom,Pkmn › Stage 1,{M},Rare,sold out
+SVI,143,Iron Treads ex,Pkmn › Basic,{M},Double Rare,sold out
+SVI,144,Chansey,Pkmn › Basic,{C},Common,sold out
+SVI,145,Blissey,Pkmn › Stage 1,{C},Uncommon,sold out
+SVI,146,Zangoose,Pkmn › Basic,{C},Common,sold out
+SVI,147,Zangoose,Pkmn › Basic,{C},Uncommon,sold out
+SVI,148,Starly,Pkmn › Basic,{C},Common,sold out
+SVI,149,Staravia,Pkmn › Stage 1,{C},Common,$0.10
+SVI,150,Staraptor,Pkmn › Stage 2,{C},Uncommon,$0.06
+SVI,151,Skwovet,Pkmn › Basic,{C},Common,$0.21
+SVI,152,Greedent,Pkmn › Stage 1,{C},Uncommon,$0.04
+SVI,153,Indeedee,Pkmn › Basic,{C},Rare,$0.08
+SVI,154,Lechonk,Pkmn › Basic,{C},Common,$0.05
+SVI,155,Lechonk,Pkmn › Basic,{C},Common,$0.05
+SVI,156,Lechonk,Pkmn › Basic,{C},Common,$0.04
+SVI,157,Oinkologne,Pkmn › Stage 1,{C},Uncommon,$0.06
+SVI,158,Oinkologne ex,Pkmn › Stage 1,{C},Double Rare,$0.42
+SVI,159,Tandemaus,Pkmn › Basic,{C},Common,$0.06
+SVI,160,Tandemaus,Pkmn › Basic,{C},Common,$0.06
+SVI,161,Maushold,Pkmn › Stage 1,{C},Uncommon,$0.06
+SVI,162,Squawkabilly,Pkmn › Basic,{C},Common,$0.05
+SVI,163,Cyclizar,Pkmn › Basic,{C},Uncommon,$0.05
+SVI,164,Cyclizar,Pkmn › Basic,{C},Rare,$0.19
+SVI,165,Flamigo,Pkmn › Basic,{C},Uncommon,$0.05
+SVI,166,Arven,Trainer › Supporter,,Uncommon,$0.41
+SVI,167,Beach Court,Trainer › Stadium,,Uncommon,$0.10
+SVI,168,Crushing Hammer,Trainer › Item,,Common,$0.07
+SVI,169,Defiance Band,Trainer › Tool,,Uncommon,$0.23
+SVI,170,Electric Generator,Trainer › Item,,Uncommon,$0.11
+SVI,171,Energy Retrieval,Trainer › Item,,Common,$0.14
+SVI,172,Energy Search,Trainer › Item,,Common,$0.12
+SVI,173,Energy Switch,Trainer › Item,,Common,$0.12
+SVI,174,Exp. Share,Trainer › Tool,,Uncommon,$0.08
+SVI,175,Jacq,Trainer › Supporter,,Uncommon,$0.11
+SVI,176,Judge,Trainer › Supporter,,Uncommon,$0.19
+SVI,177,Katy,Trainer › Supporter,,Uncommon,$0.03
+SVI,178,Mesagoza,Trainer › Stadium,,Uncommon,$0.09
+SVI,179,Miriam,Trainer › Supporter,,Uncommon,$0.10
+SVI,180,Nemona,Trainer › Supporter,,Common,$0.10
+SVI,181,Nest Ball,Trainer › Item,,Uncommon,$0.30
+SVI,182,Pal Pad,Trainer › Item,,Common,$0.17
+SVI,183,Penny,Trainer › Supporter,,Uncommon,$0.10
+SVI,184,Picnic Basket,Trainer › Item,,Uncommon,$0.04
+SVI,185,Poké Ball,Trainer › Item,,Common,$0.11
+SVI,186,Pokégear 3.0,Trainer › Item,,Common,$0.15
+SVI,187,Pokémon Catcher,Trainer › Item,,Common,$0.12
+SVI,188,Potion,Trainer › Item,,Common,$0.11
+SVI,189,Professor’s Research,Trainer › Supporter,,Rare,$0.14
+SVI,190,Professor’s Research,Trainer › Supporter,,Rare,$0.13
+SVI,191,Rare Candy,Trainer › Item,,Common,$0.12
+SVI,192,Rock Chestplate,Trainer › Tool,,Uncommon,$0.05
+SVI,193,Rocky Helmet,Trainer › Tool,,Uncommon,$0.05
+SVI,194,Switch,Trainer › Item,,Common,$0.19
+SVI,195,Team Star Grunt,Trainer › Supporter,,Uncommon,$0.16
+SVI,196,Ultra Ball,Trainer › Item,,Uncommon,$0.17
+SVI,197,Vitality Band,Trainer › Tool,,Uncommon,$0.28
+SVI,198,Youngster,Trainer › Supporter,,Uncommon,$0.07
+SVI,199,Tarountula,Pkmn › Basic,{G},Illustration Rare,$2.50
+SVI,200,Dolliv,Pkmn › Stage 1,{G},Illustration Rare,$1.84
+SVI,201,Toedscool,Pkmn › Basic,{G},Illustration Rare,$2.90
+SVI,202,Scovillain,Pkmn › Stage 1,{G},Illustration Rare,$2.92
+SVI,203,Armarouge,Pkmn › Stage 1,{R},Illustration Rare,$4.61
+SVI,204,Slowpoke,Pkmn › Basic,{W},Illustration Rare,$7.66
+SVI,205,Clauncher,Pkmn › Basic,{W},Illustration Rare,$1.92
+SVI,206,Wiglett,Pkmn › Basic,{W},Illustration Rare,$2.60
+SVI,207,Dondozo,Pkmn › Basic,{W},Illustration Rare,$2.94
+SVI,208,Pachirisu,Pkmn › Basic,{L},Illustration Rare,$3.08
+SVI,209,Pawmot,Pkmn › Stage 2,{L},Illustration Rare,$2.22
+SVI,210,Drowzee,Pkmn › Basic,{P},Illustration Rare,$5.66
+SVI,211,Ralts,Pkmn › Basic,{P},Illustration Rare,$10.63
+SVI,212,Kirlia,Pkmn › Stage 1,{P},Illustration Rare,$9.15
+SVI,213,Fidough,Pkmn › Basic,{P},Illustration Rare,$2.25
+SVI,214,Greavard,Pkmn › Basic,{P},Illustration Rare,$4.19
+SVI,215,Riolu,Pkmn › Basic,{F},Illustration Rare,$6.69
+SVI,216,Sandile,Pkmn › Basic,{F},Illustration Rare,$1.92
+SVI,217,Klawf,Pkmn › Basic,{F},Illustration Rare,$1.99
+SVI,218,Mabosstiff,Pkmn › Stage 1,{D},Illustration Rare,$1.88
+SVI,219,Bombirdier,Pkmn › Basic,{D},Illustration Rare,$1.94
+SVI,220,Kingambit,Pkmn › Stage 2,{D},Illustration Rare,$3.98
+SVI,221,Starly,Pkmn › Basic,{C},Illustration Rare,$2.70
+SVI,222,Skwovet,Pkmn › Basic,{C},Illustration Rare,$3.64
+SVI,223,Spidops ex,Pkmn › Stage 1,{G},Ultra Rare,$1.26
+SVI,224,Arcanine ex,Pkmn › Stage 1,{R},Ultra Rare,$5.21
+SVI,225,Gyarados ex,Pkmn › Stage 1,{W},Ultra Rare,$2.38
+SVI,226,Magnezone ex,Pkmn › Stage 2,{L},Ultra Rare,$1.17
+SVI,227,Miraidon ex,Pkmn › Basic,{L},Ultra Rare,$3.00
+SVI,228,Gardevoir ex,Pkmn › Stage 2,{P},Ultra Rare,$2.78
+SVI,229,Banette ex,Pkmn › Stage 1,{P},Ultra Rare,$1.99
+SVI,230,Great Tusk ex,Pkmn › Basic,{F},Ultra Rare,$1.13
+SVI,231,Koraidon ex,Pkmn › Basic,{F},Ultra Rare,$1.96
+SVI,232,Toxicroak ex,Pkmn › Stage 1,{D},Ultra Rare,$1.33
+SVI,233,Iron Treads ex,Pkmn › Basic,{M},Ultra Rare,$1.01
+SVI,234,Oinkologne ex,Pkmn › Stage 1,{C},Ultra Rare,$1.04
+SVI,235,Arven,Trainer › Supporter,,Ultra Rare,$9.92
+SVI,236,Jacq,Trainer › Supporter,,Ultra Rare,$2.12
+SVI,237,Katy,Trainer › Supporter,,Ultra Rare,$2.25
+SVI,238,Miriam,Trainer › Supporter,,Ultra Rare,$9.30
+SVI,239,Penny,Trainer › Supporter,,Ultra Rare,$4.37
+SVI,240,Professor’s Research,Trainer › Supporter,,Ultra Rare,$6.26
+SVI,241,Professor’s Research,Trainer › Supporter,,Ultra Rare,$3.51
+SVI,242,Team Star Grunt,Trainer › Supporter,,Ultra Rare,$1.40
+SVI,243,Spidops ex,Pkmn › Stage 1,{G},Special Illustration Rare,$3.06
+SVI,244,Miraidon ex,Pkmn › Basic,{L},Special Illustration Rare,$15.30
+SVI,245,Gardevoir ex,Pkmn › Stage 2,{P},Special Illustration Rare,$19.02
+SVI,246,Great Tusk ex,Pkmn › Basic,{F},Special Illustration Rare,$5.65
+SVI,247,Koraidon ex,Pkmn › Basic,{F},Special Illustration Rare,$10.46
+SVI,248,Iron Treads ex,Pkmn › Basic,{M},Special Illustration Rare,$2.15
+SVI,249,Arven,Trainer › Supporter,,Special Illustration Rare,$11.16
+SVI,250,Jacq,Trainer › Supporter,,Special Illustration Rare,$3.82
+SVI,251,Miriam,Trainer › Supporter,,Special Illustration Rare,$23.94
+SVI,252,Penny,Trainer › Supporter,,Special Illustration Rare,$4.87
+SVI,253,Miraidon ex,Pkmn › Basic,{L},Hyper Rare,$6.62
+SVI,254,Koraidon ex,Pkmn › Basic,{F},Hyper Rare,$5.09
+SVI,255,Nest Ball,Trainer › Item,,Hyper Rare,$14.23
+SVI,256,Rare Candy,Trainer › Item,,Hyper Rare,$11.58
+SVI,257,Basic {L} Energy,Energy › Basic,,Hyper Rare,$5.04
+SVI,258,Basic {F} Energy,Energy › Basic,,Hyper Rare,$3.6

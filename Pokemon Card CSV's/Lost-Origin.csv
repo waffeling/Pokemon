@@ -1,0 +1,248 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+OR,001,Oddish,Pkmn › Basic,{G},Common,$0.03
+LOR,002,Gloom,Pkmn › Stage 1,{G},Uncommon,$0.04
+LOR,003,Vileplume,Pkmn › Stage 2,{G},Rare Holo,$0.20
+LOR,004,Paras,Pkmn › Basic,{G},Common,$0.05
+LOR,005,Parasect,Pkmn › Stage 1,{G},Rare,$0.10
+LOR,006,Wurmple,Pkmn › Basic,{G},Common,$0.05
+LOR,007,Silcoon,Pkmn › Stage 1,{G},Uncommon,$0.07
+LOR,008,Beautifly,Pkmn › Stage 2,{G},Rare Holo,$0.20
+LOR,009,Cascoon,Pkmn › Stage 1,{G},Uncommon,$0.06
+LOR,010,Dustox,Pkmn › Stage 2,{G},Rare,$0.07
+LOR,011,Seedot,Pkmn › Basic,{G},Common,$0.07
+LOR,012,Nuzleaf,Pkmn › Stage 1,{G},Uncommon,$0.03
+LOR,013,Shiftry,Pkmn › Stage 2,{G},Rare Holo,$0.16
+LOR,014,Roselia,Pkmn › Basic,{G},Common,$0.05
+LOR,015,Roserade,Pkmn › Stage 1,{G},Uncommon,$0.04
+LOR,016,Phantump,Pkmn › Basic,{G},Common,$0.02
+LOR,017,Trevenant,Pkmn › Stage 1,{G},Rare Holo,$0.18
+LOR,018,Blipbug,Pkmn › Basic,{G},Common,$0.03
+LOR,019,Dottler,Pkmn › Stage 1,{G},Uncommon,$0.04
+LOR,020,Orbeetle,Pkmn › Stage 2,{G},Rare Holo,$0.16
+LOR,021,Slugma,Pkmn › Basic,{R},Common,$0.03
+LOR,022,Magcargo,Pkmn › Stage 1,{R},Rare,$0.08
+LOR,023,Torkoal,Pkmn › Basic,{R},Uncommon,$0.04
+LOR,024,Litwick,Pkmn › Basic,{R},Common,$0.04
+LOR,025,Lampent,Pkmn › Stage 1,{R},Uncommon,$0.02
+LOR,026,Chandelure,Pkmn › Stage 2,{R},Rare Holo,$0.17
+LOR,027,Delphox V,Pkmn › Basic,{R},Holo Rare V,$0.59
+LOR,028,Litleo,Pkmn › Basic,{R},Common,$0.03
+LOR,029,Pyroar,Pkmn › Stage 1,{R},Rare Holo,$0.16
+LOR,030,Poliwag,Pkmn › Basic,{W},Common,$0.03
+LOR,031,Poliwhirl,Pkmn › Stage 1,{W},Uncommon,$0.05
+LOR,032,Politoed,Pkmn › Stage 2,{W},Rare,$0.09
+LOR,033,Seel,Pkmn › Basic,{W},Common,$0.03
+LOR,034,Dewgong,Pkmn › Stage 1,{W},Rare,$0.08
+LOR,035,Horsea,Pkmn › Basic,{W},Common,$0.05
+LOR,036,Seadra,Pkmn › Stage 1,{W},Uncommon,$0.05
+LOR,037,Kingdra,Pkmn › Stage 2,{W},Rare Holo,$0.16
+LOR,038,Luvdisc,Pkmn › Basic,{W},Common,$0.03
+LOR,039,Shellos,Pkmn › Basic,{W},Common,$0.03
+LOR,040,Finneon,Pkmn › Basic,{W},Common,$0.06
+LOR,041,Lumineon,Pkmn › Stage 1,{W},Uncommon,$0.06
+LOR,042,Snover,Pkmn › Basic,{W},Common,$0.02
+LOR,043,Abomasnow,Pkmn › Stage 1,{W},Uncommon,$0.05
+LOR,044,Hisuian Basculin,Pkmn › Basic,{W},Common,$0.04
+LOR,045,Hisuian Basculegion,Pkmn › Stage 1,{W},Rare Holo,$0.35
+LOR,046,Ducklett,Pkmn › Basic,{W},Common,$0.04
+LOR,047,Swanna,Pkmn › Stage 1,{W},Uncommon,$0.07
+LOR,048,Kyurem V,Pkmn › Basic,{W},Holo Rare V,$0.49
+LOR,049,Kyurem VMAX,Pkmn › VMAX,{W},Holo Rare VMAX,$1.35
+LOR,050,Cramorant,Pkmn › Basic,{W},Rare,$0.26
+LOR,051,Glastrier,Pkmn › Basic,{W},Rare Holo,$0.21
+LOR,052,Pikachu,Pkmn › Basic,{L},Common,$0.11
+LOR,053,Raichu,Pkmn › Stage 1,{L},Rare,$0.10
+LOR,054,Electrike,Pkmn › Basic,{L},Common,$0.03
+LOR,055,Manectric,Pkmn › Stage 1,{L},Rare,$0.07
+LOR,056,Magnezone V,Pkmn › Basic,{L},Holo Rare V,$0.40
+LOR,057,Magnezone VSTAR,Pkmn › VSTAR,{L},Holo Rare VSTAR,$0.63
+LOR,058,Rotom V,Pkmn › Basic,{L},Holo Rare V,$0.95
+LOR,059,Tynamo,Pkmn › Basic,{L},Common,$0.03
+LOR,060,Eelektrik,Pkmn › Stage 1,{L},Uncommon,$0.05
+LOR,061,Eelektross,Pkmn › Stage 2,{L},Rare,$0.08
+LOR,062,Clefairy,Pkmn › Basic,{P},Common,$0.07
+LOR,063,Clefable,Pkmn › Stage 1,{P},Rare,$0.08
+LOR,064,Gastly,Pkmn › Basic,{P},Common,$0.06
+LOR,065,Haunter,Pkmn › Stage 1,{P},Uncommon,$0.05
+LOR,066,Gengar,Pkmn › Stage 2,{P},Rare Holo,$0.36
+LOR,067,Mr. Mime,Pkmn › Basic,{P},Rare,$0.10
+LOR,068,Jynx,Pkmn › Basic,{P},Common,$0.04
+LOR,069,Radiant Gardevoir,Pkmn › Basic,{P},Radiant Rare,$0.38
+LOR,070,Sableye,Pkmn › Basic,{P},Rare Holo,$1.91
+LOR,071,Mawile,Pkmn › Basic,{P},Common,$0.04
+LOR,072,Shuppet,Pkmn › Basic,{P},Common,$0.03
+LOR,073,Banette,Pkmn › Stage 1,{P},Rare,$0.10
+LOR,074,Cresselia,Pkmn › Basic,{P},Rare Holo,$0.56
+LOR,075,Hisuian Zorua,Pkmn › Basic,{P},Common,$0.07
+LOR,076,Hisuian Zoroark,Pkmn › Stage 1,{P},Rare Holo,$0.28
+LOR,077,Inkay,Pkmn › Basic,{P},Common,$0.02
+LOR,078,Malamar,Pkmn › Stage 1,{P},Rare,$0.07
+LOR,079,Comfey,Pkmn › Basic,{P},Rare,$0.47
+LOR,080,Mimikyu,Pkmn › Basic,{P},Rare,$0.08
+LOR,081,Spectrier,Pkmn › Basic,{P},Rare Holo,$0.17
+LOR,082,Enamorus V,Pkmn › Basic,{P},Holo Rare V,$0.49
+LOR,083,Hisuian Growlithe,Pkmn › Basic,{F},Common,$0.06
+LOR,084,Hisuian Arcanine,Pkmn › Stage 1,{F},Rare Holo,$0.17
+LOR,085,Poliwrath,Pkmn › Stage 2,{F},Rare,$0.10
+LOR,086,Machop,Pkmn › Basic,{F},Common,$0.05
+LOR,087,Machoke,Pkmn › Stage 1,{F},Uncommon,$0.03
+LOR,088,Machamp,Pkmn › Stage 2,{F},Rare Holo,$0.26
+LOR,089,Rhyhorn,Pkmn › Basic,{F},Common,$0.03
+LOR,090,Rhydon,Pkmn › Stage 1,{F},Uncommon,$0.04
+LOR,091,Rhyperior,Pkmn › Stage 2,{F},Rare,$0.09
+LOR,092,Aerodactyl V,Pkmn › Basic,{F},Holo Rare V,$0.59
+LOR,093,Aerodactyl VSTAR,Pkmn › VSTAR,{F},Holo Rare VSTAR,$0.70
+LOR,094,Sudowoodo,Pkmn › Basic,{F},Common,$0.03
+LOR,095,Gligar,Pkmn › Basic,{F},Common,$0.02
+LOR,096,Gliscor,Pkmn › Stage 1,{F},Rare,$0.07
+LOR,097,Makuhita,Pkmn › Basic,{F},Common,$0.03
+LOR,098,Hariyama,Pkmn › Stage 1,{F},Uncommon,$0.03
+LOR,099,Meditite,Pkmn › Basic,{F},Common,$0.03
+LOR,100,Medicham,Pkmn › Stage 1,{F},Uncommon,$0.03
+LOR,101,Relicanth,Pkmn › Basic,{F},Uncommon,$0.04
+LOR,102,Gastrodon,Pkmn › Stage 1,{F},Uncommon,$0.04
+LOR,103,Mienfoo,Pkmn › Basic,{F},Common,$0.03
+LOR,104,Mienshao,Pkmn › Stage 1,{F},Uncommon,$0.03
+LOR,105,Landorus,Pkmn › Basic,{F},Rare,$0.08
+LOR,106,Binacle,Pkmn › Basic,{F},Common,$0.04
+LOR,107,Barbaracle,Pkmn › Stage 1,{F},Rare Holo,$0.14
+LOR,108,Carbink,Pkmn › Basic,{F},Uncommon,$0.03
+LOR,109,Rockruff,Pkmn › Basic,{F},Common,$0.04
+LOR,110,Falinks,Pkmn › Basic,{F},Common,$0.04
+LOR,111,Stonjourner,Pkmn › Basic,{F},Rare,$0.07
+LOR,112,Spinarak,Pkmn › Basic,{D},Common,$0.02
+LOR,113,Ariados,Pkmn › Stage 1,{D},Rare,$0.08
+LOR,114,Murkrow,Pkmn › Basic,{D},Common,$0.03
+LOR,115,Honchkrow,Pkmn › Stage 1,{D},Rare,$0.06
+LOR,116,Seviper,Pkmn › Basic,{D},Uncommon,$0.05
+LOR,117,Spiritomb,Pkmn › Basic,{D},Rare,$0.08
+LOR,118,Drapion V,Pkmn › Basic,{D},Holo Rare V,$0.43
+LOR,119,Drapion VSTAR,Pkmn › VSTAR,{D},Holo Rare VSTAR,$0.67
+LOR,120,Darkrai,Pkmn › Basic,{D},Rare Holo,$0.19
+LOR,121,Inkay,Pkmn › Basic,{D},Common,$0.03
+LOR,122,Hoopa,Pkmn › Basic,{D},Rare,$0.11
+LOR,123,Radiant Hisuian Sneasler,Pkmn › Basic,{D},Radiant Rare,$0.39
+LOR,124,Radiant Steelix,Pkmn › Basic,{M},Radiant Rare,$0.35
+LOR,125,Bronzor,Pkmn › Basic,{M},Common,$0.02
+LOR,126,Bronzong,Pkmn › Stage 1,{M},Uncommon,$0.02
+LOR,127,Galarian Stunfisk,Pkmn › Basic,{M},Uncommon,$0.05
+LOR,128,Magearna,Pkmn › Basic,{M},Rare,$0.07
+LOR,129,Galarian Perrserker V,Pkmn › Basic,{M},Holo Rare V,$0.42
+LOR,130,Giratina V,Pkmn › Basic,{N},Holo Rare V,$2.67
+LOR,131,Giratina VSTAR,Pkmn › VSTAR,{N},Holo Rare VSTAR,$9.33
+LOR,132,Goomy,Pkmn › Basic,{N},Common,$0.04
+LOR,133,Hisuian Sliggoo,Pkmn › Stage 1,{N},Uncommon,$0.05
+LOR,134,Hisuian Goodra,Pkmn › Stage 2,{N},Rare Holo,$0.19
+LOR,135,Hisuian Goodra V,Pkmn › Basic,{N},Holo Rare V,$0.45
+LOR,136,Hisuian Goodra VSTAR,Pkmn › VSTAR,{N},Holo Rare VSTAR,$0.90
+LOR,137,Pidgeot V,Pkmn › Basic,{C},Holo Rare V,$0.73
+LOR,138,Lickitung,Pkmn › Basic,{C},Common,$0.04
+LOR,139,Lickilicky,Pkmn › Stage 1,{C},Uncommon,$0.05
+LOR,140,Porygon,Pkmn › Basic,{C},Common,$0.07
+LOR,141,Porygon2,Pkmn › Stage 1,{C},Uncommon,$0.04
+LOR,142,Porygon-Z,Pkmn › Stage 2,{C},Rare,$0.08
+LOR,143,Snorlax,Pkmn › Basic,{C},Rare Holo,$0.70
+LOR,144,Aipom,Pkmn › Basic,{C},Common,$0.04
+LOR,145,Ambipom,Pkmn › Stage 1,{C},Uncommon,$0.03
+LOR,146,Hisuian Zoroark V,Pkmn › Basic,{C},Holo Rare V,$0.52
+LOR,147,Hisuian Zoroark VSTAR,Pkmn › VSTAR,{C},Holo Rare VSTAR,$0.64
+LOR,148,Bouffalant,Pkmn › Basic,{C},Rare,$0.07
+LOR,149,Komala,Pkmn › Basic,{C},Uncommon,$0.04
+LOR,150,Skwovet,Pkmn › Basic,{C},Common,$0.02
+LOR,151,Greedent,Pkmn › Stage 1,{C},Rare,$0.07
+LOR,152,Arc Phone,Trainer › Item,,Uncommon,$0.05
+LOR,153,Arezu,Trainer › Supporter,,Uncommon,$0.07
+LOR,154,Box of Disaster,Trainer › Tool,,Uncommon,$0.05
+LOR,155,Colress’s Experiment,Trainer › Supporter,,Uncommon,$0.14
+LOR,156,Damage Pump,Trainer › Item,,Uncommon,$0.08
+LOR,157,Fantina,Trainer › Supporter,,Uncommon,$0.03
+LOR,158,Iscan,Trainer › Supporter,,Uncommon,$0.03
+LOR,159,Lady,Trainer › Supporter,,Uncommon,$0.12
+LOR,160,Lake Acuity,Trainer › Stadium,,Uncommon,$0.08
+LOR,161,Lost City,Trainer › Stadium,,Uncommon,$0.18
+LOR,162,Lost Vacuum,Trainer › Item,,Uncommon,$0.11
+LOR,163,Mirage Gate,Trainer › Item,,Uncommon,$0.13
+LOR,164,Miss Fortune Sisters,Trainer › Supporter,,Uncommon,$0.10
+LOR,165,Panic Mask,Trainer › Tool,,Uncommon,$0.08
+LOR,166,Riley,Trainer › Supporter,,Uncommon,$0.03
+LOR,167,Thorton,Trainer › Supporter,,Uncommon,$0.08
+LOR,168,Tool Box,Trainer › Item,,Uncommon,$0.08
+LOR,169,Volo,Trainer › Supporter,,Rare Holo,$0.17
+LOR,170,Windup Arm,Trainer › Tool,,Uncommon,$0.04
+LOR,171,Gift Energy,Energy › Special,,Uncommon,$0.13
+LOR,172,Hisuian Electrode V,Pkmn › Basic,{G},Ultra Rare,$3.63
+LOR,173,Delphox V,Pkmn › Basic,{R},Ultra Rare,$2.20
+LOR,174,Kyurem V,Pkmn › Basic,{W},Ultra Rare,$1.94
+LOR,175,Magnezone V,Pkmn › Basic,{L},Ultra Rare,$1.19
+LOR,176,Rotom V,Pkmn › Basic,{L},Ultra Rare,$3.29
+LOR,177,Rotom V,Pkmn › Basic,{L},Ultra Rare,$31.17
+LOR,178,Enamorus V,Pkmn › Basic,{P},Ultra Rare,$1.33
+LOR,179,Aerodactyl V,Pkmn › Basic,{F},Ultra Rare,$1.69
+LOR,180,Aerodactyl V,Pkmn › Basic,{F},Ultra Rare,$91.00
+LOR,181,Gallade V,Pkmn › Basic,{F},Ultra Rare,$1.50
+LOR,182,Drapion V,Pkmn › Basic,{D},Ultra Rare,$1.37
+LOR,183,Galarian Perrserker V,Pkmn › Basic,{M},Ultra Rare,$1.49
+LOR,184,Galarian Perrserker V,Pkmn › Basic,{M},Ultra Rare,$14.79
+LOR,185,Giratina V,Pkmn › Basic,{N},Ultra Rare,$10.51
+LOR,186,Giratina V,Pkmn › Basic,{N},Ultra Rare,$278.61
+LOR,187,Hisuian Goodra V,Pkmn › Basic,{N},Ultra Rare,$2.21
+LOR,188,Pidgeot V,Pkmn › Basic,{C},Ultra Rare,$2.47
+LOR,189,Arezu,Trainer › Supporter,,Ultra Rare,$3.80
+LOR,190,Colress’s Experiment,Trainer › Supporter,,Ultra Rare,$6.48
+LOR,191,Fantina,Trainer › Supporter,,Ultra Rare,$2.62
+LOR,192,Iscan,Trainer › Supporter,,Ultra Rare,$0.93
+LOR,193,Lady,Trainer › Supporter,,Ultra Rare,$4.41
+LOR,194,Miss Fortune Sisters,Trainer › Supporter,,Ultra Rare,$5.41
+LOR,195,Thorton,Trainer › Supporter,,Ultra Rare,$1.99
+LOR,196,Volo,Trainer › Supporter,,Ultra Rare,$1.82
+LOR,197,Kyurem VMAX,Pkmn › VMAX,{W},Rainbow Rare,$7.16
+LOR,198,Magnezone VSTAR,Pkmn › VSTAR,{L},Rainbow Rare,$5.67
+LOR,199,Aerodactyl VSTAR,Pkmn › VSTAR,{F},Rainbow Rare,$8.03
+LOR,200,Drapion VSTAR,Pkmn › VSTAR,{D},Rainbow Rare,$5.26
+LOR,201,Giratina VSTAR,Pkmn › VSTAR,{N},Rainbow Rare,$19.17
+LOR,202,Hisuian Goodra VSTAR,Pkmn › VSTAR,{N},Rainbow Rare,$6.76
+LOR,203,Hisuian Zoroark VSTAR,Pkmn › VSTAR,{C},Rainbow Rare,$5.96
+LOR,204,Arezu,Trainer › Supporter,,Rainbow Rare,$4.13
+LOR,205,Colress’s Experiment,Trainer › Supporter,,Rainbow Rare,$4.63
+LOR,206,Fantina,Trainer › Supporter,,Rainbow Rare,$3.10
+LOR,207,Iscan,Trainer › Supporter,,Rainbow Rare,$2.88
+LOR,208,Lady,Trainer › Supporter,,Rainbow Rare,$4.38
+LOR,209,Miss Fortune Sisters,Trainer › Supporter,,Rainbow Rare,$4.05
+LOR,210,Thorton,Trainer › Supporter,,Rainbow Rare,$3.14
+LOR,211,Volo,Trainer › Supporter,,Rainbow Rare,$3.60
+LOR,212,Giratina VSTAR,Pkmn › VSTAR,{N},Rare Secret,$15.04
+LOR,213,Hisuian Zoroark VSTAR,Pkmn › VSTAR,{C},Rare Secret,$4.69
+LOR,214,Box of Disaster,Trainer › Tool,,Rare Secret,$2.99
+LOR,215,Collapsed Stadium,Trainer › Stadium,,Rare Secret,$9.66
+LOR,216,Dark Patch,Trainer › Item,,Rare Secret,$8.39
+LOR,217,Lost Vacuum,Trainer › Item,,Rare Secret,$9.35
+LOR,TG01,Parasect,Pkmn › Stage 1,{G},Trainer Gallery Holo Rare,$0.56
+LOR,TG02,Roserade,Pkmn › Stage 1,{G},Trainer Gallery Holo Rare,$0.56
+LOR,TG03,Charizard,Pkmn › Stage 2,{R},Trainer Gallery Holo Rare,$3.19
+LOR,TG04,Chandelure,Pkmn › Stage 2,{R},Trainer Gallery Holo Rare,$0.69
+LOR,TG05,Pikachu,Pkmn › Basic,{L},Trainer Gallery Holo Rare,$3.35
+LOR,TG06,Gengar,Pkmn › Stage 2,{P},Trainer Gallery Holo Rare,$2.50
+LOR,TG07,Banette,Pkmn › Stage 1,{P},Trainer Gallery Holo Rare,$0.56
+LOR,TG08,Hisuian Arcanine,Pkmn › Stage 1,{F},Trainer Gallery Holo Rare,$0.63
+LOR,TG09,Spiritomb,Pkmn › Basic,{D},Trainer Gallery Holo Rare,$0.55
+LOR,TG10,Snorlax,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$2.31
+LOR,TG11,Castform,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$0.53
+LOR,TG12,Orbeetle V,Pkmn › Basic,{G},Trainer Gallery Holo Rare V,$1.93
+LOR,TG13,Orbeetle VMAX,Pkmn › VMAX,{G},Trainer Gallery Holo Rare V,$3.94
+LOR,TG14,Centiskorch V,Pkmn › Basic,{R},Trainer Gallery Holo Rare V,$1.74
+LOR,TG15,Centiskorch VMAX,Pkmn › VMAX,{R},Trainer Gallery Holo Rare V,$2.88
+LOR,TG16,Pikachu V,Pkmn › Basic,{L},Trainer Gallery Holo Rare V,$21.01
+LOR,TG17,Pikachu VMAX,Pkmn › VMAX,{L},Trainer Gallery Holo Rare V,$29.83
+LOR,TG18,Enamorus V,Pkmn › Basic,{P},Trainer Gallery Holo Rare V,$3.26
+LOR,TG19,Gallade V,Pkmn › Basic,{F},Trainer Gallery Holo Rare V,$3.13
+LOR,TG20,Crobat V,Pkmn › Basic,{D},Trainer Gallery Holo Rare V,$3.69
+LOR,TG21,Eternatus V,Pkmn › Basic,{D},Trainer Gallery Holo Rare V,$1.90
+LOR,TG22,Eternatus VMAX,Pkmn › VMAX,{D},Trainer Gallery Holo Rare V,$5.49
+LOR,TG23,Adventurer’s Discovery,Trainer › Supporter,,Trainer Gallery Ultra Rare,$2.89
+LOR,TG24,Boss’s Orders,Trainer › Supporter,,Trainer Gallery Ultra Rare,$5.44
+LOR,TG25,Cook,Trainer › Supporter,,Trainer Gallery Ultra Rare,$1.33
+LOR,TG26,Kabu,Trainer › Supporter,,Trainer Gallery Ultra Rare,$1.01
+LOR,TG27,Nessa,Trainer › Supporter,,Trainer Gallery Ultra Rare,$5.19
+LOR,TG28,Opal,Trainer › Supporter,,Trainer Gallery Ultra Rare,$1.11
+LOR,TG29,Pikachu VMAX,Pkmn › VMAX,{L},Trainer Gallery Secret Rare,$6.67
+LOR,TG30,Mew VMAX,Pkmn › VMAX,{P},Trainer Gallery Secret Rare,$6.9

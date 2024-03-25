@@ -1,0 +1,231 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+BF,001,Oddish,Pkmn › Basic,{G},Common,$0.10
+OBF,002,Gloom,Pkmn › Stage 1,{G},Common,$0.05
+OBF,003,Bellossom,Pkmn › Stage 2,{G},Uncommon,$0.09
+OBF,004,Scyther,Pkmn › Basic,{G},Common,$0.12
+OBF,005,Shuckle,Pkmn › Basic,{G},Common,$0.07
+OBF,006,Surskit,Pkmn › Basic,{G},Common,$0.06
+OBF,007,Masquerain,Pkmn › Stage 1,{G},Uncommon,$0.03
+OBF,008,Combee,Pkmn › Basic,{G},Common,$0.12
+OBF,009,Foongus,Pkmn › Basic,{G},Common,$0.05
+OBF,010,Amoonguss,Pkmn › Stage 1,{G},Uncommon,$0.06
+OBF,011,Phantump,Pkmn › Basic,{G},Common,$0.03
+OBF,012,Trevenant,Pkmn › Stage 1,{G},Uncommon,$0.05
+OBF,013,Rowlet,Pkmn › Basic,{G},Common,$0.08
+OBF,014,Dartrix,Pkmn › Stage 1,{G},Uncommon,$0.05
+OBF,015,Decidueye ex,Pkmn › Stage 2,{G},Double Rare,$1.35
+OBF,016,Bounsweet,Pkmn › Basic,{G},Common,$0.13
+OBF,017,Steenee,Pkmn › Stage 1,{G},Common,$0.06
+OBF,018,Tsareena,Pkmn › Stage 2,{G},Uncommon,$0.08
+OBF,019,Smoliv,Pkmn › Basic,{G},Common,$0.03
+OBF,020,Dolliv,Pkmn › Stage 1,{G},Common,$0.04
+OBF,021,Arboliva,Pkmn › Stage 2,{G},Uncommon,sold out
+OBF,022,Toedscruel ex,Pkmn › Stage 1,{G},Double Rare,$1.54
+OBF,023,Capsakid,Pkmn › Basic,{G},Common,$0.03
+OBF,024,Capsakid,Pkmn › Basic,{G},Common,$0.04
+OBF,025,Scovillain,Pkmn › Stage 1,{G},Rare,$0.10
+OBF,026,Charmander,Pkmn › Basic,{R},Common,$0.12
+OBF,027,Charmeleon,Pkmn › Stage 1,{R},Uncommon,$0.11
+OBF,028,Vulpix,Pkmn › Basic,{R},Common,$0.12
+OBF,029,Ninetales,Pkmn › Stage 1,{R},Uncommon,$0.06
+OBF,030,Entei,Pkmn › Basic,{R},Rare,$0.08
+OBF,031,Numel,Pkmn › Basic,{R},Common,$0.06
+OBF,032,Camerupt,Pkmn › Stage 1,{R},Uncommon,$0.04
+OBF,033,Victini ex,Pkmn › Basic,{R},Double Rare,$0.70
+OBF,034,Darumaka,Pkmn › Basic,{R},Common,$0.09
+OBF,035,Darmanitan,Pkmn › Stage 1,{R},Uncommon,$0.05
+OBF,036,Litwick,Pkmn › Basic,{R},Common,$0.03
+OBF,037,Lampent,Pkmn › Stage 1,{R},Common,$0.04
+OBF,038,Chandelure,Pkmn › Stage 2,{R},Uncommon,$0.08
+OBF,039,Heatmor,Pkmn › Basic,{R},Common,$0.04
+OBF,040,Larvesta,Pkmn › Basic,{R},Common,$0.04
+OBF,041,Volcarona,Pkmn › Stage 1,{R},Uncommon,$0.04
+OBF,042,Eiscue ex,Pkmn › Basic,{R},Double Rare,$0.92
+OBF,043,Charcadet,Pkmn › Basic,{R},Common,$0.03
+OBF,044,Armarouge,Pkmn › Stage 1,{R},Uncommon,$0.04
+OBF,045,Lapras,Pkmn › Basic,{W},Uncommon,$0.06
+OBF,046,Carvanha,Pkmn › Basic,{W},Common,$0.05
+OBF,047,Sharpedo,Pkmn › Stage 1,{W},Uncommon,$0.03
+OBF,048,Buizel,Pkmn › Basic,{W},Common,$0.03
+OBF,049,Floatzel,Pkmn › Stage 1,{W},Uncommon,$0.04
+OBF,050,Tympole,Pkmn › Basic,{W},Common,$0.09
+OBF,051,Palpitoad,Pkmn › Stage 1,{W},Common,$0.06
+OBF,052,Seismitoad,Pkmn › Stage 2,{W},Uncommon,$0.07
+OBF,053,Cubchoo,Pkmn › Basic,{W},Common,$0.08
+OBF,054,Beartic,Pkmn › Stage 1,{W},Uncommon,$0.15
+OBF,055,Cryogonal,Pkmn › Basic,{W},Common,$0.07
+OBF,056,Froakie,Pkmn › Basic,{W},Common,$0.05
+OBF,057,Frogadier,Pkmn › Stage 1,{W},Uncommon,$0.05
+OBF,058,Wiglett,Pkmn › Basic,{W},Common,$0.06
+OBF,059,Wugtrio,Pkmn › Stage 1,{W},Uncommon,$0.35
+OBF,060,Finizen,Pkmn › Basic,{W},Common,$0.09
+OBF,061,Finizen,Pkmn › Basic,{W},Common,$0.07
+OBF,062,Palafin,Pkmn › Stage 1,{W},Rare,$0.09
+OBF,063,Magnemite,Pkmn › Basic,{L},Common,$0.10
+OBF,064,Magneton,Pkmn › Stage 1,{L},Common,$0.05
+OBF,065,Magnezone,Pkmn › Stage 2,{L},Uncommon,$0.08
+OBF,066,Tyranitar ex,Pkmn › Stage 2,{L},Double Rare,$1.69
+OBF,067,Tynamo,Pkmn › Basic,{L},Common,$0.05
+OBF,068,Eelektrik,Pkmn › Stage 1,{L},Common,$0.04
+OBF,069,Eelektross,Pkmn › Stage 2,{L},Uncommon,$0.08
+OBF,070,Thundurus,Pkmn › Basic,{L},Rare,$0.18
+OBF,071,Toxel,Pkmn › Basic,{L},Common,$0.04
+OBF,072,Toxtricity,Pkmn › Stage 1,{L},Rare,$0.15
+OBF,073,Pawmot ex,Pkmn › Stage 2,{L},Double Rare,$1.12
+OBF,074,Tadbulb,Pkmn › Basic,{L},Common,$0.05
+OBF,075,Tadbulb,Pkmn › Basic,{L},Common,$0.04
+OBF,076,Tadbulb,Pkmn › Basic,{L},Common,$0.04
+OBF,077,Bellibolt,Pkmn › Stage 1,{L},Uncommon,$0.40
+OBF,078,Bellibolt,Pkmn › Stage 1,{L},Uncommon,$0.08
+OBF,079,Miraidon ex,Pkmn › Basic,{L},Double Rare,$1.26
+OBF,080,Cleffa,Pkmn › Basic,{P},Common,$0.07
+OBF,081,Clefairy,Pkmn › Basic,{P},Common,$0.05
+OBF,082,Clefable ex,Pkmn › Stage 1,{P},Double Rare,$1.19
+OBF,083,Togepi,Pkmn › Basic,{P},Common,$0.11
+OBF,084,Togetic,Pkmn › Stage 1,{P},Uncommon,$0.05
+OBF,085,Togekiss,Pkmn › Stage 2,{P},Rare,$0.06
+OBF,086,Espeon,Pkmn › Stage 1,{P},Uncommon,$0.12
+OBF,087,Snubbull,Pkmn › Basic,{P},Common,$0.10
+OBF,088,Granbull,Pkmn › Stage 1,{P},Uncommon,$0.05
+OBF,089,Mawile,Pkmn › Basic,{P},Common,$0.05
+OBF,090,Spoink,Pkmn › Basic,{P},Common,$0.04
+OBF,091,Grumpig,Pkmn › Stage 1,{P},Uncommon,$0.04
+OBF,092,Lunatone,Pkmn › Basic,{P},Uncommon,$0.04
+OBF,093,Solrock,Pkmn › Basic,{P},Uncommon,$0.03
+OBF,094,Baltoy,Pkmn › Basic,{P},Common,$0.08
+OBF,095,Claydol,Pkmn › Stage 1,{P},Rare,$0.16
+OBF,096,Vespiquen ex,Pkmn › Stage 1,{P},Double Rare,$1.12
+OBF,097,Sinistea,Pkmn › Basic,{P},Common,$0.05
+OBF,098,Polteageist,Pkmn › Stage 1,{P},Uncommon,$0.05
+OBF,099,Greavard,Pkmn › Basic,{P},Common,$0.05
+OBF,100,Greavard,Pkmn › Basic,{P},Common,$0.05
+OBF,101,Houndstone,Pkmn › Stage 1,{P},Uncommon,$0.03
+OBF,102,Houndstone ex,Pkmn › Stage 1,{P},Double Rare,$1.03
+OBF,103,Diglett,Pkmn › Basic,{F},Common,$0.05
+OBF,104,Dugtrio,Pkmn › Stage 1,{F},Uncommon,$0.04
+OBF,105,Larvitar,Pkmn › Basic,{F},Common,$0.04
+OBF,106,Pupitar,Pkmn › Stage 1,{F},Uncommon,$0.08
+OBF,107,Nosepass,Pkmn › Basic,{F},Common,sold out
+OBF,108,Barboach,Pkmn › Basic,{F},Common,$0.04
+OBF,109,Whiscash,Pkmn › Stage 1,{F},Uncommon,$0.04
+OBF,110,Bonsly,Pkmn › Basic,{F},Common,$0.04
+OBF,111,Drilbur,Pkmn › Basic,{F},Common,$0.08
+OBF,112,Stunfisk,Pkmn › Basic,{F},Uncommon,$0.05
+OBF,113,Diggersby,Pkmn › Stage 1,{F},Uncommon,$0.03
+OBF,114,Crabrawler,Pkmn › Basic,{F},Common,$0.08
+OBF,115,Crabominable,Pkmn › Stage 1,{F},Uncommon,$0.03
+OBF,116,Rockruff,Pkmn › Basic,{F},Common,$0.09
+OBF,117,Lycanroc,Pkmn › Stage 1,{F},Uncommon,$0.05
+OBF,118,Toedscool,Pkmn › Basic,{F},Common,$0.05
+OBF,119,Toedscruel,Pkmn › Stage 1,{F},Uncommon,$0.03
+OBF,120,Klawf ex,Pkmn › Basic,{F},Double Rare,$0.92
+OBF,121,Glimmet,Pkmn › Basic,{F},Common,$0.06
+OBF,122,Glimmet,Pkmn › Basic,{F},Common,$0.10
+OBF,123,Glimmora ex,Pkmn › Stage 1,{F},Double Rare,$1.24
+OBF,124,Koraidon ex,Pkmn › Basic,{F},Double Rare,$1.51
+OBF,125,Charizard ex,Pkmn › Stage 2,{D},Double Rare,$6.24
+OBF,126,Paldean Wooper,Pkmn › Basic,{D},Common,$0.03
+OBF,127,Paldean Wooper,Pkmn › Basic,{D},Common,$0.05
+OBF,128,Paldean Clodsire,Pkmn › Stage 1,{D},Uncommon,$0.07
+OBF,129,Paldean Clodsire,Pkmn › Stage 1,{D},Uncommon,$0.07
+OBF,130,Umbreon,Pkmn › Stage 1,{D},Uncommon,$0.15
+OBF,131,Houndour,Pkmn › Basic,{D},Common,$0.06
+OBF,132,Houndour,Pkmn › Basic,{D},Common,$0.06
+OBF,133,Houndoom,Pkmn › Stage 1,{D},Uncommon,$0.05
+OBF,134,Houndoom ex,Pkmn › Stage 1,{D},Double Rare,$1.24
+OBF,135,Absol ex,Pkmn › Basic,{D},Double Rare,$1.22
+OBF,136,Darkrai,Pkmn › Basic,{D},Rare,$0.08
+OBF,137,Inkay,Pkmn › Basic,{D},Common,$0.04
+OBF,138,Malamar,Pkmn › Stage 1,{D},Uncommon,$0.03
+OBF,139,Salandit,Pkmn › Basic,{D},Common,$0.08
+OBF,140,Salazzle,Pkmn › Stage 1,{D},Uncommon,$0.05
+OBF,141,Scizor,Pkmn › Stage 1,{M},Rare,$0.08
+OBF,142,Skarmory,Pkmn › Basic,{M},Uncommon,$0.04
+OBF,143,Mawile,Pkmn › Basic,{M},Uncommon,$0.08
+OBF,144,Bronzor,Pkmn › Basic,{M},Common,$0.06
+OBF,145,Bronzong,Pkmn › Stage 1,{M},Uncommon,$0.03
+OBF,146,Probopass,Pkmn › Stage 1,{M},Uncommon,$0.05
+OBF,147,Excadrill,Pkmn › Stage 1,{M},Uncommon,$0.03
+OBF,148,Pawniard,Pkmn › Basic,{M},Common,$0.04
+OBF,149,Bisharp,Pkmn › Stage 1,{M},Common,$0.06
+OBF,150,Kingambit,Pkmn › Stage 2,{M},Uncommon,$0.08
+OBF,151,Togedemaru,Pkmn › Basic,{M},Common,$0.03
+OBF,152,Meltan,Pkmn › Basic,{M},Common,$0.09
+OBF,153,Melmetal ex,Pkmn › Stage 1,{M},Double Rare,$1.50
+OBF,154,Varoom,Pkmn › Basic,{M},Common,$0.06
+OBF,155,Varoom,Pkmn › Basic,{M},Common,$0.06
+OBF,156,Revavroom ex,Pkmn › Stage 1,{M},Double Rare,$1.18
+OBF,157,Dratini,Pkmn › Basic,{N},Common,$0.05
+OBF,158,Dragonair,Pkmn › Stage 1,{N},Uncommon,sold out
+OBF,159,Dragonite ex,Pkmn › Stage 2,{N},Double Rare,$1.76
+OBF,160,Altaria,Pkmn › Stage 1,{N},Uncommon,$0.04
+OBF,161,Drampa,Pkmn › Basic,{N},Uncommon,$0.07
+OBF,162,Pidgey,Pkmn › Basic,{C},Common,$0.07
+OBF,163,Pidgeotto,Pkmn › Stage 1,{C},Uncommon,$0.06
+OBF,164,Pidgeot ex,Pkmn › Stage 2,{C},Double Rare,$7.44
+OBF,165,Kangaskhan,Pkmn › Basic,{C},Uncommon,$0.03
+OBF,166,Eevee,Pkmn › Basic,{C},Common,$0.08
+OBF,167,Zigzagoon,Pkmn › Basic,{C},Common,$0.03
+OBF,168,Linoone,Pkmn › Stage 1,{C},Uncommon,$0.05
+OBF,169,Swablu,Pkmn › Basic,{C},Common,$0.05
+OBF,170,Lillipup,Pkmn › Basic,{C},Common,$0.08
+OBF,171,Herdier,Pkmn › Stage 1,{C},Common,$0.07
+OBF,172,Stoutland,Pkmn › Stage 2,{C},Uncommon,$0.06
+OBF,173,Audino,Pkmn › Basic,{C},Common,$0.06
+OBF,174,Bouffalant,Pkmn › Basic,{C},Uncommon,$0.05
+OBF,175,Bunnelby,Pkmn › Basic,{C},Common,$0.04
+OBF,176,Yungoos,Pkmn › Basic,{C},Common,$0.05
+OBF,177,Gumshoos,Pkmn › Stage 1,{C},Uncommon,$0.03
+OBF,178,Skwovet,Pkmn › Basic,{C},Common,$0.07
+OBF,179,Greedent ex,Pkmn › Stage 1,{C},Double Rare,$1.10
+OBF,180,Lechonk,Pkmn › Basic,{C},Common,$0.04
+OBF,181,Lechonk,Pkmn › Basic,{C},Common,$0.05
+OBF,182,Lechonk,Pkmn › Basic,{C},Common,sold out
+OBF,183,Oinkologne,Pkmn › Stage 1,{C},Uncommon,$0.03
+OBF,184,Oinkologne,Pkmn › Stage 1,{C},Uncommon,$0.05
+OBF,185,Flamigo,Pkmn › Basic,{C},Uncommon,$0.03
+OBF,186,Arven,Trainer › Supporter,,Uncommon,$0.94
+OBF,187,Brassius,Trainer › Supporter,,Uncommon,$0.10
+OBF,188,Geeta,Trainer › Supporter,,Rare,$0.06
+OBF,189,Letter of Encouragement,Trainer › Item,,Uncommon,$0.12
+OBF,190,Ortega,Trainer › Supporter,,Uncommon,$0.06
+OBF,191,Patrol Cap,Trainer › Tool,,Uncommon,$0.07
+OBF,192,Pokémon League Headquarters,Trainer › Stadium,,Uncommon,$0.17
+OBF,193,Poppy,Trainer › Supporter,,Uncommon,$0.09
+OBF,194,Ryme,Trainer › Supporter,,Common,$0.07
+OBF,195,Team Star Grunt,Trainer › Supporter,,Uncommon,$0.05
+OBF,196,Town Store,Trainer › Stadium,,Common,$0.40
+OBF,197,Vengeful Punch,Trainer › Tool,,Uncommon,$0.18
+OBF,198,Gloom,Pkmn › Stage 1,{G},Illustration Rare,$3.21
+OBF,199,Ninetales,Pkmn › Stage 1,{R},Illustration Rare,$6.38
+OBF,200,Palafin,Pkmn › Stage 1,{W},Illustration Rare,$2.16
+OBF,201,Bellibolt,Pkmn › Stage 1,{L},Illustration Rare,$1.36
+OBF,202,Cleffa,Pkmn › Basic,{P},Illustration Rare,$4.96
+OBF,203,Larvitar,Pkmn › Basic,{F},Illustration Rare,$1.75
+OBF,204,Houndour,Pkmn › Basic,{D},Illustration Rare,$1.93
+OBF,205,Scizor,Pkmn › Stage 1,{M},Illustration Rare,$3.38
+OBF,206,Varoom,Pkmn › Basic,{M},Illustration Rare,$1.07
+OBF,207,Pidgey,Pkmn › Basic,{C},Illustration Rare,$3.01
+OBF,208,Pidgeotto,Pkmn › Stage 1,{C},Illustration Rare,$1.96
+OBF,209,Lechonk,Pkmn › Basic,{C},Illustration Rare,$1.83
+OBF,210,Eiscue ex,Pkmn › Basic,{R},Ultra Rare,$1.84
+OBF,211,Tyranitar ex,Pkmn › Stage 2,{L},Ultra Rare,$3.76
+OBF,212,Vespiquen ex,Pkmn › Stage 1,{P},Ultra Rare,$1.26
+OBF,213,Glimmora ex,Pkmn › Stage 1,{F},Ultra Rare,$1.36
+OBF,214,Absol ex,Pkmn › Basic,{D},Ultra Rare,$1.61
+OBF,215,Charizard ex,Pkmn › Stage 2,{D},Ultra Rare,$9.86
+OBF,216,Revavroom ex,Pkmn › Stage 1,{M},Ultra Rare,$1.17
+OBF,217,Pidgeot ex,Pkmn › Stage 2,{C},Ultra Rare,$5.88
+OBF,218,Geeta,Trainer › Supporter,,Ultra Rare,$1.69
+OBF,219,Ortega,Trainer › Supporter,,Ultra Rare,$0.99
+OBF,220,Poppy,Trainer › Supporter,,Ultra Rare,$1.06
+OBF,221,Ryme,Trainer › Supporter,,Ultra Rare,$1.42
+OBF,222,Eiscue ex,Pkmn › Basic,{R},Special Illustration Rare,$1.88
+OBF,223,Charizard ex,Pkmn › Stage 2,{D},Special Illustration Rare,$46.57
+OBF,224,Revavroom ex,Pkmn › Stage 1,{M},Special Illustration Rare,$2.67
+OBF,225,Pidgeot ex,Pkmn › Stage 2,{C},Special Illustration Rare,$9.46
+OBF,226,Geeta,Trainer › Supporter,,Special Illustration Rare,$2.57
+OBF,227,Poppy,Trainer › Supporter,,Special Illustration Rare,$1.77
+OBF,228,Charizard ex,Pkmn › Stage 2,{D},Hyper Rare,$18.54
+OBF,229,Artazon,Trainer › Stadium,,Hyper Rare,$3.57
+OBF,230,Basic {R} Energy,Energy › Basic,,Hyper Rare,$5.1

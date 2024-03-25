@@ -1,0 +1,234 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+RE,001,Weedle,Pkmn › Basic,{G},Common,$0.04
+CRE,002,Kakuna,Pkmn › Stage 1,{G},Uncommon,$0.12
+CRE,003,Beedrill,Pkmn › Stage 2,{G},Rare Holo,$0.19
+CRE,004,Ledyba,Pkmn › Basic,{G},Common,$0.05
+CRE,005,Ledian,Pkmn › Stage 1,{G},Uncommon,$0.07
+CRE,006,Heracross,Pkmn › Basic,{G},Common,$0.04
+CRE,007,Celebi V,Pkmn › Basic,{G},Holo Rare V,$0.61
+CRE,008,Celebi VMAX,Pkmn › VMAX,{G},Holo Rare VMAX,$1.70
+CRE,009,Snover,Pkmn › Basic,{G},Common,$0.02
+CRE,010,Abomasnow,Pkmn › Stage 1,{G},Rare,$0.06
+CRE,011,Deerling,Pkmn › Basic,{G},Common,$0.06
+CRE,012,Sawsbuck,Pkmn › Stage 1,{G},Rare,$0.09
+CRE,013,Bounsweet,Pkmn › Basic,{G},Common,$0.03
+CRE,014,Steenee,Pkmn › Stage 1,{G},Uncommon,$0.04
+CRE,015,Tsareena,Pkmn › Stage 2,{G},Rare,$0.06
+CRE,016,Grookey,Pkmn › Basic,{G},Common,$0.04
+CRE,017,Thwackey,Pkmn › Stage 1,{G},Uncommon,$0.03
+CRE,018,Rillaboom,Pkmn › Stage 2,{G},Rare Holo,$0.16
+CRE,019,Zarude,Pkmn › Basic,{G},Rare Holo,$0.20
+CRE,020,Blaziken V,Pkmn › Basic,{R},Holo Rare V,$0.69
+CRE,021,Blaziken VMAX,Pkmn › VMAX,{R},Holo Rare VMAX,$1.58
+CRE,022,Castform Sunny Form,Pkmn › Basic,{R},Common,$0.07
+CRE,023,Larvesta,Pkmn › Basic,{R},Common,$0.04
+CRE,024,Volcarona,Pkmn › Stage 1,{R},Rare,$0.04
+CRE,025,Volcanion V,Pkmn › Basic,{R},Holo Rare V,$0.62
+CRE,026,Scorbunny,Pkmn › Basic,{R},Common,$0.06
+CRE,027,Raboot,Pkmn › Stage 1,{R},Uncommon,$0.06
+CRE,028,Cinderace,Pkmn › Stage 2,{R},Rare Holo,$0.18
+CRE,029,Lapras,Pkmn › Basic,{W},Common,$0.04
+CRE,030,Sneasel,Pkmn › Basic,{W},Common,$0.02
+CRE,031,Weavile,Pkmn › Stage 1,{W},Rare Holo,$0.17
+CRE,032,Delibird,Pkmn › Basic,{W},Common,$0.03
+CRE,033,Castform Rainy Form,Pkmn › Basic,{W},Common,$0.08
+CRE,034,Castform Snowy Form,Pkmn › Basic,{W},Common,$0.06
+CRE,035,Snorunt,Pkmn › Basic,{W},Common,$0.10
+CRE,036,Froslass,Pkmn › Stage 1,{W},Rare Holo,$0.15
+CRE,037,Spheal,Pkmn › Basic,{W},Common,$0.05
+CRE,038,Sealeo,Pkmn › Stage 1,{W},Uncommon,$0.04
+CRE,039,Walrein,Pkmn › Stage 2,{W},Rare,$0.07
+CRE,040,Tapu Fini,Pkmn › Basic,{W},Rare Holo,$0.25
+CRE,041,Sobble,Pkmn › Basic,{W},Common,$0.04
+CRE,042,Drizzile,Pkmn › Stage 1,{W},Uncommon,$0.12
+CRE,043,Inteleon,Pkmn › Stage 2,{W},Rare Holo,$0.19
+CRE,044,Rapid Strike Urshifu,Pkmn › Stage 1,{W},Rare Holo,$0.18
+CRE,045,Ice Rider Calyrex V,Pkmn › Basic,{W},Holo Rare V,$0.47
+CRE,046,Ice Rider Calyrex VMAX,Pkmn › VMAX,{W},Holo Rare VMAX,$0.99
+CRE,047,Mareep,Pkmn › Basic,{L},Common,$0.04
+CRE,048,Flaaffy,Pkmn › Stage 1,{L},Uncommon,$0.04
+CRE,049,Ampharos,Pkmn › Stage 2,{L},Rare,$0.08
+CRE,050,Blitzle,Pkmn › Basic,{L},Common,$0.03
+CRE,051,Zebstrika,Pkmn › Stage 1,{L},Rare,$0.05
+CRE,052,Thundurus,Pkmn › Basic,{L},Rare Holo,$0.15
+CRE,053,Zeraora V,Pkmn › Basic,{L},Holo Rare V,$0.56
+CRE,054,Galarian Slowpoke,Pkmn › Basic,{P},Common,$0.05
+CRE,055,Gastly,Pkmn › Basic,{P},Common,$0.05
+CRE,056,Haunter,Pkmn › Stage 1,{P},Uncommon,$0.07
+CRE,057,Gengar,Pkmn › Stage 2,{P},Rare Holo,$0.42
+CRE,058,Galarian Articuno V,Pkmn › Basic,{P},Holo Rare V,$0.65
+CRE,059,Ralts,Pkmn › Basic,{P},Common,$0.04
+CRE,060,Kirlia,Pkmn › Stage 1,{P},Uncommon,$0.08
+CRE,061,Gardevoir,Pkmn › Stage 2,{P},Rare Holo,$1.92
+CRE,062,Shuppet,Pkmn › Basic,{P},Common,$0.03
+CRE,063,Banette,Pkmn › Stage 1,{P},Rare,$0.06
+CRE,064,Cresselia,Pkmn › Basic,{P},Rare Holo,$0.23
+CRE,065,Golett,Pkmn › Basic,{P},Common,$0.10
+CRE,066,Golurk,Pkmn › Stage 1,{P},Rare,$0.07
+CRE,067,Swirlix,Pkmn › Basic,{P},Common,$0.03
+CRE,068,Slurpuff,Pkmn › Stage 1,{P},Rare,$0.05
+CRE,069,Inkay,Pkmn › Basic,{P},Common,$0.09
+CRE,070,Malamar,Pkmn › Stage 1,{P},Rare,$0.05
+CRE,071,Hatenna,Pkmn › Basic,{P},Common,$0.04
+CRE,072,Hattrem,Pkmn › Stage 1,{P},Uncommon,$0.03
+CRE,073,Hatterene,Pkmn › Stage 2,{P},Rare Holo,$0.16
+CRE,074,Shadow Rider Calyrex V,Pkmn › Basic,{P},Holo Rare V,$0.72
+CRE,075,Shadow Rider Calyrex VMAX,Pkmn › VMAX,{P},Holo Rare VMAX,$1.12
+CRE,076,Diglett,Pkmn › Basic,{F},Common,$0.04
+CRE,077,Dugtrio,Pkmn › Stage 1,{F},Rare,$0.06
+CRE,078,Galarian Farfetch’d,Pkmn › Basic,{F},Common,$0.06
+CRE,079,Galarian Sirfetch’d,Pkmn › Stage 1,{F},Rare,$0.14
+CRE,080,Galarian Zapdos V,Pkmn › Basic,{F},Holo Rare V,$0.60
+CRE,081,Gallade,Pkmn › Stage 2,{F},Rare,$0.10
+CRE,082,Galarian Yamask,Pkmn › Basic,{F},Common,$0.03
+CRE,083,Galarian Runerigus,Pkmn › Stage 1,{F},Rare Holo,$0.19
+CRE,084,Crabrawler,Pkmn › Basic,{F},Common,$0.02
+CRE,085,Crabominable,Pkmn › Stage 1,{F},Uncommon,$0.03
+CRE,086,Rockruff,Pkmn › Basic,{F},Common,$0.03
+CRE,087,Lycanroc,Pkmn › Stage 1,{F},Rare Holo,$0.15
+CRE,088,Passimian,Pkmn › Basic,{F},Rare,$0.06
+CRE,089,Sandaconda V,Pkmn › Basic,{F},Holo Rare V,$0.55
+CRE,090,Sandaconda VMAX,Pkmn › VMAX,{F},Holo Rare VMAX,$1.48
+CRE,091,Clobbopus,Pkmn › Basic,{F},Common,$0.03
+CRE,092,Grapploct,Pkmn › Stage 1,{F},Rare Holo,$0.13
+CRE,093,Kubfu,Pkmn › Basic,{F},Common,$0.12
+CRE,094,Koffing,Pkmn › Basic,{D},Common,$0.10
+CRE,095,Weezing,Pkmn › Stage 1,{D},Rare,$0.09
+CRE,096,Galarian Weezing,Pkmn › Stage 1,{D},Rare,$0.10
+CRE,097,Galarian Moltres V,Pkmn › Basic,{D},Holo Rare V,$2.10
+CRE,098,Galarian Slowking,Pkmn › Stage 1,{D},Rare Holo,$0.20
+CRE,099,Galarian Slowking V,Pkmn › Basic,{D},Holo Rare V,$0.66
+CRE,100,Galarian Slowking VMAX,Pkmn › VMAX,{D},Holo Rare VMAX,$1.09
+CRE,101,Qwilfish,Pkmn › Basic,{D},Common,$0.04
+CRE,102,Seviper,Pkmn › Basic,{D},Rare,$0.07
+CRE,103,Spiritomb,Pkmn › Basic,{D},Rare,$0.06
+CRE,104,Liepard V,Pkmn › Basic,{D},Holo Rare V,$0.49
+CRE,105,Venipede,Pkmn › Basic,{D},Common,$0.04
+CRE,106,Whirlipede,Pkmn › Stage 1,{D},Uncommon,$0.03
+CRE,107,Scolipede,Pkmn › Stage 2,{D},Rare,$0.09
+CRE,108,Single Strike Urshifu,Pkmn › Stage 1,{D},Rare Holo,$0.19
+CRE,109,Aron,Pkmn › Basic,{M},Common,$0.03
+CRE,110,Lairon,Pkmn › Stage 1,{M},Uncommon,$0.10
+CRE,111,Aggron,Pkmn › Stage 2,{M},Rare,$0.07
+CRE,112,Metagross V,Pkmn › Basic,{M},Holo Rare V,$0.70
+CRE,113,Metagross VMAX,Pkmn › VMAX,{M},Holo Rare VMAX,$1.69
+CRE,114,Cobalion,Pkmn › Basic,{M},Rare Holo,$0.14
+CRE,115,Tauros,Pkmn › Basic,{C},Rare Holo,$0.17
+CRE,116,Porygon,Pkmn › Basic,{C},Common,$0.07
+CRE,117,Porygon2,Pkmn › Stage 1,{C},Uncommon,$0.04
+CRE,118,Porygon-Z,Pkmn › Stage 2,{C},Rare Holo,$0.17
+CRE,119,Blissey V,Pkmn › Basic,{C},Holo Rare V,$0.56
+CRE,120,Zangoose,Pkmn › Basic,{C},Rare,$0.06
+CRE,121,Castform,Pkmn › Basic,{C},Common,$0.05
+CRE,122,Kecleon,Pkmn › Basic,{C},Rare,$0.10
+CRE,123,Shaymin,Pkmn › Basic,{C},Rare Holo,$0.17
+CRE,124,Tornadus V,Pkmn › Basic,{C},Holo Rare V,$0.56
+CRE,125,Tornadus VMAX,Pkmn › VMAX,{C},Holo Rare VMAX,$1.05
+CRE,126,Furfrou,Pkmn › Basic,{C},Common,$0.05
+CRE,127,Skwovet,Pkmn › Basic,{C},Common,$0.03
+CRE,128,Greedent,Pkmn › Stage 1,{C},Rare Holo,$0.19
+CRE,129,Agatha,Trainer › Supporter,,Uncommon,$0.08
+CRE,130,Avery,Trainer › Supporter,,Uncommon,$0.23
+CRE,131,Brawly,Trainer › Supporter,,Uncommon,$0.08
+CRE,132,Caitlin,Trainer › Supporter,,Uncommon,$0.05
+CRE,133,Crushing Gloves,Trainer › Tool,,Uncommon,$0.08
+CRE,134,Doctor,Trainer › Supporter,,Uncommon,$0.12
+CRE,135,Dyna Tree Hill,Trainer › Stadium,,Uncommon,$0.04
+CRE,136,Echoing Horn,Trainer › Item,,Uncommon,$0.05
+CRE,137,Expedition Uniform,Trainer › Item,,Uncommon,$0.05
+CRE,138,Fire-Resistant Gloves,Trainer › Tool,,Uncommon,$0.04
+CRE,139,Flannery,Trainer › Supporter,,Uncommon,$0.04
+CRE,140,Fog Crystal,Trainer › Item,,Uncommon,$0.14
+CRE,141,Galarian Chestplate,Trainer › Tool,,Uncommon,$0.04
+CRE,142,Honey,Trainer › Supporter,,Uncommon,$0.03
+CRE,143,Justified Gloves,Trainer › Tool,,Uncommon,$0.07
+CRE,144,Karen’s Conviction,Trainer › Supporter,,Uncommon,$0.06
+CRE,145,Klara,Trainer › Supporter,,Uncommon,$0.15
+CRE,146,Melony,Trainer › Supporter,,Uncommon,$0.09
+CRE,147,Old Cemetery,Trainer › Stadium,,Uncommon,$0.06
+CRE,148,Path to the Peak,Trainer › Stadium,,Uncommon,$0.24
+CRE,149,Peonia,Trainer › Supporter,,Uncommon,$0.11
+CRE,150,Peony,Trainer › Supporter,,Uncommon,$0.12
+CRE,151,Rapid Strike Scroll of the Skies,Trainer › Tool,,Uncommon,$0.02
+CRE,152,Rugged Helmet,Trainer › Tool,,Uncommon,$0.04
+CRE,153,Siebold,Trainer › Supporter,,Uncommon,$0.03
+CRE,154,Single Strike Scroll of Piercing,Trainer › Tool,,Uncommon,$0.05
+CRE,155,Weeding Gloves,Trainer › Tool,,Uncommon,$0.05
+CRE,156,Welcoming Lantern,Trainer › Item,,Uncommon,$0.04
+CRE,157,Impact Energy,Energy › Special,,Uncommon,$0.05
+CRE,158,Lucky Energy,Energy › Special,,Uncommon,$0.07
+CRE,159,Spiral Energy,Energy › Special,,Uncommon,$0.06
+CRE,160,Celebi V,Pkmn › Basic,{G},Ultra Rare,$3.60
+CRE,161,Blaziken V,Pkmn › Basic,{R},Ultra Rare,$3.78
+CRE,162,Volcanion V,Pkmn › Basic,{R},Ultra Rare,$1.86
+CRE,163,Ice Rider Calyrex V,Pkmn › Basic,{W},Ultra Rare,$3.14
+CRE,164,Ice Rider Calyrex V,Pkmn › Basic,{W},Ultra Rare,$13.60
+CRE,165,Zeraora V,Pkmn › Basic,{L},Ultra Rare,$5.16
+CRE,166,Zeraora V,Pkmn › Basic,{L},Ultra Rare,$41.96
+CRE,167,Galarian Rapidash V,Pkmn › Basic,{P},Ultra Rare,$6.78
+CRE,168,Galarian Rapidash V,Pkmn › Basic,{P},Ultra Rare,$38.35
+CRE,169,Galarian Articuno V,Pkmn › Basic,{P},Ultra Rare,$5.19
+CRE,170,Galarian Articuno V,Pkmn › Basic,{P},Ultra Rare,$39.79
+CRE,171,Shadow Rider Calyrex V,Pkmn › Basic,{P},Ultra Rare,$3.45
+CRE,172,Shadow Rider Calyrex V,Pkmn › Basic,{P},Ultra Rare,$18.12
+CRE,173,Galarian Zapdos V,Pkmn › Basic,{F},Ultra Rare,$6.28
+CRE,174,Galarian Zapdos V,Pkmn › Basic,{F},Ultra Rare,$42.49
+CRE,175,Sandaconda V,Pkmn › Basic,{F},Ultra Rare,$1.66
+CRE,176,Galarian Moltres V,Pkmn › Basic,{D},Ultra Rare,$10.27
+CRE,177,Galarian Moltres V,Pkmn › Basic,{D},Ultra Rare,$123.38
+CRE,178,Galarian Slowking V,Pkmn › Basic,{D},Ultra Rare,$4.05
+CRE,179,Galarian Slowking V,Pkmn › Basic,{D},Ultra Rare,$26.57
+CRE,180,Liepard V,Pkmn › Basic,{D},Ultra Rare,$1.53
+CRE,181,Metagross V,Pkmn › Basic,{M},Ultra Rare,$2.57
+CRE,182,Blissey V,Pkmn › Basic,{C},Ultra Rare,$3.37
+CRE,183,Blissey V,Pkmn › Basic,{C},Ultra Rare,$15.88
+CRE,184,Tornadus V,Pkmn › Basic,{C},Ultra Rare,$2.78
+CRE,185,Tornadus V,Pkmn › Basic,{C},Ultra Rare,$20.25
+CRE,186,Agatha,Trainer › Supporter,,Ultra Rare,$4.24
+CRE,187,Avery,Trainer › Supporter,,Ultra Rare,$6.10
+CRE,188,Brawly,Trainer › Supporter,,Ultra Rare,$1.47
+CRE,189,Caitlin,Trainer › Supporter,,Ultra Rare,$24.40
+CRE,190,Doctor,Trainer › Supporter,,Ultra Rare,$6.30
+CRE,191,Flannery,Trainer › Supporter,,Ultra Rare,$17.01
+CRE,192,Honey,Trainer › Supporter,,Ultra Rare,$6.00
+CRE,193,Karen’s Conviction,Trainer › Supporter,,Ultra Rare,$10.73
+CRE,194,Klara,Trainer › Supporter,,Ultra Rare,$19.92
+CRE,195,Melony,Trainer › Supporter,,Ultra Rare,$4.13
+CRE,196,Peonia,Trainer › Supporter,,Ultra Rare,$11.18
+CRE,197,Peony,Trainer › Supporter,,Ultra Rare,$7.32
+CRE,198,Siebold,Trainer › Supporter,,Ultra Rare,$2.54
+CRE,199,Celebi VMAX,Pkmn › VMAX,{G},Rainbow Rare,$8.61
+CRE,200,Blaziken VMAX,Pkmn › VMAX,{R},Rainbow Rare,$13.94
+CRE,201,Blaziken VMAX,Pkmn › VMAX,{R},Rainbow Rare,$184.09
+CRE,202,Ice Rider Calyrex VMAX,Pkmn › VMAX,{W},Rainbow Rare,$7.73
+CRE,203,Ice Rider Calyrex VMAX,Pkmn › VMAX,{W},Rainbow Rare,$37.95
+CRE,204,Shadow Rider Calyrex VMAX,Pkmn › VMAX,{P},Rainbow Rare,$7.21
+CRE,205,Shadow Rider Calyrex VMAX,Pkmn › VMAX,{P},Rainbow Rare,$48.95
+CRE,206,Sandaconda VMAX,Pkmn › VMAX,{F},Rainbow Rare,$6.76
+CRE,207,Galarian Slowking VMAX,Pkmn › VMAX,{D},Rainbow Rare,$6.75
+CRE,208,Metagross VMAX,Pkmn › VMAX,{M},Rainbow Rare,$8.77
+CRE,209,Tornadus VMAX,Pkmn › VMAX,{C},Rainbow Rare,$6.99
+CRE,210,Agatha,Trainer › Supporter,,Rainbow Rare,$4.59
+CRE,211,Avery,Trainer › Supporter,,Rainbow Rare,$10.23
+CRE,212,Brawly,Trainer › Supporter,,Rainbow Rare,$4.63
+CRE,213,Caitlin,Trainer › Supporter,,Rainbow Rare,$7.37
+CRE,214,Doctor,Trainer › Supporter,,Rainbow Rare,$5.63
+CRE,215,Flannery,Trainer › Supporter,,Rainbow Rare,$4.80
+CRE,216,Karen’s Conviction,Trainer › Supporter,,Rainbow Rare,$4.48
+CRE,217,Klara,Trainer › Supporter,,Rainbow Rare,$6.66
+CRE,218,Melony,Trainer › Supporter,,Rainbow Rare,$7.45
+CRE,219,Peonia,Trainer › Supporter,,Rainbow Rare,$6.82
+CRE,220,Peony,Trainer › Supporter,,Rainbow Rare,$6.17
+CRE,221,Siebold,Trainer › Supporter,,Rainbow Rare,$4.29
+CRE,222,Electrode,Pkmn › Stage 1,{L},Rare Secret,$9.00
+CRE,223,Bronzong,Pkmn › Stage 1,{M},Rare Secret,$5.05
+CRE,224,Snorlax,Pkmn › Basic,{C},Rare Secret,$65.29
+CRE,225,Echoing Horn,Trainer › Item,,Rare Secret,$3.62
+CRE,226,Fan of Waves,Trainer › Item,,Rare Secret,$2.43
+CRE,227,Fog Crystal,Trainer › Item,,Rare Secret,$6.22
+CRE,228,Rugged Helmet,Trainer › Tool,,Rare Secret,$2.62
+CRE,229,Urn of Vitality,Trainer › Item,,Rare Secret,$2.23
+CRE,230,Welcoming Lantern,Trainer › Item,,Rare Secret,$2.77
+CRE,231,Water Energy,Energy › Basic,,Rare Secret,$15.04
+CRE,232,Psychic Energy,Energy › Basic,,Rare Secret,$10.95
+CRE,233,Fighting Energy,Energy › Basic,,Rare Secret,$7.2

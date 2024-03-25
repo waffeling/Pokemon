@@ -1,0 +1,285 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+ST,001,Caterpie,Pkmn › Basic,{G},Common,$0.05
+FST,002,Metapod,Pkmn › Stage 1,{G},Uncommon,$0.06
+FST,003,Butterfree,Pkmn › Stage 2,{G},Rare Holo,$0.20
+FST,004,Shroomish,Pkmn › Basic,{G},Common,$0.04
+FST,005,Breloom,Pkmn › Stage 1,{G},Uncommon,$0.04
+FST,006,Breloom V,Pkmn › Basic,{G},Holo Rare V,$0.44
+FST,007,Pansage,Pkmn › Basic,{G},Common,$0.03
+FST,008,Simisage,Pkmn › Stage 1,{G},Uncommon,$0.04
+FST,009,Sewaddle,Pkmn › Basic,{G},Common,$0.05
+FST,010,Swadloon,Pkmn › Stage 1,{G},Uncommon,$0.07
+FST,011,Leavanny,Pkmn › Stage 2,{G},Rare,$0.13
+FST,012,Maractus,Pkmn › Basic,{G},Rare,$0.07
+FST,013,Shelmet,Pkmn › Basic,{G},Common,$0.04
+FST,014,Accelgor,Pkmn › Stage 1,{G},Rare,$0.07
+FST,015,Virizion,Pkmn › Basic,{G},Rare,$0.09
+FST,016,Phantump,Pkmn › Basic,{G},Common,$0.03
+FST,017,Trevenant,Pkmn › Stage 1,{G},Uncommon,$0.05
+FST,018,Grubbin,Pkmn › Basic,{G},Common,$0.04
+FST,019,Dewpider,Pkmn › Basic,{G},Common,$0.04
+FST,020,Araquanid,Pkmn › Stage 1,{G},Rare,$0.12
+FST,021,Tsareena V,Pkmn › Basic,{G},Holo Rare V,$0.51
+FST,022,Rillaboom V,Pkmn › Basic,{G},Holo Rare V,$0.48
+FST,023,Rillaboom VMAX,Pkmn › VMAX,{G},Holo Rare VMAX,$1.18
+FST,024,Gossifleur,Pkmn › Basic,{G},Common,$0.03
+FST,025,Eldegoss,Pkmn › Stage 1,{G},Uncommon,$0.03
+FST,026,Appletun V,Pkmn › Basic,{G},Holo Rare V,$0.49
+FST,027,Zarude,Pkmn › Basic,{G},Uncommon,$0.04
+FST,028,Vulpix,Pkmn › Basic,{R},Common,$0.06
+FST,029,Vulpix,Pkmn › Basic,{R},Common,$0.06
+FST,030,Ninetales,Pkmn › Stage 1,{R},Uncommon,$0.08
+FST,031,Ninetales,Pkmn › Stage 1,{R},Uncommon,$0.13
+FST,032,Growlithe,Pkmn › Basic,{R},Common,$0.05
+FST,033,Arcanine,Pkmn › Stage 1,{R},Rare,$0.12
+FST,034,Slugma,Pkmn › Basic,{R},Common,$0.08
+FST,035,Magcargo,Pkmn › Stage 1,{R},Uncommon,$0.03
+FST,036,Victini,Pkmn › Basic,{R},Uncommon,$0.04
+FST,037,Pansear,Pkmn › Basic,{R},Common,$0.02
+FST,038,Simisear,Pkmn › Stage 1,{R},Uncommon,$0.03
+FST,039,Chandelure V,Pkmn › Basic,{R},Holo Rare V,$0.39
+FST,040,Chandelure VMAX,Pkmn › VMAX,{R},Holo Rare VMAX,$1.14
+FST,041,Heatmor,Pkmn › Basic,{R},Uncommon,$0.07
+FST,042,Oricorio,Pkmn › Basic,{R},Rare,$0.08
+FST,043,Cinderace V,Pkmn › Basic,{R},Holo Rare V,$0.42
+FST,044,Cinderace V,Pkmn › Basic,{R},Holo Rare V,$0.44
+FST,045,Cinderace VMAX,Pkmn › VMAX,{R},Holo Rare VMAX,$1.61
+FST,046,Sizzlipede,Pkmn › Basic,{R},Common,$0.03
+FST,047,Sizzlipede,Pkmn › Basic,{R},Common,$0.03
+FST,048,Centiskorch,Pkmn › Stage 1,{R},Rare,$0.06
+FST,049,Centiskorch,Pkmn › Stage 1,{R},Uncommon,$0.05
+FST,050,Shellder,Pkmn › Basic,{W},Common,$0.04
+FST,051,Cloyster,Pkmn › Stage 1,{W},Rare,$0.13
+FST,052,Staryu,Pkmn › Basic,{W},Common,$0.08
+FST,053,Starmie,Pkmn › Stage 1,{W},Rare Holo,$0.25
+FST,054,Lapras,Pkmn › Basic,{W},Uncommon,$0.07
+FST,055,Totodile,Pkmn › Basic,{W},Common,$0.06
+FST,056,Croconaw,Pkmn › Stage 1,{W},Uncommon,$0.07
+FST,057,Feraligatr,Pkmn › Stage 2,{W},Rare Holo,$0.25
+FST,058,Marill,Pkmn › Basic,{W},Common,$0.03
+FST,059,Azumarill,Pkmn › Stage 1,{W},Rare,$0.11
+FST,060,Qwilfish,Pkmn › Basic,{W},Common,$0.03
+FST,061,Mantine,Pkmn › Basic,{W},Common,$0.05
+FST,062,Mudkip,Pkmn › Basic,{W},Common,$0.05
+FST,063,Marshtomp,Pkmn › Stage 1,{W},Uncommon,$0.06
+FST,064,Swampert,Pkmn › Stage 2,{W},Rare Holo,$0.22
+FST,065,Clamperl,Pkmn › Basic,{W},Common,$0.03
+FST,066,Huntail,Pkmn › Stage 1,{W},Rare,$0.11
+FST,067,Gorebyss,Pkmn › Stage 1,{W},Rare,$0.11
+FST,068,Panpour,Pkmn › Basic,{W},Common,$0.16
+FST,069,Simipour,Pkmn › Stage 1,{W},Uncommon,$0.04
+FST,070,Basculin,Pkmn › Basic,{W},Common,$0.03
+FST,071,Galarian Darumaka,Pkmn › Basic,{W},Common,$0.03
+FST,072,Galarian Darmanitan,Pkmn › Stage 1,{W},Uncommon,$0.05
+FST,073,Greninja V,Pkmn › Basic,{W},Holo Rare V,$1.28
+FST,074,Clauncher,Pkmn › Basic,{W},Common,$0.03
+FST,075,Clawitzer,Pkmn › Stage 1,{W},Uncommon,$0.04
+FST,076,Crabominable V,Pkmn › Basic,{W},Holo Rare V,$0.56
+FST,077,Pyukumuku,Pkmn › Basic,{W},Uncommon,$0.08
+FST,078,Inteleon V,Pkmn › Basic,{W},Holo Rare V,$0.86
+FST,079,Inteleon VMAX,Pkmn › VMAX,{W},Holo Rare VMAX,$1.22
+FST,080,Chewtle,Pkmn › Basic,{W},Common,$0.03
+FST,081,Drednaw,Pkmn › Stage 1,{W},Uncommon,$0.05
+FST,082,Arrokuda,Pkmn › Basic,{W},Common,$0.04
+FST,083,Barraskewda,Pkmn › Stage 1,{W},Uncommon,$0.05
+FST,084,Snom,Pkmn › Basic,{W},Common,$0.05
+FST,085,Frosmoth,Pkmn › Stage 1,{W},Uncommon,$0.05
+FST,086,Pikachu V,Pkmn › Basic,{L},Holo Rare V,$0.60
+FST,087,Voltorb,Pkmn › Basic,{L},Common,$0.04
+FST,088,Electrode,Pkmn › Stage 1,{L},Rare,$0.08
+FST,089,Plusle,Pkmn › Basic,{L},Common,$0.04
+FST,090,Minun,Pkmn › Basic,{L},Common,$0.05
+FST,091,Shinx,Pkmn › Basic,{L},Common,$0.02
+FST,092,Luxio,Pkmn › Stage 1,{L},Uncommon,$0.06
+FST,093,Luxray,Pkmn › Stage 2,{L},Rare,$0.08
+FST,094,Rotom,Pkmn › Basic,{L},Common,$0.04
+FST,095,Tynamo,Pkmn › Basic,{L},Common,$0.05
+FST,096,Eelektrik,Pkmn › Stage 1,{L},Uncommon,$0.03
+FST,097,Eelektross,Pkmn › Stage 2,{L},Rare,$0.08
+FST,098,Helioptile,Pkmn › Basic,{L},Common,$0.03
+FST,099,Heliolisk,Pkmn › Stage 1,{L},Uncommon,$0.05
+FST,100,Charjabug,Pkmn › Stage 1,{L},Uncommon,$0.03
+FST,101,Vikavolt,Pkmn › Stage 2,{L},Rare,$0.10
+FST,102,Zeraora,Pkmn › Basic,{L},Rare,$0.07
+FST,103,Boltund V,Pkmn › Basic,{L},Holo Rare V,$0.52
+FST,104,Boltund VMAX,Pkmn › VMAX,{L},Holo Rare VMAX,$1.09
+FST,105,Toxel,Pkmn › Basic,{L},Common,$0.03
+FST,106,Toxel,Pkmn › Basic,{L},Common,$0.04
+FST,107,Toxtricity,Pkmn › Stage 1,{L},Rare Holo,$0.13
+FST,108,Toxtricity,Pkmn › Stage 1,{L},Rare Holo,$0.12
+FST,109,Morpeko,Pkmn › Basic,{L},Common,$0.12
+FST,110,Jigglypuff,Pkmn › Basic,{P},Common,$0.05
+FST,111,Wigglytuff,Pkmn › Stage 1,{P},Uncommon,$0.04
+FST,112,Jynx,Pkmn › Basic,{P},Common,$0.02
+FST,113,Mew V,Pkmn › Basic,{P},Holo Rare V,$0.95
+FST,114,Mew VMAX,Pkmn › VMAX,{P},Holo Rare VMAX,$2.63
+FST,115,Snubbull,Pkmn › Basic,{P},Common,$0.03
+FST,116,Granbull,Pkmn › Stage 1,{P},Rare,$0.08
+FST,117,Galarian Corsola,Pkmn › Basic,{P},Common,$0.05
+FST,118,Galarian Cursola,Pkmn › Stage 1,{P},Rare,$0.10
+FST,119,Mawile,Pkmn › Basic,{P},Common,$0.03
+FST,120,Deoxys,Pkmn › Basic,{P},Rare Holo,$0.16
+FST,121,Munna,Pkmn › Basic,{P},Common,$0.03
+FST,122,Musharna,Pkmn › Stage 1,{P},Uncommon,$0.04
+FST,123,Sigilyph,Pkmn › Basic,{P},Common,$0.03
+FST,124,Meloetta,Pkmn › Basic,{P},Rare,$0.08
+FST,125,Sandygast,Pkmn › Basic,{P},Common,$0.03
+FST,126,Palossand,Pkmn › Stage 1,{P},Rare,$0.07
+FST,127,Indeedee,Pkmn › Basic,{P},Common,$0.03
+FST,128,Dreepy,Pkmn › Basic,{P},Common,$0.06
+FST,129,Drakloak,Pkmn › Stage 1,{P},Uncommon,$0.03
+FST,130,Dragapult,Pkmn › Stage 2,{P},Rare Holo,$0.12
+FST,131,Sandshrew,Pkmn › Basic,{F},Common,$0.03
+FST,132,Sandslash,Pkmn › Stage 1,{F},Uncommon,$0.05
+FST,133,Mankey,Pkmn › Basic,{F},Common,$0.02
+FST,134,Primeape,Pkmn › Stage 1,{F},Uncommon,$0.03
+FST,135,Geodude,Pkmn › Basic,{F},Common,$0.03
+FST,136,Graveler,Pkmn › Stage 1,{F},Uncommon,$0.04
+FST,137,Golem,Pkmn › Stage 2,{F},Rare,$0.12
+FST,138,Onix,Pkmn › Basic,{F},Common,$0.07
+FST,139,Steelix,Pkmn › Stage 1,{F},Rare Holo,$0.18
+FST,140,Gligar,Pkmn › Basic,{F},Common,$0.05
+FST,141,Gliscor,Pkmn › Stage 1,{F},Uncommon,$0.04
+FST,142,Makuhita,Pkmn › Basic,{F},Common,$0.02
+FST,143,Hariyama,Pkmn › Stage 1,{F},Uncommon,$0.06
+FST,144,Baltoy,Pkmn › Basic,{F},Common,$0.02
+FST,145,Claydol,Pkmn › Stage 1,{F},Rare,$0.18
+FST,146,Lucario V,Pkmn › Basic,{F},Holo Rare V,$0.65
+FST,147,Drilbur,Pkmn › Basic,{F},Common,$0.03
+FST,148,Landorus,Pkmn › Basic,{F},Rare Holo,$0.12
+FST,149,Pancham,Pkmn › Basic,{F},Common,$0.05
+FST,150,Stufful,Pkmn › Basic,{F},Common,$0.03
+FST,151,Bewear,Pkmn › Stage 1,{F},Uncommon,$0.02
+FST,152,Clobbopus,Pkmn › Basic,{F},Common,$0.03
+FST,153,Grapploct,Pkmn › Stage 1,{F},Uncommon,$0.04
+FST,154,Falinks,Pkmn › Basic,{F},Uncommon,$0.04
+FST,155,Falinks,Pkmn › Basic,{F},Common,$0.02
+FST,156,Gengar V,Pkmn › Basic,{D},Holo Rare V,$1.47
+FST,157,Gengar VMAX,Pkmn › VMAX,{D},Holo Rare VMAX,$7.19
+FST,158,Tyranitar V,Pkmn › Basic,{D},Holo Rare V,$0.53
+FST,159,Galarian Zigzagoon,Pkmn › Basic,{D},Common,$0.06
+FST,160,Galarian Linoone,Pkmn › Stage 1,{D},Uncommon,$0.04
+FST,161,Galarian Obstagoon,Pkmn › Stage 2,{D},Rare Holo,$0.16
+FST,162,Carvanha,Pkmn › Basic,{D},Common,$0.03
+FST,163,Sharpedo,Pkmn › Stage 1,{D},Uncommon,$0.04
+FST,164,Absol,Pkmn › Basic,{D},Rare,$0.10
+FST,165,Croagunk,Pkmn › Basic,{D},Common,$0.04
+FST,166,Toxicroak,Pkmn › Stage 1,{D},Rare,$0.14
+FST,167,Darkrai,Pkmn › Basic,{D},Uncommon,$0.07
+FST,168,Trubbish,Pkmn › Basic,{D},Common,$0.22
+FST,169,Garbodor,Pkmn › Stage 1,{D},Uncommon,$0.07
+FST,170,Zorua,Pkmn › Basic,{D},Common,$0.05
+FST,171,Zoroark,Pkmn › Stage 1,{D},Uncommon,$0.05
+FST,172,Vullaby,Pkmn › Basic,{D},Common,$0.04
+FST,173,Mandibuzz,Pkmn › Stage 1,{D},Uncommon,$0.06
+FST,174,Pangoro,Pkmn › Stage 1,{D},Uncommon,$0.04
+FST,175,Yveltal,Pkmn › Basic,{D},Rare,$0.12
+FST,176,Impidimp,Pkmn › Basic,{D},Common,$0.04
+FST,177,Morgrem,Pkmn › Stage 1,{D},Uncommon,$0.06
+FST,178,Grimmsnarl,Pkmn › Stage 2,{D},Rare Holo,$0.16
+FST,179,Morpeko,Pkmn › Basic,{D},Common,$0.05
+FST,180,Galarian Meowth,Pkmn › Basic,{M},Common,$0.03
+FST,181,Galarian Perrserker,Pkmn › Stage 1,{M},Uncommon,$0.04
+FST,182,Skarmory,Pkmn › Basic,{M},Common,$0.03
+FST,183,Excadrill,Pkmn › Stage 1,{M},Uncommon,$0.04
+FST,184,Durant,Pkmn › Basic,{M},Common,$0.03
+FST,185,Genesect V,Pkmn › Basic,{M},Holo Rare V,$0.70
+FST,186,Klefki,Pkmn › Basic,{M},Common,$0.09
+FST,187,Togedemaru,Pkmn › Basic,{M},Uncommon,$0.04
+FST,188,Meltan,Pkmn › Basic,{M},Common,$0.08
+FST,189,Melmetal,Pkmn › Stage 1,{M},Rare Holo,$0.15
+FST,190,Corviknight,Pkmn › Stage 2,{M},Rare,$0.10
+FST,191,Cufant,Pkmn › Basic,{M},Common,$0.03
+FST,192,Copperajah,Pkmn › Stage 1,{M},Uncommon,$0.06
+FST,193,Latias,Pkmn › Basic,{N},Rare,$0.11
+FST,194,Latios,Pkmn › Basic,{N},Rare,$0.12
+FST,195,Goomy,Pkmn › Basic,{N},Common,$0.05
+FST,196,Sliggoo,Pkmn › Stage 1,{N},Uncommon,$0.07
+FST,197,Goodra,Pkmn › Stage 2,{N},Rare,$0.13
+FST,198,Turtonator,Pkmn › Basic,{N},Uncommon,$0.05
+FST,199,Meowth,Pkmn › Basic,{C},Common,$0.05
+FST,200,Persian,Pkmn › Stage 1,{C},Uncommon,$0.06
+FST,201,Dodrio V,Pkmn › Basic,{C},Holo Rare V,$0.52
+FST,202,Chansey,Pkmn › Basic,{C},Common,$0.03
+FST,203,Blissey,Pkmn › Stage 1,{C},Rare,$0.08
+FST,204,Kangaskhan,Pkmn › Basic,{C},Rare,$0.08
+FST,205,Eevee,Pkmn › Basic,{C},Common,$0.06
+FST,206,Snorlax,Pkmn › Basic,{C},Common,$0.06
+FST,207,Dunsparce,Pkmn › Basic,{C},Uncommon,$0.06
+FST,208,Stantler,Pkmn › Basic,{C},Uncommon,$0.06
+FST,209,Smeargle,Pkmn › Basic,{C},Common,$0.06
+FST,210,Skitty,Pkmn › Basic,{C},Common,$0.04
+FST,211,Delcatty,Pkmn › Stage 1,{C},Uncommon,$0.06
+FST,212,Buneary,Pkmn › Basic,{C},Common,$0.02
+FST,213,Lopunny,Pkmn › Stage 1,{C},Uncommon,$0.03
+FST,214,Bunnelby,Pkmn › Basic,{C},Common,$0.04
+FST,215,Diggersby,Pkmn › Stage 1,{C},Uncommon,$0.03
+FST,216,Hawlucha,Pkmn › Basic,{C},Uncommon,$0.05
+FST,217,Greedent V,Pkmn › Basic,{C},Holo Rare V,$0.48
+FST,218,Greedent VMAX,Pkmn › VMAX,{C},Holo Rare VMAX,$1.04
+FST,219,Rookidee,Pkmn › Basic,{C},Common,$0.04
+FST,220,Corvisquire,Pkmn › Stage 1,{C},Uncommon,$0.03
+FST,221,Wooloo,Pkmn › Basic,{C},Common,$0.06
+FST,222,Wooloo,Pkmn › Basic,{C},Common,$0.05
+FST,223,Dubwool,Pkmn › Stage 1,{C},Uncommon,$0.05
+FST,224,Adventurer’s Discovery,Trainer › Supporter,,Uncommon,$0.11
+FST,225,Battle VIP Pass,Trainer › Item,,Uncommon,$0.77
+FST,226,Bug Catcher,Trainer › Supporter,,Uncommon,$0.05
+FST,227,Chili & Cilan & Cress,Trainer › Supporter,,Uncommon,$0.02
+FST,228,Cook,Trainer › Supporter,,Uncommon,$0.08
+FST,229,Cram-o-matic,Trainer › Item,,Uncommon,$0.07
+FST,230,Cross Switcher,Trainer › Item,,Uncommon,$0.11
+FST,231,Crossceiver,Trainer › Item,,Uncommon,$0.06
+FST,232,Dancer,Trainer › Supporter,,Uncommon,$0.03
+FST,233,Elesa’s Sparkle,Trainer › Supporter,,Uncommon,$0.12
+FST,234,Farewell Bell,Trainer › Tool,,Uncommon,$0.03
+FST,235,Judge,Trainer › Supporter,,Uncommon,$0.15
+FST,236,Power Tablet,Trainer › Item,,Uncommon,$0.08
+FST,237,Quick Ball,Trainer › Item,,Uncommon,$0.12
+FST,238,Schoolboy,Trainer › Supporter,,Uncommon,$0.05
+FST,239,Schoolgirl,Trainer › Supporter,,Uncommon,$0.05
+FST,240,Shauna,Trainer › Supporter,,Uncommon,$0.05
+FST,241,Sidney,Trainer › Supporter,,Uncommon,$0.04
+FST,242,Skaters’ Park,Trainer › Stadium,,Uncommon,$0.04
+FST,243,Spongy Gloves,Trainer › Tool,,Uncommon,$0.04
+FST,244,Fusion Strike Energy,Energy › Special,,Uncommon,$0.19
+FST,245,Celebi V,Pkmn › Basic,{G},Ultra Rare,$24.67
+FST,246,Tsareena V,Pkmn › Basic,{G},Ultra Rare,$1.02
+FST,247,Chandelure V,Pkmn › Basic,{R},Ultra Rare,$1.40
+FST,248,Crabominable V,Pkmn › Basic,{W},Ultra Rare,$1.20
+FST,249,Boltund V,Pkmn › Basic,{L},Ultra Rare,$1.34
+FST,250,Mew V,Pkmn › Basic,{P},Ultra Rare,$7.32
+FST,251,Mew V,Pkmn › Basic,{P},Ultra Rare,$29.31
+FST,252,Sandaconda V,Pkmn › Basic,{F},Ultra Rare,$3.19
+FST,253,Hoopa V,Pkmn › Basic,{D},Ultra Rare,$1.43
+FST,254,Genesect V,Pkmn › Basic,{M},Ultra Rare,$2.38
+FST,255,Genesect V,Pkmn › Basic,{M},Ultra Rare,$11.64
+FST,256,Greedent V,Pkmn › Basic,{C},Ultra Rare,$1.56
+FST,257,Greedent V,Pkmn › Basic,{C},Ultra Rare,$6.69
+FST,258,Chili & Cilan & Cress,Trainer › Supporter,,Ultra Rare,$1.31
+FST,259,Dancer,Trainer › Supporter,,Ultra Rare,$1.06
+FST,260,Elesa’s Sparkle,Trainer › Supporter,,Ultra Rare,$3.10
+FST,261,Schoolboy,Trainer › Supporter,,Ultra Rare,$1.52
+FST,262,Schoolgirl,Trainer › Supporter,,Ultra Rare,$2.16
+FST,263,Shauna,Trainer › Supporter,,Ultra Rare,$3.25
+FST,264,Sidney,Trainer › Supporter,,Ultra Rare,$1.00
+FST,265,Chandelure VMAX,Pkmn › VMAX,{R},Rainbow Rare,$6.52
+FST,266,Inteleon VMAX,Pkmn › VMAX,{W},Rainbow Rare,$17.48
+FST,267,Boltund VMAX,Pkmn › VMAX,{L},Rainbow Rare,$7.03
+FST,268,Mew VMAX,Pkmn › VMAX,{P},Rainbow Rare,$30.35
+FST,269,Mew VMAX,Pkmn › VMAX,{P},Rainbow Rare,$63.06
+FST,270,Espeon VMAX,Pkmn › VMAX,{P},Rainbow Rare,$129.56
+FST,271,Gengar VMAX,Pkmn › VMAX,{D},Rainbow Rare,$211.24
+FST,272,Greedent VMAX,Pkmn › VMAX,{C},Rainbow Rare,$6.16
+FST,273,Chili & Cilan & Cress,Trainer › Supporter,,Rainbow Rare,$3.00
+FST,274,Dancer,Trainer › Supporter,,Rainbow Rare,$3.68
+FST,275,Elesa’s Sparkle,Trainer › Supporter,,Rainbow Rare,$4.15
+FST,276,Schoolboy,Trainer › Supporter,,Rainbow Rare,$3.34
+FST,277,Schoolgirl,Trainer › Supporter,,Rainbow Rare,$2.91
+FST,278,Shauna,Trainer › Supporter,,Rainbow Rare,$3.94
+FST,279,Sidney,Trainer › Supporter,,Rainbow Rare,$3.16
+FST,280,Flaaffy,Pkmn › Stage 1,{L},Rare Secret,$4.12
+FST,281,Power Tablet,Trainer › Item,,Rare Secret,$1.75
+FST,282,Training Court,Trainer › Stadium,,Rare Secret,$2.00
+FST,283,Grass Energy,Energy › Basic,,Rare Secret,$5.23
+FST,284,Fire Energy,Energy › Basic,,Rare Secret,$6.8

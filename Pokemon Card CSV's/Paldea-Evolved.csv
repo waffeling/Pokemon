@@ -1,0 +1,280 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+AL,001,Hoppip,Pkmn › Basic,{G},Common,$0.10
+PAL,002,Skiploom,Pkmn › Stage 1,{G},Uncommon,$0.03
+PAL,003,Jumpluff,Pkmn › Stage 2,{G},Rare,$0.06
+PAL,004,Pineco,Pkmn › Basic,{G},Common,$0.03
+PAL,005,Forretress ex,Pkmn › Stage 1,{G},Double Rare,$0.46
+PAL,006,Heracross,Pkmn › Basic,{G},Uncommon,$0.06
+PAL,007,Tropius,Pkmn › Basic,{G},Common,$0.08
+PAL,008,Combee,Pkmn › Basic,{G},Common,$0.04
+PAL,009,Vespiquen,Pkmn › Stage 1,{G},Uncommon,$0.04
+PAL,010,Snover,Pkmn › Basic,{G},Common,$0.02
+PAL,011,Abomasnow,Pkmn › Stage 1,{G},Rare,$0.07
+PAL,012,Sprigatito,Pkmn › Basic,{G},Common,$0.13
+PAL,013,Sprigatito,Pkmn › Basic,{G},Common,$0.05
+PAL,014,Floragato,Pkmn › Stage 1,{G},Uncommon,$0.07
+PAL,015,Meowscarada ex,Pkmn › Stage 2,{G},Double Rare,$1.05
+PAL,016,Tarountula,Pkmn › Basic,{G},Common,$0.06
+PAL,017,Tarountula,Pkmn › Basic,{G},Common,$0.03
+PAL,018,Spidops,Pkmn › Stage 1,{G},Uncommon,$0.06
+PAL,019,Nymble,Pkmn › Basic,{G},Common,$0.03
+PAL,020,Nymble,Pkmn › Basic,{G},Common,$0.03
+PAL,021,Lokix,Pkmn › Stage 1,{G},Rare,$0.06
+PAL,022,Bramblin,Pkmn › Basic,{G},Common,$0.04
+PAL,023,Bramblin,Pkmn › Basic,{G},Common,$0.04
+PAL,024,Brambleghast,Pkmn › Stage 1,{G},Uncommon,$0.05
+PAL,025,Rellor,Pkmn › Basic,{G},Common,$0.03
+PAL,026,Rellor,Pkmn › Basic,{G},Common,$0.05
+PAL,027,Wo-Chien ex,Pkmn › Basic,{G},Double Rare,$0.74
+PAL,028,Paldean Tauros,Pkmn › Basic,{R},Uncommon,$0.06
+PAL,029,Fletchinder,Pkmn › Stage 1,{R},Uncommon,$0.04
+PAL,030,Talonflame,Pkmn › Stage 2,{R},Uncommon,$0.03
+PAL,031,Litleo,Pkmn › Basic,{R},Common,$0.06
+PAL,032,Pyroar,Pkmn › Stage 1,{R},Uncommon,$0.04
+PAL,033,Oricorio,Pkmn › Basic,{R},Rare,$0.09
+PAL,034,Fuecoco,Pkmn › Basic,{R},Common,$0.04
+PAL,035,Fuecoco,Pkmn › Basic,{R},Common,$0.04
+PAL,036,Crocalor,Pkmn › Stage 1,{R},Uncommon,$0.06
+PAL,037,Skeledirge ex,Pkmn › Stage 2,{R},Double Rare,sold out
+PAL,038,Charcadet,Pkmn › Basic,{R},Common,$0.03
+PAL,039,Charcadet,Pkmn › Basic,{R},Common,$0.04
+PAL,040,Chi-Yu ex,Pkmn › Basic,{R},Double Rare,$0.91
+PAL,041,Paldean Tauros,Pkmn › Basic,{W},Uncommon,$0.05
+PAL,042,Magikarp,Pkmn › Basic,{W},Common,sold out
+PAL,043,Gyarados,Pkmn › Stage 1,{W},Rare,$0.14
+PAL,044,Marill,Pkmn › Basic,{W},Common,$0.03
+PAL,045,Azumarill,Pkmn › Stage 1,{W},Uncommon,$0.05
+PAL,046,Delibird,Pkmn › Basic,{W},Common,$0.03
+PAL,047,Luvdisc,Pkmn › Basic,{W},Common,sold out
+PAL,048,Eiscue,Pkmn › Basic,{W},Uncommon,$0.03
+PAL,049,Quaxly,Pkmn › Basic,{W},Common,$0.05
+PAL,050,Quaxly,Pkmn › Basic,{W},Common,$0.03
+PAL,051,Quaxwell,Pkmn › Stage 1,{W},Uncommon,$0.04
+PAL,052,Quaquaval ex,Pkmn › Stage 2,{W},Double Rare,$0.62
+PAL,053,Cetoddle,Pkmn › Basic,{W},Common,$0.04
+PAL,054,Cetoddle,Pkmn › Basic,{W},Common,$0.04
+PAL,055,Cetitan,Pkmn › Stage 1,{W},Uncommon,$0.15
+PAL,056,Veluza,Pkmn › Basic,{W},Rare,$0.11
+PAL,057,Frigibax,Pkmn › Basic,{W},Common,$0.18
+PAL,058,Frigibax,Pkmn › Basic,{W},Common,$0.09
+PAL,059,Arctibax,Pkmn › Stage 1,{W},Uncommon,$0.08
+PAL,060,Baxcalibur,Pkmn › Stage 2,{W},Rare,$0.17
+PAL,061,Chien-Pao ex,Pkmn › Basic,{W},Double Rare,$6.02
+PAL,062,Pikachu,Pkmn › Basic,{L},Common,$0.14
+PAL,063,Pikachu ex,Pkmn › Basic,{L},Double Rare,$3.13
+PAL,064,Raichu,Pkmn › Stage 1,{L},Uncommon,$0.07
+PAL,065,Magnemite,Pkmn › Basic,{L},Common,$0.09
+PAL,066,Voltorb,Pkmn › Basic,{L},Common,$0.08
+PAL,067,Electrode,Pkmn › Stage 1,{L},Uncommon,$0.03
+PAL,068,Shinx,Pkmn › Basic,{L},Common,$0.03
+PAL,069,Shinx,Pkmn › Basic,{L},Common,$0.04
+PAL,070,Luxio,Pkmn › Stage 1,{L},Uncommon,$0.05
+PAL,071,Luxray,Pkmn › Stage 2,{L},Rare,$0.11
+PAL,072,Pincurchin,Pkmn › Basic,{L},Common,$0.07
+PAL,073,Pincurchin,Pkmn › Basic,{L},Uncommon,$0.03
+PAL,074,Pawmi,Pkmn › Basic,{L},Common,$0.11
+PAL,075,Pawmo,Pkmn › Stage 1,{L},Uncommon,$0.05
+PAL,076,Pawmot,Pkmn › Stage 2,{L},Rare,$0.07
+PAL,077,Tadbulb,Pkmn › Basic,{L},Common,$0.04
+PAL,078,Tadbulb,Pkmn › Basic,{L},Common,$0.04
+PAL,079,Bellibolt ex,Pkmn › Stage 1,{L},Double Rare,$0.57
+PAL,080,Wattrel,Pkmn › Basic,{L},Common,$0.08
+PAL,081,Wattrel,Pkmn › Basic,{L},Common,$0.05
+PAL,082,Kilowattrel,Pkmn › Stage 1,{L},Uncommon,$0.03
+PAL,083,Jigglypuff,Pkmn › Basic,{P},Common,$0.05
+PAL,084,Wigglytuff,Pkmn › Stage 1,{P},Rare,$0.09
+PAL,085,Slowpoke,Pkmn › Basic,{P},Common,$0.11
+PAL,086,Slowking ex,Pkmn › Stage 1,{P},Double Rare,$0.70
+PAL,087,Misdreavus,Pkmn › Basic,{P},Common,$0.03
+PAL,088,Mismagius,Pkmn › Stage 1,{P},Uncommon,$0.05
+PAL,089,Spiritomb,Pkmn › Basic,{P},Rare,$0.14
+PAL,090,Gothita,Pkmn › Basic,{P},Common,$0.04
+PAL,091,Gothorita,Pkmn › Stage 1,{P},Uncommon,$0.04
+PAL,092,Gothitelle,Pkmn › Stage 2,{P},Uncommon,$0.05
+PAL,093,Dedenne ex,Pkmn › Basic,{P},Double Rare,$0.59
+PAL,094,Oranguru,Pkmn › Basic,{P},Uncommon,$0.04
+PAL,095,Sandygast,Pkmn › Basic,{P},Common,$0.02
+PAL,096,Palossand,Pkmn › Stage 1,{P},Uncommon,$0.03
+PAL,097,Mimikyu,Pkmn › Basic,{P},Rare,$0.22
+PAL,098,Ceruledge,Pkmn › Stage 1,{P},Rare,$0.11
+PAL,099,Rabsca,Pkmn › Stage 1,{P},Rare,$0.09
+PAL,100,Tinkatink,Pkmn › Basic,{P},Common,$0.04
+PAL,101,Tinkatink,Pkmn › Basic,{P},Common,$0.04
+PAL,102,Tinkatink,Pkmn › Basic,{P},Common,$0.05
+PAL,103,Tinkatuff,Pkmn › Stage 1,{P},Uncommon,$0.05
+PAL,104,Tinkatuff,Pkmn › Stage 1,{P},Uncommon,$0.06
+PAL,105,Tinkaton,Pkmn › Stage 2,{P},Rare,$0.10
+PAL,106,Mankey,Pkmn › Basic,{F},Common,$0.03
+PAL,107,Primeape,Pkmn › Stage 1,{F},Uncommon,$0.03
+PAL,108,Paldean Tauros,Pkmn › Basic,{F},Uncommon,$0.04
+PAL,109,Sudowoodo,Pkmn › Basic,{F},Uncommon,$0.02
+PAL,110,Larvitar,Pkmn › Basic,{F},Common,$0.04
+PAL,111,Pupitar,Pkmn › Stage 1,{F},Uncommon,$0.03
+PAL,112,Makuhita,Pkmn › Basic,{F},Common,sold out
+PAL,113,Hariyama,Pkmn › Stage 1,{F},Rare,$0.07
+PAL,114,Croagunk,Pkmn › Basic,{F},Common,$0.04
+PAL,115,Toxicroak,Pkmn › Stage 1,{F},Uncommon,$0.03
+PAL,116,Rockruff,Pkmn › Basic,{F},Common,$0.03
+PAL,117,Lycanroc ex,Pkmn › Stage 1,{F},Double Rare,$0.73
+PAL,118,Passimian,Pkmn › Basic,{F},Uncommon,$0.03
+PAL,119,Falinks,Pkmn › Basic,{F},Common,$0.03
+PAL,120,Nacli,Pkmn › Basic,{F},Common,$0.04
+PAL,121,Nacli,Pkmn › Basic,{F},Common,$0.05
+PAL,122,Naclstack,Pkmn › Stage 1,{F},Uncommon,$0.05
+PAL,123,Garganacl,Pkmn › Stage 2,{F},Rare,$0.07
+PAL,124,Glimmet,Pkmn › Basic,{F},Common,sold out
+PAL,125,Glimmet,Pkmn › Basic,{F},Common,$0.04
+PAL,126,Glimmora,Pkmn › Stage 1,{F},Rare,$0.10
+PAL,127,Ting-Lu ex,Pkmn › Basic,{F},Double Rare,$0.64
+PAL,128,Paldean Wooper,Pkmn › Basic,{D},Common,$0.05
+PAL,129,Paldean Wooper,Pkmn › Basic,{D},Common,$0.04
+PAL,130,Paldean Clodsire ex,Pkmn › Stage 1,{D},Double Rare,$0.70
+PAL,131,Murkrow,Pkmn › Basic,{D},Common,$0.03
+PAL,132,Honchkrow,Pkmn › Stage 1,{D},Uncommon,$0.03
+PAL,133,Sneasel,Pkmn › Basic,{D},Common,$0.03
+PAL,134,Weavile,Pkmn › Stage 1,{D},Rare,$0.08
+PAL,135,Tyranitar,Pkmn › Stage 2,{D},Rare,$0.10
+PAL,136,Sableye,Pkmn › Basic,{D},Rare,$0.10
+PAL,137,Seviper,Pkmn › Basic,{D},Uncommon,$0.03
+PAL,138,Deino,Pkmn › Basic,{D},Common,$0.02
+PAL,139,Zweilous,Pkmn › Stage 1,{D},Uncommon,$0.03
+PAL,140,Hydreigon,Pkmn › Stage 2,{D},Rare,$0.09
+PAL,141,Maschiff,Pkmn › Basic,{D},Common,$0.04
+PAL,142,Maschiff,Pkmn › Basic,{D},Common,$0.05
+PAL,143,Mabosstiff,Pkmn › Stage 1,{D},Uncommon,$0.04
+PAL,144,Shroodle,Pkmn › Basic,{D},Common,sold out
+PAL,145,Shroodle,Pkmn › Basic,{D},Common,$0.05
+PAL,146,Grafaiai,Pkmn › Stage 1,{D},Uncommon,$0.05
+PAL,147,Bombirdier,Pkmn › Basic,{D},Uncommon,$0.04
+PAL,148,Corviknight,Pkmn › Stage 2,{M},Uncommon,$0.03
+PAL,149,Cufant,Pkmn › Basic,{M},Common,$0.05
+PAL,150,Copperajah ex,Pkmn › Stage 1,{M},Double Rare,$0.57
+PAL,151,Orthworm,Pkmn › Basic,{M},Rare,$0.16
+PAL,152,Noibat,Pkmn › Basic,{N},Common,$0.03
+PAL,153,Noivern ex,Pkmn › Stage 1,{N},Double Rare,$0.60
+PAL,154,Girafarig,Pkmn › Basic,{C},Common,$0.04
+PAL,155,Farigiraf,Pkmn › Stage 1,{C},Uncommon,$0.06
+PAL,156,Dunsparce,Pkmn › Basic,{C},Common,$0.03
+PAL,157,Dudunsparce,Pkmn › Stage 1,{C},Uncommon,$0.06
+PAL,158,Wingull,Pkmn › Basic,{C},Common,$0.03
+PAL,159,Pelipper,Pkmn › Stage 1,{C},Uncommon,$0.03
+PAL,160,Slakoth,Pkmn › Basic,{C},Common,$0.03
+PAL,161,Vigoroth,Pkmn › Stage 1,{C},Uncommon,$0.03
+PAL,162,Slaking,Pkmn › Stage 2,{C},Rare,$0.08
+PAL,163,Fletchling,Pkmn › Basic,{C},Common,$0.08
+PAL,164,Rookidee,Pkmn › Basic,{C},Common,$0.07
+PAL,165,Corvisquire,Pkmn › Stage 1,{C},Uncommon,$0.04
+PAL,166,Tandemaus,Pkmn › Basic,{C},Common,$0.04
+PAL,167,Tandemaus,Pkmn › Basic,{C},Common,$0.05
+PAL,168,Maushold,Pkmn › Stage 1,{C},Uncommon,$0.05
+PAL,169,Squawkabilly ex,Pkmn › Basic,{C},Double Rare,$1.30
+PAL,170,Flamigo,Pkmn › Basic,{C},Uncommon,$0.05
+PAL,171,Artazon,Trainer › Stadium,,Uncommon,$0.14
+PAL,172,Boss’s Orders,Trainer › Supporter,,Rare,$0.68
+PAL,173,Bravery Charm,Trainer › Tool,,Uncommon,$0.64
+PAL,174,Calamitous Snowy Mountain,Trainer › Stadium,,Uncommon,$0.14
+PAL,175,Calamitous Wasteland,Trainer › Stadium,,Uncommon,$0.07
+PAL,176,Choice Belt,Trainer › Tool,,Uncommon,$0.14
+PAL,177,Clavell,Trainer › Supporter,,Common,$0.11
+PAL,178,Delivery Drone,Trainer › Item,,Uncommon,$0.05
+PAL,179,Dendra,Trainer › Supporter,,Uncommon,$0.08
+PAL,180,Falkner,Trainer › Supporter,,Uncommon,$0.04
+PAL,181,Fighting Au Lait,Trainer › Item,,Uncommon,$0.07
+PAL,182,Giacomo,Trainer › Supporter,,Uncommon,$0.08
+PAL,183,Great Ball,Trainer › Item,,Common,$0.08
+PAL,184,Grusha,Trainer › Supporter,,Uncommon,$0.04
+PAL,185,Iono,Trainer › Supporter,,Uncommon,$0.53
+PAL,186,Practice Studio,Trainer › Stadium,,Uncommon,$0.09
+PAL,187,Saguaro,Trainer › Supporter,,Uncommon,$0.05
+PAL,188,Super Rod,Trainer › Item,,Common,$1.05
+PAL,189,Superior Energy Retrieval,Trainer › Item,,Uncommon,$1.07
+PAL,190,Jet Energy,Energy › Special,,Uncommon,$3.06
+PAL,191,Luminous Energy,Energy › Special,,Uncommon,$0.21
+PAL,192,Reversal Energy,Energy › Special,,Uncommon,$0.64
+PAL,193,Therapeutic Energy,Energy › Special,,Uncommon,$0.21
+PAL,194,Heracross,Pkmn › Basic,{G},Illustration Rare,$9.01
+PAL,195,Tropius,Pkmn › Basic,{G},Illustration Rare,$5.96
+PAL,196,Sprigatito,Pkmn › Basic,{G},Illustration Rare,$10.22
+PAL,197,Floragato,Pkmn › Stage 1,{G},Illustration Rare,$5.42
+PAL,198,Bramblin,Pkmn › Basic,{G},Illustration Rare,$3.98
+PAL,199,Fletchinder,Pkmn › Stage 1,{R},Illustration Rare,$5.45
+PAL,200,Pyroar,Pkmn › Stage 1,{R},Illustration Rare,$3.88
+PAL,201,Fuecoco,Pkmn › Basic,{R},Illustration Rare,$11.80
+PAL,202,Crocalor,Pkmn › Stage 1,{R},Illustration Rare,$4.20
+PAL,203,Magikarp,Pkmn › Basic,{W},Illustration Rare,$67.97
+PAL,204,Marill,Pkmn › Basic,{W},Illustration Rare,$7.51
+PAL,205,Eiscue,Pkmn › Basic,{W},Illustration Rare,$5.33
+PAL,206,Quaxly,Pkmn › Basic,{W},Illustration Rare,$3.65
+PAL,207,Quaxwell,Pkmn › Stage 1,{W},Illustration Rare,$2.90
+PAL,208,Frigibax,Pkmn › Basic,{W},Illustration Rare,$8.50
+PAL,209,Arctibax,Pkmn › Stage 1,{W},Illustration Rare,$3.25
+PAL,210,Baxcalibur,Pkmn › Stage 2,{W},Illustration Rare,$10.85
+PAL,211,Raichu,Pkmn › Stage 1,{L},Illustration Rare,$20.27
+PAL,212,Mismagius,Pkmn › Stage 1,{P},Illustration Rare,$6.61
+PAL,213,Gothorita,Pkmn › Stage 1,{P},Illustration Rare,$2.91
+PAL,214,Sandygast,Pkmn › Basic,{P},Illustration Rare,$3.93
+PAL,215,Rabsca,Pkmn › Stage 1,{P},Illustration Rare,$3.04
+PAL,216,Tinkatink,Pkmn › Basic,{P},Illustration Rare,$4.22
+PAL,217,Tinkatuff,Pkmn › Stage 1,{P},Illustration Rare,$6.80
+PAL,218,Paldean Tauros,Pkmn › Basic,{F},Illustration Rare,$5.65
+PAL,219,Sudowoodo,Pkmn › Basic,{F},Illustration Rare,$6.75
+PAL,220,Nacli,Pkmn › Basic,{F},Illustration Rare,$3.08
+PAL,221,Paldean Wooper,Pkmn › Basic,{D},Illustration Rare,$3.19
+PAL,222,Tyranitar,Pkmn › Stage 2,{D},Illustration Rare,$18.21
+PAL,223,Grafaiai,Pkmn › Stage 1,{D},Illustration Rare,$3.82
+PAL,224,Orthworm,Pkmn › Basic,{M},Illustration Rare,$3.09
+PAL,225,Rookidee,Pkmn › Basic,{C},Illustration Rare,$4.29
+PAL,226,Maushold,Pkmn › Stage 1,{C},Illustration Rare,$13.15
+PAL,227,Flamigo,Pkmn › Basic,{C},Illustration Rare,$2.86
+PAL,228,Farigiraf,Pkmn › Stage 1,{C},Illustration Rare,$4.51
+PAL,229,Dudunsparce,Pkmn › Stage 1,{C},Illustration Rare,$3.84
+PAL,230,Forretress ex,Pkmn › Stage 1,{G},Ultra Rare,$1.42
+PAL,231,Meowscarada ex,Pkmn › Stage 2,{G},Ultra Rare,$3.48
+PAL,232,Wo-Chien ex,Pkmn › Basic,{G},Ultra Rare,$1.52
+PAL,233,Skeledirge ex,Pkmn › Stage 2,{R},Ultra Rare,$1.93
+PAL,234,Chi-Yu ex,Pkmn › Basic,{R},Ultra Rare,$2.35
+PAL,235,Quaquaval ex,Pkmn › Stage 2,{W},Ultra Rare,$1.54
+PAL,236,Chien-Pao ex,Pkmn › Basic,{W},Ultra Rare,$8.80
+PAL,237,Bellibolt ex,Pkmn › Stage 1,{L},Ultra Rare,$1.70
+PAL,238,Slowking ex,Pkmn › Stage 1,{P},Ultra Rare,$3.01
+PAL,239,Dedenne ex,Pkmn › Basic,{P},Ultra Rare,$2.58
+PAL,240,Tinkaton ex,Pkmn › Stage 2,{P},Ultra Rare,$4.63
+PAL,241,Lycanroc ex,Pkmn › Stage 1,{F},Ultra Rare,$1.48
+PAL,242,Annihilape ex,Pkmn › Stage 2,{F},Ultra Rare,$2.89
+PAL,243,Ting-Lu ex,Pkmn › Basic,{F},Ultra Rare,$1.31
+PAL,244,Paldean Clodsire ex,Pkmn › Stage 1,{D},Ultra Rare,$1.86
+PAL,245,Copperajah ex,Pkmn › Stage 1,{M},Ultra Rare,$1.55
+PAL,246,Noivern ex,Pkmn › Stage 1,{N},Ultra Rare,$1.76
+PAL,247,Squawkabilly ex,Pkmn › Basic,{C},Ultra Rare,$3.05
+PAL,248,Boss’s Orders,Trainer › Supporter,,Ultra Rare,$8.02
+PAL,249,Clavell,Trainer › Supporter,,Ultra Rare,$1.38
+PAL,250,Dendra,Trainer › Supporter,,Ultra Rare,$2.19
+PAL,251,Falkner,Trainer › Supporter,,Ultra Rare,$1.33
+PAL,252,Giacomo,Trainer › Supporter,,Ultra Rare,$1.55
+PAL,253,Grusha,Trainer › Supporter,,Ultra Rare,$2.16
+PAL,254,Iono,Trainer › Supporter,,Ultra Rare,$26.31
+PAL,255,Saguaro,Trainer › Supporter,,Ultra Rare,$1.25
+PAL,256,Meowscarada ex,Pkmn › Stage 2,{G},Special Illustration Rare,$10.24
+PAL,257,Wo-Chien ex,Pkmn › Basic,{G},Special Illustration Rare,$7.01
+PAL,258,Skeledirge ex,Pkmn › Stage 2,{R},Special Illustration Rare,$12.46
+PAL,259,Chi-Yu ex,Pkmn › Basic,{R},Special Illustration Rare,$15.26
+PAL,260,Quaquaval ex,Pkmn › Stage 2,{W},Special Illustration Rare,$5.62
+PAL,261,Chien-Pao ex,Pkmn › Basic,{W},Special Illustration Rare,$22.03
+PAL,262,Tinkaton ex,Pkmn › Stage 2,{P},Special Illustration Rare,$14.95
+PAL,263,Ting-Lu ex,Pkmn › Basic,{F},Special Illustration Rare,$7.55
+PAL,264,Squawkabilly ex,Pkmn › Basic,{C},Special Illustration Rare,$11.00
+PAL,265,Boss’s Orders,Trainer › Supporter,,Special Illustration Rare,$13.47
+PAL,266,Dendra,Trainer › Supporter,,Special Illustration Rare,$8.65
+PAL,267,Giacomo,Trainer › Supporter,,Special Illustration Rare,$4.13
+PAL,268,Grusha,Trainer › Supporter,,Special Illustration Rare,$11.74
+PAL,269,Iono,Trainer › Supporter,,Special Illustration Rare,$73.40
+PAL,270,Saguaro,Trainer › Supporter,,Special Illustration Rare,$3.85
+PAL,271,Meowscarada ex,Pkmn › Stage 2,{G},Hyper Rare,$5.41
+PAL,272,Skeledirge ex,Pkmn › Stage 2,{R},Hyper Rare,$5.80
+PAL,273,Quaquaval ex,Pkmn › Stage 2,{W},Hyper Rare,$5.15
+PAL,274,Chien-Pao ex,Pkmn › Basic,{W},Hyper Rare,$9.07
+PAL,275,Ting-Lu ex,Pkmn › Basic,{F},Hyper Rare,$3.74
+PAL,276,Super Rod,Trainer › Item,,Hyper Rare,$21.58
+PAL,277,Superior Energy Retrieval,Trainer › Item,,Hyper Rare,$10.28
+PAL,278,Basic {G} Energy,Energy › Basic,,Hyper Rare,$6.30
+PAL,279,Basic {W} Energy,Energy › Basic,,Hyper Rare,$10.1

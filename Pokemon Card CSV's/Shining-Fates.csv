@@ -1,0 +1,196 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+HF,001,Yanma,Pkmn › Basic,{G},Common,$0.02
+SHF,002,Yanmega,Pkmn › Stage 1,{G},Rare,$0.07
+SHF,003,Celebi,Pkmn › Basic,{G},Rare,$0.12
+SHF,004,Cacnea,Pkmn › Basic,{G},Common,$0.09
+SHF,005,Tropius,Pkmn › Basic,{G},Uncommon,$0.03
+SHF,006,Rowlet,Pkmn › Basic,{G},Common,$0.10
+SHF,007,Dartrix,Pkmn › Stage 1,{G},Uncommon,$0.03
+SHF,008,Decidueye,Pkmn › Stage 2,{G},Rare Holo,$0.14
+SHF,009,Dhelmise V,Pkmn › Basic,{G},Holo Rare V,$0.50
+SHF,010,Dhelmise VMAX,Pkmn › VMAX,{G},Holo Rare VMAX,$1.22
+SHF,011,Grookey,Pkmn › Basic,{G},Common,$0.04
+SHF,012,Thwackey,Pkmn › Stage 1,{G},Uncommon,$0.04
+SHF,013,Rillaboom,Pkmn › Stage 2,{G},Rare Holo,$0.14
+SHF,014,Gossifleur,Pkmn › Basic,{G},Common,$0.03
+SHF,015,Eldegoss,Pkmn › Stage 1,{G},Uncommon,$0.03
+SHF,016,Zarude,Pkmn › Basic,{G},Rare,$0.05
+SHF,017,Reshiram,Pkmn › Basic,{R},Amazing Rare,$0.46
+SHF,018,Cinderace V,Pkmn › Basic,{R},Holo Rare V,$0.60
+SHF,019,Cinderace VMAX,Pkmn › VMAX,{R},Holo Rare VMAX,$1.26
+SHF,020,Horsea,Pkmn › Basic,{W},Common,$0.03
+SHF,021,Kyogre,Pkmn › Basic,{W},Amazing Rare,$0.59
+SHF,022,Buizel,Pkmn › Basic,{W},Common,$0.03
+SHF,023,Floatzel,Pkmn › Stage 1,{W},Uncommon,$0.02
+SHF,024,Manaphy,Pkmn › Basic,{W},Rare,$0.09
+SHF,025,Volcanion,Pkmn › Basic,{W},Rare,$0.06
+SHF,026,Chewtle,Pkmn › Basic,{W},Common,$0.04
+SHF,027,Drednaw,Pkmn › Stage 1,{W},Rare,$0.07
+SHF,028,Cramorant,Pkmn › Basic,{W},Uncommon,$0.03
+SHF,029,Snom,Pkmn › Basic,{W},Common,$0.07
+SHF,030,Frosmoth,Pkmn › Stage 1,{W},Rare Holo,$0.15
+SHF,031,Shinx,Pkmn › Basic,{L},Common,$0.03
+SHF,032,Luxio,Pkmn › Stage 1,{L},Uncommon,$0.09
+SHF,033,Luxray,Pkmn › Stage 2,{L},Rare Holo,$0.11
+SHF,034,Rotom,Pkmn › Basic,{L},Uncommon,$0.04
+SHF,035,Morpeko,Pkmn › Basic,{L},Common,$0.07
+SHF,036,Morpeko,Pkmn › Basic,{L},Common,$0.05
+SHF,037,Morpeko V,Pkmn › Basic,{L},Holo Rare V,$0.48
+SHF,038,Morpeko VMAX,Pkmn › VMAX,{L},Holo Rare VMAX,$0.99
+SHF,039,Indeedee V,Pkmn › Basic,{P},Holo Rare V,$0.46
+SHF,040,Trapinch,Pkmn › Basic,{F},Common,$0.09
+SHF,041,Koffing,Pkmn › Basic,{D},Common,$0.11
+SHF,042,Galarian Weezing,Pkmn › Stage 1,{D},Rare Holo,$0.21
+SHF,043,Spinarak,Pkmn › Basic,{D},Common,$0.03
+SHF,044,Crobat V,Pkmn › Basic,{D},Holo Rare V,$0.60
+SHF,045,Crobat VMAX,Pkmn › VMAX,{D},Holo Rare VMAX,$0.99
+SHF,046,Yveltal,Pkmn › Basic,{D},Amazing Rare,$0.44
+SHF,047,Nickit,Pkmn › Basic,{D},Common,$0.03
+SHF,048,Thievul,Pkmn › Stage 1,{D},Rare Holo,$0.18
+SHF,049,Cufant,Pkmn › Basic,{M},Common,$0.04
+SHF,050,Ditto V,Pkmn › Basic,{C},Holo Rare V,$0.81
+SHF,051,Ditto VMAX,Pkmn › VMAX,{C},Holo Rare VMAX,$1.41
+SHF,052,Eevee,Pkmn › Basic,{C},Common,$0.06
+SHF,053,Greedent V,Pkmn › Basic,{C},Holo Rare V,$0.53
+SHF,054,Cramorant V,Pkmn › Basic,{C},Holo Rare V,$0.59
+SHF,055,Cramorant VMAX,Pkmn › VMAX,{C},Holo Rare VMAX,$0.98
+SHF,056,Indeedee,Pkmn › Basic,{C},Rare Holo,$0.10
+SHF,057,Ball Guy,Trainer › Supporter,,Uncommon,$0.08
+SHF,058,Boss’s Orders,Trainer › Supporter,,Rare,$0.28
+SHF,059,Gym Trainer,Trainer › Supporter,,Uncommon,$0.04
+SHF,060,Professor’s Research,Trainer › Supporter,,Rare,$0.09
+SHF,061,Rusted Shield,Trainer › Tool,,Uncommon,$0.11
+SHF,062,Rusted Sword,Trainer › Tool,,Uncommon,$0.03
+SHF,063,Team Yell Towel,Trainer › Item,,Uncommon,$0.03
+SHF,064,Alcremie V,Pkmn › Basic,{P},Ultra Rare,$1.45
+SHF,065,Ball Guy,Trainer › Supporter,,Ultra Rare,$2.27
+SHF,066,Bird Keeper,Trainer › Supporter,,Ultra Rare,$1.32
+SHF,067,Cara Liss,Trainer › Supporter,,Ultra Rare,$1.00
+SHF,068,Gym Trainer,Trainer › Supporter,,Ultra Rare,$0.91
+SHF,069,Piers,Trainer › Supporter,,Ultra Rare,$1.34
+SHF,070,Poké Kid,Trainer › Supporter,,Ultra Rare,$2.82
+SHF,071,Rose,Trainer › Supporter,,Ultra Rare,$0.98
+SHF,072,Skyla,Trainer › Supporter,,Ultra Rare,$8.09
+SHF,073,Alcremie VMAX,Pkmn › VMAX,{P},Rainbow Rare,$3.50
+SHF,SV001,Rowlet,Pkmn › Basic,{G},Shiny Rare,$1.49
+SHF,SV002,Dartrix,Pkmn › Stage 1,{G},Shiny Rare,$2.41
+SHF,SV003,Decidueye,Pkmn › Stage 2,{G},Shiny Rare,$4.21
+SHF,SV004,Grookey,Pkmn › Basic,{G},Shiny Rare,$1.02
+SHF,SV005,Thwackey,Pkmn › Stage 1,{G},Shiny Rare,$2.91
+SHF,SV006,Rillaboom,Pkmn › Stage 2,{G},Shiny Rare,$2.80
+SHF,SV007,Blipbug,Pkmn › Basic,{G},Shiny Rare,$1.70
+SHF,SV008,Dottler,Pkmn › Stage 1,{G},Shiny Rare,$1.33
+SHF,SV009,Orbeetle,Pkmn › Stage 2,{G},Shiny Rare,$1.92
+SHF,SV010,Gossifleur,Pkmn › Basic,{G},Shiny Rare,$2.11
+SHF,SV011,Eldegoss,Pkmn › Stage 1,{G},Shiny Rare,$1.42
+SHF,SV012,Applin,Pkmn › Basic,{G},Shiny Rare,$3.27
+SHF,SV013,Flapple,Pkmn › Stage 1,{G},Shiny Rare,$2.29
+SHF,SV014,Appletun,Pkmn › Stage 1,{G},Shiny Rare,$2.42
+SHF,SV015,Scorbunny,Pkmn › Basic,{R},Shiny Rare,$1.44
+SHF,SV016,Raboot,Pkmn › Stage 1,{R},Shiny Rare,$4.21
+SHF,SV017,Cinderace,Pkmn › Stage 2,{R},Shiny Rare,$4.47
+SHF,SV018,Sizzlipede,Pkmn › Basic,{R},Shiny Rare,$2.00
+SHF,SV019,Centiskorch,Pkmn › Stage 1,{R},Shiny Rare,$2.21
+SHF,SV020,Galarian Mr. Mime,Pkmn › Basic,{W},Shiny Rare,$1.26
+SHF,SV021,Galarian Mr. Rime,Pkmn › Stage 1,{W},Shiny Rare,$0.70
+SHF,SV022,Suicune,Pkmn › Basic,{W},Shiny Rare,$10.55
+SHF,SV023,Galarian Darumaka,Pkmn › Basic,{W},Shiny Rare,$1.77
+SHF,SV024,Galarian Darmanitan,Pkmn › Stage 1,{W},Shiny Rare,$1.59
+SHF,SV025,Sobble,Pkmn › Basic,{W},Shiny Rare,$0.90
+SHF,SV026,Drizzile,Pkmn › Stage 1,{W},Shiny Rare,$4.18
+SHF,SV027,Inteleon,Pkmn › Stage 2,{W},Shiny Rare,$4.21
+SHF,SV028,Chewtle,Pkmn › Basic,{W},Shiny Rare,$1.56
+SHF,SV029,Drednaw,Pkmn › Stage 1,{W},Shiny Rare,$1.79
+SHF,SV030,Cramorant,Pkmn › Basic,{W},Shiny Rare,$0.75
+SHF,SV031,Arrokuda,Pkmn › Basic,{W},Shiny Rare,$2.54
+SHF,SV032,Barraskewda,Pkmn › Stage 1,{W},Shiny Rare,$1.45
+SHF,SV033,Snom,Pkmn › Basic,{W},Shiny Rare,$1.12
+SHF,SV034,Frosmoth,Pkmn › Stage 1,{W},Shiny Rare,$2.67
+SHF,SV035,Eiscue,Pkmn › Basic,{W},Shiny Rare,$3.43
+SHF,SV036,Dracovish,Pkmn › Stage 1,{W},Shiny Rare,$2.64
+SHF,SV037,Arctovish,Pkmn › Stage 1,{W},Shiny Rare,$1.68
+SHF,SV038,Rotom,Pkmn › Basic,{L},Shiny Rare,$2.92
+SHF,SV039,Yamper,Pkmn › Basic,{L},Shiny Rare,$5.08
+SHF,SV040,Boltund,Pkmn › Stage 1,{L},Shiny Rare,$2.31
+SHF,SV041,Toxel,Pkmn › Basic,{L},Shiny Rare,$2.34
+SHF,SV042,Toxtricity,Pkmn › Stage 1,{L},Shiny Rare,$0.70
+SHF,SV043,Pincurchin,Pkmn › Basic,{L},Shiny Rare,$1.43
+SHF,SV044,Morpeko,Pkmn › Basic,{L},Shiny Rare,$4.28
+SHF,SV045,Dracozolt,Pkmn › Stage 1,{L},Shiny Rare,$2.78
+SHF,SV046,Arctozolt,Pkmn › Stage 1,{L},Shiny Rare,$2.12
+SHF,SV047,Galarian Ponyta,Pkmn › Basic,{P},Shiny Rare,$8.61
+SHF,SV048,Galarian Rapidash,Pkmn › Stage 1,{P},Shiny Rare,$6.09
+SHF,SV049,Galarian Corsola,Pkmn › Basic,{P},Shiny Rare,$1.83
+SHF,SV050,Galarian Cursola,Pkmn › Stage 1,{P},Shiny Rare,$1.81
+SHF,SV051,Dedenne,Pkmn › Basic,{P},Shiny Rare,$0.90
+SHF,SV052,Sinistea,Pkmn › Basic,{P},Shiny Rare,$1.96
+SHF,SV053,Polteageist,Pkmn › Stage 1,{P},Shiny Rare,$0.77
+SHF,SV054,Hatenna,Pkmn › Basic,{P},Shiny Rare,$1.89
+SHF,SV055,Hattrem,Pkmn › Stage 1,{P},Shiny Rare,$1.83
+SHF,SV056,Hatterene,Pkmn › Stage 2,{P},Shiny Rare,$2.17
+SHF,SV057,Milcery,Pkmn › Basic,{P},Shiny Rare,$2.12
+SHF,SV058,Alcremie,Pkmn › Stage 1,{P},Shiny Rare,$2.33
+SHF,SV059,Indeedee,Pkmn › Basic,{P},Shiny Rare,$1.34
+SHF,SV060,Dreepy,Pkmn › Basic,{P},Shiny Rare,$2.88
+SHF,SV061,Drakloak,Pkmn › Stage 1,{P},Shiny Rare,$3.45
+SHF,SV062,Dragapult,Pkmn › Stage 2,{P},Shiny Rare,$1.05
+SHF,SV063,Galarian Farfetch’d,Pkmn › Basic,{F},Shiny Rare,$1.62
+SHF,SV064,Galarian Sirfetch’d,Pkmn › Stage 1,{F},Shiny Rare,$0.81
+SHF,SV065,Galarian Yamask,Pkmn › Basic,{F},Shiny Rare,$1.86
+SHF,SV066,Galarian Runerigus,Pkmn › Stage 1,{F},Shiny Rare,$1.66
+SHF,SV067,Rolycoly,Pkmn › Basic,{F},Shiny Rare,$1.55
+SHF,SV068,Carkol,Pkmn › Stage 1,{F},Shiny Rare,$1.68
+SHF,SV069,Coalossal,Pkmn › Stage 2,{F},Shiny Rare,$1.89
+SHF,SV070,Silicobra,Pkmn › Basic,{F},Shiny Rare,$1.61
+SHF,SV071,Sandaconda,Pkmn › Stage 1,{F},Shiny Rare,$1.67
+SHF,SV072,Clobbopus,Pkmn › Basic,{F},Shiny Rare,$1.69
+SHF,SV073,Grapploct,Pkmn › Stage 1,{F},Shiny Rare,$1.78
+SHF,SV074,Falinks,Pkmn › Basic,{F},Shiny Rare,$0.71
+SHF,SV075,Stonjourner,Pkmn › Basic,{F},Shiny Rare,$1.57
+SHF,SV076,Koffing,Pkmn › Basic,{D},Shiny Rare,$4.76
+SHF,SV077,Galarian Weezing,Pkmn › Stage 1,{D},Shiny Rare,$3.00
+SHF,SV078,Galarian Zigzagoon,Pkmn › Basic,{D},Shiny Rare,$0.98
+SHF,SV079,Galarian Linoone,Pkmn › Stage 1,{D},Shiny Rare,$2.02
+SHF,SV080,Galarian Obstagoon,Pkmn › Stage 2,{D},Shiny Rare,$2.40
+SHF,SV081,Nickit,Pkmn › Basic,{D},Shiny Rare,$1.66
+SHF,SV082,Thievul,Pkmn › Stage 1,{D},Shiny Rare,$1.66
+SHF,SV083,Impidimp,Pkmn › Basic,{D},Shiny Rare,$1.97
+SHF,SV084,Morgrem,Pkmn › Stage 1,{D},Shiny Rare,$1.68
+SHF,SV085,Grimmsnarl,Pkmn › Stage 2,{D},Shiny Rare,$2.00
+SHF,SV086,Galarian Meowth,Pkmn › Basic,{M},Shiny Rare,$2.84
+SHF,SV087,Galarian Perrserker,Pkmn › Stage 1,{M},Shiny Rare,$2.00
+SHF,SV088,Galarian Stunfisk,Pkmn › Basic,{M},Shiny Rare,$1.36
+SHF,SV089,Corviknight,Pkmn › Stage 2,{M},Shiny Rare,$0.81
+SHF,SV090,Cufant,Pkmn › Basic,{M},Shiny Rare,$2.15
+SHF,SV091,Copperajah,Pkmn › Stage 1,{M},Shiny Rare,$1.51
+SHF,SV092,Duraludon,Pkmn › Basic,{M},Shiny Rare,$1.80
+SHF,SV093,Minccino,Pkmn › Basic,{C},Shiny Rare,$3.25
+SHF,SV094,Cinccino,Pkmn › Stage 1,{C},Shiny Rare,$2.50
+SHF,SV095,Ducklett,Pkmn › Basic,{C},Shiny Rare,$2.02
+SHF,SV096,Swanna,Pkmn › Stage 1,{C},Shiny Rare,$1.63
+SHF,SV097,Bunnelby,Pkmn › Basic,{C},Shiny Rare,$0.65
+SHF,SV098,Oranguru,Pkmn › Basic,{C},Shiny Rare,$1.71
+SHF,SV099,Skwovet,Pkmn › Basic,{C},Shiny Rare,$1.50
+SHF,SV100,Greedent,Pkmn › Stage 1,{C},Shiny Rare,$1.53
+SHF,SV101,Rookidee,Pkmn › Basic,{C},Shiny Rare,$1.88
+SHF,SV102,Corvisquire,Pkmn › Stage 1,{C},Shiny Rare,$1.66
+SHF,SV103,Wooloo,Pkmn › Basic,{C},Shiny Rare,$0.75
+SHF,SV104,Dubwool,Pkmn › Stage 1,{C},Shiny Rare,$1.26
+SHF,SV105,Rillaboom V,Pkmn › Basic,{G},Shiny Rare V or VMAX,$0.98
+SHF,SV106,Rillaboom VMAX,Pkmn › VMAX,{G},Shiny Rare V or VMAX,$2.59
+SHF,SV107,Charizard VMAX,Pkmn › VMAX,{R},Shiny Rare V or VMAX,$83.11
+SHF,SV108,Centiskorch V,Pkmn › Basic,{R},Shiny Rare V or VMAX,$0.87
+SHF,SV109,Centiskorch VMAX,Pkmn › VMAX,{R},Shiny Rare V or VMAX,$2.17
+SHF,SV110,Lapras V,Pkmn › Basic,{W},Shiny Rare V or VMAX,$1.40
+SHF,SV111,Lapras VMAX,Pkmn › VMAX,{W},Shiny Rare V or VMAX,$3.53
+SHF,SV112,Toxtricity V,Pkmn › Basic,{L},Shiny Rare V or VMAX,$0.91
+SHF,SV113,Toxtricity VMAX,Pkmn › VMAX,{L},Shiny Rare V or VMAX,$2.78
+SHF,SV114,Indeedee V,Pkmn › Basic,{P},Shiny Rare V or VMAX,$0.65
+SHF,SV115,Falinks V,Pkmn › Basic,{F},Shiny Rare V or VMAX,$0.80
+SHF,SV116,Grimmsnarl V,Pkmn › Basic,{D},Shiny Rare V or VMAX,$0.94
+SHF,SV117,Grimmsnarl VMAX,Pkmn › VMAX,{D},Shiny Rare V or VMAX,$3.89
+SHF,SV118,Ditto V,Pkmn › Basic,{C},Shiny Rare V or VMAX,$1.41
+SHF,SV119,Ditto VMAX,Pkmn › VMAX,{C},Shiny Rare V or VMAX,$5.19
+SHF,SV120,Dubwool V,Pkmn › Basic,{C},Shiny Rare V or VMAX,$0.77
+SHF,SV121,Eternatus V,Pkmn › Basic,{D},Rare Secret,$2.94
+SHF,SV122,Eternatus VMAX,Pkmn › VMAX,{D},Rare Secret,$3.7

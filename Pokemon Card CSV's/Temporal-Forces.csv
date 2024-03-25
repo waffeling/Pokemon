@@ -1,0 +1,219 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+EF,001,Scyther,Pkmn › Basic,{G},Common,not sold
+TEF,002,Pineco,Pkmn › Basic,{G},Common,not sold
+TEF,003,Seedot,Pkmn › Basic,{G},Common,not sold
+TEF,004,Nuzleaf,Pkmn › Stage 1,{G},Common,not sold
+TEF,005,Shiftry,Pkmn › Stage 2,{G},Uncommon,not sold
+TEF,006,Shroomish,Pkmn › Basic,{G},Common,not sold
+TEF,007,Breloom,Pkmn › Stage 1,{G},Common,not sold
+TEF,008,Roselia,Pkmn › Basic,{G},Common,not sold
+TEF,009,Roserade,Pkmn › Stage 1,{G},Uncommon,not sold
+TEF,010,Turtwig,Pkmn › Basic,{G},Common,not sold
+TEF,011,Grotle,Pkmn › Stage 1,{G},Common,not sold
+TEF,012,Torterra ex,Pkmn › Stage 2,{G},Double Rare,not sold
+TEF,013,Shaymin,Pkmn › Basic,{G},Uncommon,not sold
+TEF,014,Cottonee,Pkmn › Basic,{G},Common,not sold
+TEF,015,Whimsicott,Pkmn › Stage 1,{G},Rare,not sold
+TEF,016,Deerling,Pkmn › Basic,{G},Common,not sold
+TEF,017,Sawsbuck,Pkmn › Stage 1,{G},Uncommon,not sold
+TEF,018,Grubbin,Pkmn › Basic,{G},Common,not sold
+TEF,019,Dhelmise,Pkmn › Basic,{G},Uncommon,not sold
+TEF,020,Bramblin,Pkmn › Basic,{G},Common,not sold
+TEF,021,Brambleghast,Pkmn › Stage 1,{G},Rare,not sold
+TEF,022,Scovillain ex,Pkmn › Stage 1,{G},Double Rare,not sold
+TEF,023,Rellor,Pkmn › Basic,{G},Common,not sold
+TEF,024,Rabsca,Pkmn › Stage 1,{G},Uncommon,not sold
+TEF,025,Iron Leaves ex,Pkmn › Basic,{G},Double Rare,not sold
+TEF,026,Ponyta,Pkmn › Basic,{R},Common,not sold
+TEF,027,Rapidash,Pkmn › Stage 1,{R},Uncommon,not sold
+TEF,028,Slugma,Pkmn › Basic,{R},Common,not sold
+TEF,029,Magcargo,Pkmn › Stage 1,{R},Rare,not sold
+TEF,030,Victini,Pkmn › Basic,{R},Common,not sold
+TEF,031,Heatmor,Pkmn › Basic,{R},Common,not sold
+TEF,032,Litten,Pkmn › Basic,{R},Common,not sold
+TEF,033,Torracat,Pkmn › Stage 1,{R},Common,not sold
+TEF,034,Incineroar ex,Pkmn › Stage 2,{R},Double Rare,not sold
+TEF,035,Turtonator,Pkmn › Basic,{R},Common,not sold
+TEF,036,Sizzlipede,Pkmn › Basic,{R},Common,not sold
+TEF,037,Centiskorch,Pkmn › Stage 1,{R},Uncommon,not sold
+TEF,038,Gouging Fire ex,Pkmn › Basic,{R},Double Rare,not sold
+TEF,039,Totodile,Pkmn › Basic,{W},Common,not sold
+TEF,040,Croconaw,Pkmn › Stage 1,{W},Common,not sold
+TEF,041,Feraligatr,Pkmn › Stage 2,{W},Rare,not sold
+TEF,042,Carvanha,Pkmn › Basic,{W},Common,not sold
+TEF,043,Sharpedo,Pkmn › Stage 1,{W},Uncommon,not sold
+TEF,044,Keldeo,Pkmn › Basic,{W},Uncommon,not sold
+TEF,045,Snom,Pkmn › Basic,{W},Common,not sold
+TEF,046,Frosmoth,Pkmn › Stage 1,{W},Common,not sold
+TEF,047,Wiglett,Pkmn › Basic,{W},Common,not sold
+TEF,048,Finizen,Pkmn › Basic,{W},Common,not sold
+TEF,049,Palafin,Pkmn › Stage 1,{W},Uncommon,not sold
+TEF,050,Walking Wake ex,Pkmn › Basic,{W},Double Rare,not sold
+TEF,051,Pikachu,Pkmn › Basic,{L},Common,not sold
+TEF,052,Raichu,Pkmn › Stage 1,{L},Common,not sold
+TEF,053,Electabuzz,Pkmn › Basic,{L},Common,not sold
+TEF,054,Electivire,Pkmn › Stage 1,{L},Uncommon,not sold
+TEF,055,Charjabug,Pkmn › Stage 1,{L},Common,not sold
+TEF,056,Vikavolt,Pkmn › Stage 2,{L},Uncommon,not sold
+TEF,057,Zeraora,Pkmn › Basic,{L},Uncommon,not sold
+TEF,058,Yamper,Pkmn › Basic,{L},Common,not sold
+TEF,059,Boltund,Pkmn › Stage 1,{L},Uncommon,not sold
+TEF,060,Wugtrio ex,Pkmn › Stage 1,{L},Double Rare,not sold
+TEF,061,Iron Hands,Pkmn › Basic,{L},Uncommon,not sold
+TEF,062,Iron Thorns,Pkmn › Basic,{L},Rare,not sold
+TEF,063,Mr. Mime,Pkmn › Basic,{P},Common,not sold
+TEF,064,Marill,Pkmn › Basic,{P},Common,not sold
+TEF,065,Azumarill,Pkmn › Stage 1,{P},Common,not sold
+TEF,066,Girafarig,Pkmn › Basic,{P},Common,not sold
+TEF,067,Latias,Pkmn › Basic,{P},Uncommon,not sold
+TEF,068,Bronzor,Pkmn › Basic,{P},Common,not sold
+TEF,069,Bronzong,Pkmn › Stage 1,{P},Uncommon,not sold
+TEF,070,Solosis,Pkmn › Basic,{P},Common,not sold
+TEF,071,Duosion,Pkmn › Stage 1,{P},Common,not sold
+TEF,072,Reuniclus,Pkmn › Stage 2,{P},Uncommon,not sold
+TEF,073,Elgyem,Pkmn › Basic,{P},Common,not sold
+TEF,074,Beheeyem,Pkmn › Stage 1,{P},Uncommon,not sold
+TEF,075,Cutiefly,Pkmn › Basic,{P},Common,not sold
+TEF,076,Ribombee,Pkmn › Stage 1,{P},Uncommon,not sold
+TEF,077,Scream Tail,Pkmn › Basic,{P},Uncommon,not sold
+TEF,078,Flutter Mane,Pkmn › Basic,{P},Rare,not sold
+TEF,079,Iron Valiant,Pkmn › Basic,{P},Uncommon,not sold
+TEF,080,Iron Valiant,Pkmn › Basic,{P},Rare,not sold
+TEF,081,Iron Crown ex,Pkmn › Basic,{P},Double Rare,not sold
+TEF,082,Meditite,Pkmn › Basic,{F},Common,not sold
+TEF,083,Medicham,Pkmn › Stage 1,{F},Common,not sold
+TEF,084,Relicanth,Pkmn › Basic,{F},Rare,not sold
+TEF,085,Drilbur,Pkmn › Basic,{F},Common,not sold
+TEF,086,Excadrill,Pkmn › Stage 1,{F},Uncommon,not sold
+TEF,087,Golett,Pkmn › Basic,{F},Common,not sold
+TEF,088,Golurk,Pkmn › Stage 1,{F},Uncommon,not sold
+TEF,089,Rockruff,Pkmn › Basic,{F},Common,not sold
+TEF,090,Lycanroc,Pkmn › Stage 1,{F},Uncommon,not sold
+TEF,091,Mudbray,Pkmn › Basic,{F},Common,not sold
+TEF,092,Mudsdale,Pkmn › Stage 1,{F},Uncommon,not sold
+TEF,093,Rolycoly,Pkmn › Basic,{F},Common,not sold
+TEF,094,Carkol,Pkmn › Stage 1,{F},Common,not sold
+TEF,095,Coalossal,Pkmn › Stage 2,{F},Uncommon,not sold
+TEF,096,Great Tusk,Pkmn › Basic,{F},Uncommon,not sold
+TEF,097,Great Tusk,Pkmn › Basic,{F},Uncommon,not sold
+TEF,098,Sandy Shocks,Pkmn › Basic,{F},Uncommon,not sold
+TEF,099,Iron Boulder ex,Pkmn › Basic,{F},Double Rare,not sold
+TEF,100,Ekans,Pkmn › Basic,{D},Common,not sold
+TEF,101,Arbok,Pkmn › Stage 1,{D},Common,not sold
+TEF,102,Gastly,Pkmn › Basic,{D},Common,not sold
+TEF,103,Haunter,Pkmn › Stage 1,{D},Common,not sold
+TEF,104,Gengar ex,Pkmn › Stage 2,{D},Double Rare,not sold
+TEF,105,Poochyena,Pkmn › Basic,{D},Common,not sold
+TEF,106,Mightyena,Pkmn › Stage 1,{D},Common,not sold
+TEF,107,Sableye,Pkmn › Basic,{D},Uncommon,not sold
+TEF,108,Farigiraf ex,Pkmn › Stage 1,{D},Double Rare,not sold
+TEF,109,Roaring Moon,Pkmn › Basic,{D},Rare,not sold
+TEF,110,Forretress,Pkmn › Stage 1,{M},Uncommon,not sold
+TEF,111,Scizor ex,Pkmn › Stage 1,{M},Double Rare,not sold
+TEF,112,Mawile,Pkmn › Basic,{M},Common,not sold
+TEF,113,Beldum,Pkmn › Basic,{M},Common,not sold
+TEF,114,Metang,Pkmn › Stage 1,{M},Common,not sold
+TEF,115,Metagross,Pkmn › Stage 2,{M},Uncommon,not sold
+TEF,116,Meltan,Pkmn › Basic,{M},Common,not sold
+TEF,117,Melmetal,Pkmn › Stage 1,{M},Rare,not sold
+TEF,118,Iron Treads,Pkmn › Basic,{M},Uncommon,not sold
+TEF,119,Koraidon,Pkmn › Basic,{N},Rare,not sold
+TEF,120,Koraidon ex,Pkmn › Basic,{N},Double Rare,not sold
+TEF,121,Miraidon,Pkmn › Basic,{N},Rare,not sold
+TEF,122,Miraidon ex,Pkmn › Basic,{N},Double Rare,not sold
+TEF,123,Raging Bolt ex,Pkmn › Basic,{N},Double Rare,not sold
+TEF,124,Lickitung,Pkmn › Basic,{C},Common,not sold
+TEF,125,Lickilicky,Pkmn › Stage 1,{C},Common,not sold
+TEF,126,Hoothoot,Pkmn › Basic,{C},Common,not sold
+TEF,127,Noctowl,Pkmn › Stage 1,{C},Common,not sold
+TEF,128,Dunsparce,Pkmn › Basic,{C},Common,not sold
+TEF,129,Dudunsparce,Pkmn › Stage 1,{C},Rare,not sold
+TEF,130,Skitty,Pkmn › Basic,{C},Common,not sold
+TEF,131,Delcatty,Pkmn › Stage 1,{C},Uncommon,not sold
+TEF,132,Chatot,Pkmn › Basic,{C},Common,not sold
+TEF,133,Pidove,Pkmn › Basic,{C},Common,not sold
+TEF,134,Tranquill,Pkmn › Stage 1,{C},Common,not sold
+TEF,135,Unfezant,Pkmn › Stage 2,{C},Uncommon,not sold
+TEF,136,Minccino,Pkmn › Basic,{C},Common,not sold
+TEF,137,Cinccino,Pkmn › Stage 1,{C},Uncommon,not sold
+TEF,138,Drampa,Pkmn › Basic,{C},Rare,not sold
+TEF,139,Iron Jugulis,Pkmn › Basic,{C},Uncommon,not sold
+TEF,140,Ancient Booster Energy Capsule,Trainer › Tool,,Uncommon,not sold
+TEF,141,Awakening Drum,Trainer › Item,,ACE SPEC Rare,not sold
+TEF,142,Bianca’s Devotion,Trainer › Supporter,,Uncommon,not sold
+TEF,143,Boxed Order,Trainer › Item,,Uncommon,not sold
+TEF,144,Buddy-Buddy Poffin,Trainer › Item,,Uncommon,not sold
+TEF,145,Ciphermaniac’s Codebreaking,Trainer › Supporter,,Uncommon,not sold
+TEF,146,Eri,Trainer › Supporter,,Uncommon,not sold
+TEF,147,Explorer’s Guidance,Trainer › Supporter,,Uncommon,not sold
+TEF,148,Full Metal Lab,Trainer › Stadium,,Uncommon,not sold
+TEF,149,Future Booster Energy Capsule,Trainer › Tool,,Uncommon,not sold
+TEF,150,Hand Trimmer,Trainer › Item,,Uncommon,not sold
+TEF,151,Heavy Baton,Trainer › Tool,,Uncommon,not sold
+TEF,152,Hero’s Cape,Trainer › Tool,,ACE SPEC Rare,not sold
+TEF,153,Master Ball,Trainer › Item,,ACE SPEC Rare,not sold
+TEF,154,Maximum Belt,Trainer › Tool,,ACE SPEC Rare,not sold
+TEF,155,Morty’s Conviction,Trainer › Supporter,,Uncommon,not sold
+TEF,156,Perilous Jungle,Trainer › Stadium,,Uncommon,not sold
+TEF,157,Prime Catcher,Trainer › Item,,ACE SPEC Rare,not sold
+TEF,158,Reboot Pod,Trainer › Item,,ACE SPEC Rare,not sold
+TEF,159,Rescue Board,Trainer › Tool,,Uncommon,not sold
+TEF,160,Salvatore,Trainer › Supporter,,Uncommon,not sold
+TEF,161,Mist Energy,Energy › Special,,Uncommon,not sold
+TEF,162,Neo Upper Energy,Energy › Special,,ACE SPEC Rare,not sold
+TEF,163,Shiftry,Pkmn › Stage 2,{G},Illustration Rare,not sold
+TEF,164,Grotle,Pkmn › Stage 1,{G},Illustration Rare,not sold
+TEF,165,Deerling,Pkmn › Basic,{G},Illustration Rare,not sold
+TEF,166,Sawsbuck,Pkmn › Stage 1,{G},Illustration Rare,not sold
+TEF,167,Litten,Pkmn › Basic,{R},Illustration Rare,not sold
+TEF,168,Snom,Pkmn › Basic,{W},Illustration Rare,not sold
+TEF,169,Charjabug,Pkmn › Stage 1,{L},Illustration Rare,not sold
+TEF,170,Bronzor,Pkmn › Basic,{P},Illustration Rare,not sold
+TEF,171,Reuniclus,Pkmn › Stage 2,{P},Illustration Rare,not sold
+TEF,172,Cutiefly,Pkmn › Basic,{P},Illustration Rare,not sold
+TEF,173,Relicanth,Pkmn › Basic,{F},Illustration Rare,not sold
+TEF,174,Excadrill,Pkmn › Stage 1,{F},Illustration Rare,not sold
+TEF,175,Mudsdale,Pkmn › Stage 1,{F},Illustration Rare,not sold
+TEF,176,Arbok,Pkmn › Stage 1,{D},Illustration Rare,not sold
+TEF,177,Gastly,Pkmn › Basic,{D},Illustration Rare,not sold
+TEF,178,Metagross,Pkmn › Stage 2,{M},Illustration Rare,not sold
+TEF,179,Meltan,Pkmn › Basic,{M},Illustration Rare,not sold
+TEF,180,Lickitung,Pkmn › Basic,{C},Illustration Rare,not sold
+TEF,181,Chatot,Pkmn › Basic,{C},Illustration Rare,not sold
+TEF,182,Minccino,Pkmn › Basic,{C},Illustration Rare,not sold
+TEF,183,Cinccino,Pkmn › Stage 1,{C},Illustration Rare,not sold
+TEF,184,Drampa,Pkmn › Basic,{C},Illustration Rare,not sold
+TEF,185,Torterra ex,Pkmn › Stage 2,{G},Ultra Rare,not sold
+TEF,186,Iron Leaves ex,Pkmn › Basic,{G},Ultra Rare,not sold
+TEF,187,Incineroar ex,Pkmn › Stage 2,{R},Ultra Rare,not sold
+TEF,188,Gouging Fire ex,Pkmn › Basic,{R},Ultra Rare,not sold
+TEF,189,Walking Wake ex,Pkmn › Basic,{W},Ultra Rare,not sold
+TEF,190,Wugtrio ex,Pkmn › Stage 1,{L},Ultra Rare,not sold
+TEF,191,Iron Crown ex,Pkmn › Basic,{P},Ultra Rare,not sold
+TEF,192,Iron Boulder ex,Pkmn › Basic,{F},Ultra Rare,not sold
+TEF,193,Gengar ex,Pkmn › Stage 2,{D},Ultra Rare,not sold
+TEF,194,Farigiraf ex,Pkmn › Stage 1,{D},Ultra Rare,not sold
+TEF,195,Scizor ex,Pkmn › Stage 1,{M},Ultra Rare,not sold
+TEF,196,Raging Bolt ex,Pkmn › Basic,{N},Ultra Rare,not sold
+TEF,197,Bianca’s Devotion,Trainer › Supporter,,Ultra Rare,not sold
+TEF,198,Ciphermaniac’s Codebreaking,Trainer › Supporter,,Ultra Rare,not sold
+TEF,199,Eri,Trainer › Supporter,,Ultra Rare,not sold
+TEF,200,Explorer’s Guidance,Trainer › Supporter,,Ultra Rare,not sold
+TEF,201,Morty’s Conviction,Trainer › Supporter,,Ultra Rare,not sold
+TEF,202,Salvatore,Trainer › Supporter,,Ultra Rare,not sold
+TEF,203,Iron Leaves ex,Pkmn › Basic,{G},Special Illustration Rare,not sold
+TEF,204,Gouging Fire ex,Pkmn › Basic,{R},Special Illustration Rare,not sold
+TEF,205,Walking Wake ex,Pkmn › Basic,{W},Special Illustration Rare,not sold
+TEF,206,Iron Crown ex,Pkmn › Basic,{P},Special Illustration Rare,not sold
+TEF,207,Iron Boulder ex,Pkmn › Basic,{F},Special Illustration Rare,not sold
+TEF,208,Raging Bolt ex,Pkmn › Basic,{N},Special Illustration Rare,not sold
+TEF,209,Bianca’s Devotion,Trainer › Supporter,,Special Illustration Rare,not sold
+TEF,210,Eri,Trainer › Supporter,,Special Illustration Rare,not sold
+TEF,211,Morty’s Conviction,Trainer › Supporter,,Special Illustration Rare,not sold
+TEF,212,Salvatore,Trainer › Supporter,,Special Illustration Rare,not sold
+TEF,213,Iron Leaves ex,Pkmn › Basic,{G},Hyper Rare,not sold
+TEF,214,Gouging Fire ex,Pkmn › Basic,{R},Hyper Rare,not sold
+TEF,215,Walking Wake ex,Pkmn › Basic,{W},Hyper Rare,not sold
+TEF,216,Iron Crown ex,Pkmn › Basic,{P},Hyper Rare,not sold
+TEF,217,Iron Boulder ex,Pkmn › Basic,{F},Hyper Rare,not sold
+TEF,218,Raging Bolt ex,Pkmn › Basic,{N},Hyper Rare,not sol
