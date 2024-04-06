@@ -98,3 +98,5 @@ async def createuse(user: user):
     sqlcommand = "INSERT INTO users(username, password, statusmessage) VALUES('{user}', '{password}', '{statusmessage}')"
     execute_ins_upd(sqlcommand.format(user = user.username, password = user.password, statusmessage = user.statusmessage))
     return "ok"
+
+
