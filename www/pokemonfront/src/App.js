@@ -2,7 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import Header from './header.js';
 import LoginModal from './modal.js'
-
+import Card from './card.js';
+import Carousel from './carousel.js';
 
 function MyButton() {
   return (
@@ -20,21 +21,10 @@ function App() {
     <div className="App">
       
       <Header></Header>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn To
-        </a>
-      </header>
+      <body>
+        <div style={{background: "red", width: "70%"}} class="object-fit-contain border rounded"><Carousel></Carousel></div>
+        <div style={{background: "red", width: "70%"}} class="object-fit-contain border rounded"><Carousel></Carousel></div>
+      </body>
     </div>
   );
 }
