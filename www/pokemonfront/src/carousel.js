@@ -4,7 +4,7 @@ import './index.css';
 export default function Carousel (props) {
     return (
 <div id = {props.Carouselname} class="carousel slide">
-  <div class="carousel-inner ">
+  <div class="carousel-inner border border-opacity-100">
     <div class="carousel-item active" > 
       <div class="Carouselcontainer">
         <Card/>
