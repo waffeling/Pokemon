@@ -22,8 +22,12 @@ function App() {
       
       <Header></Header>
       <body>
-        <div style={{background: "red", width: "70%"}} class="object-fit-contain border rounded"><Carousel></Carousel></div>
-        <div style={{background: "red", width: "70%"}} class="object-fit-contain border rounded"><Carousel></Carousel></div>
+        <div style={{padding:"2em"}}>
+          <div style={{width: "100%"}} class="object-fit-contain border rounded"><Carousel Carouselname = "HomeDecks"></Carousel></div>
+        </div>
+        <div style={{padding:"2em"}}>
+          <div style={{width: "100%"}} class="object-fit-contain border rounded"><Carousel Carouselname = "PopularDecks"></Carousel></div>
+        </div>
       </body>
     </div>
   );

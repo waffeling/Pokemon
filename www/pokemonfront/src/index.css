@@ -12,7 +12,11 @@ code {
     monospace;
 }
 
-
+.Carouselcontainer {
+  display: inline-flex;
+  justify-content: space-between;
+  align-content: start;
+ }
 
 
 
