@@ -1,0 +1,468 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+
+RE,001,Weedle,Pkmn › Basic,{G},Common,$0.04,en_US-SWSH6-001-weedle.jpg
+
+CRE,002,Kakuna,Pkmn › Stage 1,{G},Uncommon,$0.12,en_US-SWSH6-002-kakuna.jpg
+
+CRE,003,Beedrill,Pkmn › Stage 2,{G},Rare Holo,$0.19,en_US-SWSH6-003-beedrill.jpg
+
+CRE,004,Ledyba,Pkmn › Basic,{G},Common,$0.05,en_US-SWSH6-004-ledyba.jpg
+
+CRE,005,Ledian,Pkmn › Stage 1,{G},Uncommon,$0.07,en_US-SWSH6-005-ledian.jpg
+
+CRE,006,Heracross,Pkmn › Basic,{G},Common,$0.04,en_US-SWSH6-006-heracross.jpg
+
+CRE,007,Celebi V,Pkmn › Basic,{G},Holo Rare V,$0.61,en_US-SWSH6-007-celebi_v.jpg
+
+CRE,008,Celebi VMAX,Pkmn › VMAX,{G},Holo Rare VMAX,$1.70,en_US-SWSH6-008-celebi_vmax.jpg
+
+CRE,009,Snover,Pkmn › Basic,{G},Common,$0.02,en_US-SWSH6-009-snover.jpg
+
+CRE,010,Abomasnow,Pkmn › Stage 1,{G},Rare,$0.06,en_US-SWSH6-010-abomasnow.jpg
+
+CRE,011,Deerling,Pkmn › Basic,{G},Common,$0.06,en_US-SWSH6-011-deerling.jpg
+
+CRE,012,Sawsbuck,Pkmn › Stage 1,{G},Rare,$0.09,en_US-SWSH6-012-sawsbuck.jpg
+
+CRE,013,Bounsweet,Pkmn › Basic,{G},Common,$0.03,en_US-SWSH6-013-bounsweet.jpg
+
+CRE,014,Steenee,Pkmn › Stage 1,{G},Uncommon,$0.04,en_US-SWSH6-014-steenee.jpg
+
+CRE,015,Tsareena,Pkmn › Stage 2,{G},Rare,$0.06,en_US-SWSH6-015-tsareena.jpg
+
+CRE,016,Grookey,Pkmn › Basic,{G},Common,$0.04,en_US-SWSH6-016-grookey.jpg
+
+CRE,017,Thwackey,Pkmn › Stage 1,{G},Uncommon,$0.03,en_US-SWSH6-017-thwackey.jpg
+
+CRE,018,Rillaboom,Pkmn › Stage 2,{G},Rare Holo,$0.16,en_US-SWSH6-018-rillaboom.jpg
+
+CRE,019,Zarude,Pkmn › Basic,{G},Rare Holo,$0.20,en_US-SWSH6-019-zarude.jpg
+
+CRE,020,Blaziken V,Pkmn › Basic,{R},Holo Rare V,$0.69,en_US-SWSH6-020-blaziken_v.jpg
+
+CRE,021,Blaziken VMAX,Pkmn › VMAX,{R},Holo Rare VMAX,$1.58,en_US-SWSH6-021-blaziken_vmax.jpg
+
+CRE,022,Castform Sunny Form,Pkmn › Basic,{R},Common,$0.07,en_US-SWSH6-022-castform_sunny_form.jpg
+
+CRE,023,Larvesta,Pkmn › Basic,{R},Common,$0.04,en_US-SWSH6-023-larvesta.jpg
+
+CRE,024,Volcarona,Pkmn › Stage 1,{R},Rare,$0.04,en_US-SWSH6-024-volcarona.jpg
+
+CRE,025,Volcanion V,Pkmn › Basic,{R},Holo Rare V,$0.62,en_US-SWSH6-025-volcanion_v.jpg
+
+CRE,026,Scorbunny,Pkmn › Basic,{R},Common,$0.06,en_US-SWSH6-026-scorbunny.jpg
+
+CRE,027,Raboot,Pkmn › Stage 1,{R},Uncommon,$0.06,en_US-SWSH6-027-raboot.jpg
+
+CRE,028,Cinderace,Pkmn › Stage 2,{R},Rare Holo,$0.18,en_US-SWSH6-028-cinderace.jpg
+
+CRE,029,Lapras,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH6-029-lapras.jpg
+
+CRE,030,Sneasel,Pkmn › Basic,{W},Common,$0.02,en_US-SWSH6-030-sneasel.jpg
+
+CRE,031,Weavile,Pkmn › Stage 1,{W},Rare Holo,$0.17,en_US-SWSH6-031-weavile.jpg
+
+CRE,032,Delibird,Pkmn › Basic,{W},Common,$0.03,en_US-SWSH6-032-delibird.jpg
+
+CRE,033,Castform Rainy Form,Pkmn › Basic,{W},Common,$0.08,en_US-SWSH6-033-castform_rainy_form.jpg
+
+CRE,034,Castform Snowy Form,Pkmn › Basic,{W},Common,$0.06,en_US-SWSH6-034-castform_snowy_form.jpg
+
+CRE,035,Snorunt,Pkmn › Basic,{W},Common,$0.10,en_US-SWSH6-035-snorunt.jpg
+
+CRE,036,Froslass,Pkmn › Stage 1,{W},Rare Holo,$0.15,en_US-SWSH6-036-froslass.jpg
+
+CRE,037,Spheal,Pkmn › Basic,{W},Common,$0.05,en_US-SWSH6-037-spheal.jpg
+
+CRE,038,Sealeo,Pkmn › Stage 1,{W},Uncommon,$0.04,en_US-SWSH6-038-sealeo.jpg
+
+CRE,039,Walrein,Pkmn › Stage 2,{W},Rare,$0.07,en_US-SWSH6-039-walrein.jpg
+
+CRE,040,Tapu Fini,Pkmn › Basic,{W},Rare Holo,$0.25,en_US-SWSH6-040-tapu_fini.jpg
+
+CRE,041,Sobble,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH6-041-sobble.jpg
+
+CRE,042,Drizzile,Pkmn › Stage 1,{W},Uncommon,$0.12,en_US-SWSH6-042-drizzile.jpg
+
+CRE,043,Inteleon,Pkmn › Stage 2,{W},Rare Holo,$0.19,en_US-SWSH6-043-inteleon.jpg
+
+CRE,044,Rapid Strike Urshifu,Pkmn › Stage 1,{W},Rare Holo,$0.18,en_US-SWSH6-044-rapid_strike_urshifu.jpg
+
+CRE,045,Ice Rider Calyrex V,Pkmn › Basic,{W},Holo Rare V,$0.47,en_US-SWSH6-045-ice_rider_calyrex_v.jpg
+
+CRE,046,Ice Rider Calyrex VMAX,Pkmn › VMAX,{W},Holo Rare VMAX,$0.99,en_US-SWSH6-046-ice_rider_calyrex_vmax.jpg
+
+CRE,047,Mareep,Pkmn › Basic,{L},Common,$0.04,en_US-SWSH6-047-mareep.jpg
+
+CRE,048,Flaaffy,Pkmn › Stage 1,{L},Uncommon,$0.04,en_US-SWSH6-048-flaaffy.jpg
+
+CRE,049,Ampharos,Pkmn › Stage 2,{L},Rare,$0.08,en_US-SWSH6-049-ampharos.jpg
+
+CRE,050,Blitzle,Pkmn › Basic,{L},Common,$0.03,en_US-SWSH6-050-blitzle.jpg
+
+CRE,051,Zebstrika,Pkmn › Stage 1,{L},Rare,$0.05,en_US-SWSH6-051-zebstrika.jpg
+
+CRE,052,Thundurus,Pkmn › Basic,{L},Rare Holo,$0.15,en_US-SWSH6-052-thundurus.jpg
+
+CRE,053,Zeraora V,Pkmn › Basic,{L},Holo Rare V,$0.56,en_US-SWSH6-053-zeraora_v.jpg
+
+CRE,054,Galarian Slowpoke,Pkmn › Basic,{P},Common,$0.05,en_US-SWSH6-054-galarian_slowpoke.jpg
+
+CRE,055,Gastly,Pkmn › Basic,{P},Common,$0.05,en_US-SWSH6-055-gastly.jpg
+
+CRE,056,Haunter,Pkmn › Stage 1,{P},Uncommon,$0.07,en_US-SWSH6-056-haunter.jpg
+
+CRE,057,Gengar,Pkmn › Stage 2,{P},Rare Holo,$0.42,en_US-SWSH6-057-gengar.jpg
+
+CRE,058,Galarian Articuno V,Pkmn › Basic,{P},Holo Rare V,$0.65,en_US-SWSH6-058-galarian_articuno_v.jpg
+
+CRE,059,Ralts,Pkmn › Basic,{P},Common,$0.04,en_US-SWSH6-059-ralts.jpg
+
+CRE,060,Kirlia,Pkmn › Stage 1,{P},Uncommon,$0.08,en_US-SWSH6-060-kirlia.jpg
+
+CRE,061,Gardevoir,Pkmn › Stage 2,{P},Rare Holo,$1.92,en_US-SWSH6-061-gardevoir.jpg
+
+CRE,062,Shuppet,Pkmn › Basic,{P},Common,$0.03,en_US-SWSH6-062-shuppet.jpg
+
+CRE,063,Banette,Pkmn › Stage 1,{P},Rare,$0.06,en_US-SWSH6-063-banette.jpg
+
+CRE,064,Cresselia,Pkmn › Basic,{P},Rare Holo,$0.23,en_US-SWSH6-064-cresselia.jpg
+
+CRE,065,Golett,Pkmn › Basic,{P},Common,$0.10,en_US-SWSH6-065-golett.jpg
+
+CRE,066,Golurk,Pkmn › Stage 1,{P},Rare,$0.07,en_US-SWSH6-066-golurk.jpg
+
+CRE,067,Swirlix,Pkmn › Basic,{P},Common,$0.03,en_US-SWSH6-067-swirlix.jpg
+
+CRE,068,Slurpuff,Pkmn › Stage 1,{P},Rare,$0.05,en_US-SWSH6-068-slurpuff.jpg
+
+CRE,069,Inkay,Pkmn › Basic,{P},Common,$0.09,en_US-SWSH6-069-inkay.jpg
+
+CRE,070,Malamar,Pkmn › Stage 1,{P},Rare,$0.05,en_US-SWSH6-070-malamar.jpg
+
+CRE,071,Hatenna,Pkmn › Basic,{P},Common,$0.04,en_US-SWSH6-071-hatenna.jpg
+
+CRE,072,Hattrem,Pkmn › Stage 1,{P},Uncommon,$0.03,en_US-SWSH6-072-hattrem.jpg
+
+CRE,073,Hatterene,Pkmn › Stage 2,{P},Rare Holo,$0.16,en_US-SWSH6-073-hatterene.jpg
+
+CRE,074,Shadow Rider Calyrex V,Pkmn › Basic,{P},Holo Rare V,$0.72,en_US-SWSH6-074-shadow_rider_calyrex_v.jpg
+
+CRE,075,Shadow Rider Calyrex VMAX,Pkmn › VMAX,{P},Holo Rare VMAX,$1.12,en_US-SWSH6-075-shadow_rider_calyrex_vmax.jpg
+
+CRE,076,Diglett,Pkmn › Basic,{F},Common,$0.04,en_US-SWSH6-076-diglett.jpg
+
+CRE,077,Dugtrio,Pkmn › Stage 1,{F},Rare,$0.06,en_US-SWSH6-077-dugtrio.jpg
+
+CRE,078,Galarian Farfetch’d,Pkmn › Basic,{F},Common,$0.06,en_US-SWSH6-078-galarian_farfetchd.jpg
+
+CRE,079,Galarian Sirfetch’d,Pkmn › Stage 1,{F},Rare,$0.14,en_US-SWSH6-079-galarian_sirfetchd.jpg
+
+CRE,080,Galarian Zapdos V,Pkmn › Basic,{F},Holo Rare V,$0.60,en_US-SWSH6-080-galarian_zapdos_v.jpg
+
+CRE,081,Gallade,Pkmn › Stage 2,{F},Rare,$0.10,en_US-SWSH6-081-gallade.jpg
+
+CRE,082,Galarian Yamask,Pkmn › Basic,{F},Common,$0.03,en_US-SWSH6-082-galarian_yamask.jpg
+
+CRE,083,Galarian Runerigus,Pkmn › Stage 1,{F},Rare Holo,$0.19,en_US-SWSH6-083-galarian_runerigus.jpg
+
+CRE,084,Crabrawler,Pkmn › Basic,{F},Common,$0.02,en_US-SWSH6-084-crabrawler.jpg
+
+CRE,085,Crabominable,Pkmn › Stage 1,{F},Uncommon,$0.03,en_US-SWSH6-085-crabominable.jpg
+
+CRE,086,Rockruff,Pkmn › Basic,{F},Common,$0.03,en_US-SWSH6-086-rockruff.jpg
+
+CRE,087,Lycanroc,Pkmn › Stage 1,{F},Rare Holo,$0.15,en_US-SWSH6-087-lycanroc.jpg
+
+CRE,088,Passimian,Pkmn › Basic,{F},Rare,$0.06,en_US-SWSH6-088-passimian.jpg
+
+CRE,089,Sandaconda V,Pkmn › Basic,{F},Holo Rare V,$0.55,en_US-SWSH6-089-sandaconda_v.jpg
+
+CRE,090,Sandaconda VMAX,Pkmn › VMAX,{F},Holo Rare VMAX,$1.48,en_US-SWSH6-090-sandaconda_vmax.jpg
+
+CRE,091,Clobbopus,Pkmn › Basic,{F},Common,$0.03,en_US-SWSH6-091-clobbopus.jpg
+
+CRE,092,Grapploct,Pkmn › Stage 1,{F},Rare Holo,$0.13,en_US-SWSH6-092-grapploct.jpg
+
+CRE,093,Kubfu,Pkmn › Basic,{F},Common,$0.12,en_US-SWSH6-093-kubfu.jpg
+
+CRE,094,Koffing,Pkmn › Basic,{D},Common,$0.10,en_US-SWSH6-094-koffing.jpg
+
+CRE,095,Weezing,Pkmn › Stage 1,{D},Rare,$0.09,en_US-SWSH6-095-weezing.jpg
+
+CRE,096,Galarian Weezing,Pkmn › Stage 1,{D},Rare,$0.10,en_US-SWSH6-096-galarian_weezing.jpg
+
+CRE,097,Galarian Moltres V,Pkmn › Basic,{D},Holo Rare V,$2.10,en_US-SWSH6-097-galarian_moltres_v.jpg
+
+CRE,098,Galarian Slowking,Pkmn › Stage 1,{D},Rare Holo,$0.20,en_US-SWSH6-098-galarian_slowking.jpg
+
+CRE,099,Galarian Slowking V,Pkmn › Basic,{D},Holo Rare V,$0.66,en_US-SWSH6-099-galarian_slowking_v.jpg
+
+CRE,100,Galarian Slowking VMAX,Pkmn › VMAX,{D},Holo Rare VMAX,$1.09,en_US-SWSH6-100-galarian_slowking_vmax.jpg
+
+CRE,101,Qwilfish,Pkmn › Basic,{D},Common,$0.04,en_US-SWSH6-101-qwilfish.jpg
+
+CRE,102,Seviper,Pkmn › Basic,{D},Rare,$0.07,en_US-SWSH6-102-seviper.jpg
+
+CRE,103,Spiritomb,Pkmn › Basic,{D},Rare,$0.06,en_US-SWSH6-103-spiritomb.jpg
+
+CRE,104,Liepard V,Pkmn › Basic,{D},Holo Rare V,$0.49,en_US-SWSH6-104-liepard_v.jpg
+
+CRE,105,Venipede,Pkmn › Basic,{D},Common,$0.04,en_US-SWSH6-105-venipede.jpg
+
+CRE,106,Whirlipede,Pkmn › Stage 1,{D},Uncommon,$0.03,en_US-SWSH6-106-whirlipede.jpg
+
+CRE,107,Scolipede,Pkmn › Stage 2,{D},Rare,$0.09,en_US-SWSH6-107-scolipede.jpg
+
+CRE,108,Single Strike Urshifu,Pkmn › Stage 1,{D},Rare Holo,$0.19,en_US-SWSH6-108-single_strike_urshifu.jpg
+
+CRE,109,Aron,Pkmn › Basic,{M},Common,$0.03,en_US-SWSH6-109-aron.jpg
+
+CRE,110,Lairon,Pkmn › Stage 1,{M},Uncommon,$0.10,en_US-SWSH6-110-lairon.jpg
+
+CRE,111,Aggron,Pkmn › Stage 2,{M},Rare,$0.07,en_US-SWSH6-111-aggron.jpg
+
+CRE,112,Metagross V,Pkmn › Basic,{M},Holo Rare V,$0.70,en_US-SWSH6-112-metagross_v.jpg
+
+CRE,113,Metagross VMAX,Pkmn › VMAX,{M},Holo Rare VMAX,$1.69,en_US-SWSH6-113-metagross_vmax.jpg
+
+CRE,114,Cobalion,Pkmn › Basic,{M},Rare Holo,$0.14,en_US-SWSH6-114-cobalion.jpg
+
+CRE,115,Tauros,Pkmn › Basic,{C},Rare Holo,$0.17,en_US-SWSH6-115-tauros.jpg
+
+CRE,116,Porygon,Pkmn › Basic,{C},Common,$0.07,en_US-SWSH6-116-porygon.jpg
+
+CRE,117,Porygon2,Pkmn › Stage 1,{C},Uncommon,$0.04,en_US-SWSH6-117-porygon2.jpg
+
+CRE,118,Porygon-Z,Pkmn › Stage 2,{C},Rare Holo,$0.17,en_US-SWSH6-118-porygon_z.jpg
+
+CRE,119,Blissey V,Pkmn › Basic,{C},Holo Rare V,$0.56,en_US-SWSH6-119-blissey_v.jpg
+
+CRE,120,Zangoose,Pkmn › Basic,{C},Rare,$0.06,en_US-SWSH6-120-zangoose.jpg
+
+CRE,121,Castform,Pkmn › Basic,{C},Common,$0.05,en_US-SWSH6-121-castform.jpg
+
+CRE,122,Kecleon,Pkmn › Basic,{C},Rare,$0.10,en_US-SWSH6-122-kecleon.jpg
+
+CRE,123,Shaymin,Pkmn › Basic,{C},Rare Holo,$0.17,en_US-SWSH6-123-shaymin.jpg
+
+CRE,124,Tornadus V,Pkmn › Basic,{C},Holo Rare V,$0.56,en_US-SWSH6-124-tornadus_v.jpg
+
+CRE,125,Tornadus VMAX,Pkmn › VMAX,{C},Holo Rare VMAX,$1.05,en_US-SWSH6-125-tornadus_vmax.jpg
+
+CRE,126,Furfrou,Pkmn › Basic,{C},Common,$0.05,en_US-SWSH6-126-furfrou.jpg
+
+CRE,127,Skwovet,Pkmn › Basic,{C},Common,$0.03,en_US-SWSH6-127-skwovet.jpg
+
+CRE,128,Greedent,Pkmn › Stage 1,{C},Rare Holo,$0.19,en_US-SWSH6-128-greedent.jpg
+
+CRE,129,Agatha,Trainer › Supporter,,Uncommon,$0.08,en_US-SWSH6-129-agatha.jpg
+
+CRE,130,Avery,Trainer › Supporter,,Uncommon,$0.23,en_US-SWSH6-130-avery.jpg
+
+CRE,131,Brawly,Trainer › Supporter,,Uncommon,$0.08,en_US-SWSH6-131-brawly.jpg
+
+CRE,132,Caitlin,Trainer › Supporter,,Uncommon,$0.05,en_US-SWSH6-132-caitlin.jpg
+
+CRE,133,Crushing Gloves,Trainer › Tool,,Uncommon,$0.08,en_US-SWSH6-133-crushing_gloves.jpg
+
+CRE,134,Doctor,Trainer › Supporter,,Uncommon,$0.12,en_US-SWSH6-134-doctor.jpg
+
+CRE,135,Dyna Tree Hill,Trainer › Stadium,,Uncommon,$0.04,en_US-SWSH6-135-dyna_tree_hill.jpg
+
+CRE,136,Echoing Horn,Trainer › Item,,Uncommon,$0.05,en_US-SWSH6-136-echoing_horn.jpg
+
+CRE,137,Expedition Uniform,Trainer › Item,,Uncommon,$0.05,en_US-SWSH6-137-expedition_uniform.jpg
+
+CRE,138,Fire-Resistant Gloves,Trainer › Tool,,Uncommon,$0.04,en_US-SWSH6-138-fire_resistant_gloves.jpg
+
+CRE,139,Flannery,Trainer › Supporter,,Uncommon,$0.04,en_US-SWSH6-139-flannery.jpg
+
+CRE,140,Fog Crystal,Trainer › Item,,Uncommon,$0.14,en_US-SWSH6-140-fog_crystal.jpg
+
+CRE,141,Galarian Chestplate,Trainer › Tool,,Uncommon,$0.04,en_US-SWSH6-141-galarian_chestplate.jpg
+
+CRE,142,Honey,Trainer › Supporter,,Uncommon,$0.03,en_US-SWSH6-142-honey.jpg
+
+CRE,143,Justified Gloves,Trainer › Tool,,Uncommon,$0.07,en_US-SWSH6-143-justified_gloves.jpg
+
+CRE,144,Karen’s Conviction,Trainer › Supporter,,Uncommon,$0.06,en_US-SWSH6-144-karens_conviction.jpg
+
+CRE,145,Klara,Trainer › Supporter,,Uncommon,$0.15,en_US-SWSH6-145-klara.jpg
+
+CRE,146,Melony,Trainer › Supporter,,Uncommon,$0.09,en_US-SWSH6-146-melony.jpg
+
+CRE,147,Old Cemetery,Trainer › Stadium,,Uncommon,$0.06,en_US-SWSH6-147-old_cemetery.jpg
+
+CRE,148,Path to the Peak,Trainer › Stadium,,Uncommon,$0.24,en_US-SWSH6-148-path_to_the_peak.jpg
+
+CRE,149,Peonia,Trainer › Supporter,,Uncommon,$0.11,en_US-SWSH6-149-peonia.jpg
+
+CRE,150,Peony,Trainer › Supporter,,Uncommon,$0.12,en_US-SWSH6-150-peony.jpg
+
+CRE,151,Rapid Strike Scroll of the Skies,Trainer › Tool,,Uncommon,$0.02,en_US-SWSH6-151-rapid_strike_scroll_of_the_skies.jpg
+
+CRE,152,Rugged Helmet,Trainer › Tool,,Uncommon,$0.04,en_US-SWSH6-152-rugged_helmet.jpg
+
+CRE,153,Siebold,Trainer › Supporter,,Uncommon,$0.03,en_US-SWSH6-153-siebold.jpg
+
+CRE,154,Single Strike Scroll of Piercing,Trainer › Tool,,Uncommon,$0.05,en_US-SWSH6-154-single_strike_scroll_of_piercing.jpg
+
+CRE,155,Weeding Gloves,Trainer › Tool,,Uncommon,$0.05,en_US-SWSH6-155-weeding_gloves.jpg
+
+CRE,156,Welcoming Lantern,Trainer › Item,,Uncommon,$0.04,en_US-SWSH6-156-welcoming_lantern.jpg
+
+CRE,157,Impact Energy,Energy › Special,,Uncommon,$0.05,en_US-SWSH6-157-impact_energy.jpg
+
+CRE,158,Lucky Energy,Energy › Special,,Uncommon,$0.07,en_US-SWSH6-158-lucky_energy.jpg
+
+CRE,159,Spiral Energy,Energy › Special,,Uncommon,$0.06,en_US-SWSH6-159-spiral_energy.jpg
+
+CRE,160,Celebi V,Pkmn › Basic,{G},Ultra Rare,$3.60,en_US-SWSH6-160-celebi_v.jpg
+
+CRE,161,Blaziken V,Pkmn › Basic,{R},Ultra Rare,$3.78,en_US-SWSH6-161-blaziken_v.jpg
+
+CRE,162,Volcanion V,Pkmn › Basic,{R},Ultra Rare,$1.86,en_US-SWSH6-162-volcanion_v.jpg
+
+CRE,163,Ice Rider Calyrex V,Pkmn › Basic,{W},Ultra Rare,$3.14,en_US-SWSH6-163-ice_rider_calyrex_v.jpg
+
+CRE,164,Ice Rider Calyrex V,Pkmn › Basic,{W},Ultra Rare,$13.60,en_US-SWSH6-164-ice_rider_calyrex_v.jpg
+
+CRE,165,Zeraora V,Pkmn › Basic,{L},Ultra Rare,$5.16,en_US-SWSH6-165-zeraora_v.jpg
+
+CRE,166,Zeraora V,Pkmn › Basic,{L},Ultra Rare,$41.96,en_US-SWSH6-166-zeraora_v.jpg
+
+CRE,167,Galarian Rapidash V,Pkmn › Basic,{P},Ultra Rare,$6.78,en_US-SWSH6-167-galarian_rapidash_v.jpg
+
+CRE,168,Galarian Rapidash V,Pkmn › Basic,{P},Ultra Rare,$38.35,en_US-SWSH6-168-galarian_rapidash_v.jpg
+
+CRE,169,Galarian Articuno V,Pkmn › Basic,{P},Ultra Rare,$5.19,en_US-SWSH6-169-galarian_articuno_v.jpg
+
+CRE,170,Galarian Articuno V,Pkmn › Basic,{P},Ultra Rare,$39.79,en_US-SWSH6-170-galarian_articuno_v.jpg
+
+CRE,171,Shadow Rider Calyrex V,Pkmn › Basic,{P},Ultra Rare,$3.45,en_US-SWSH6-171-shadow_rider_calyrex_v.jpg
+
+CRE,172,Shadow Rider Calyrex V,Pkmn › Basic,{P},Ultra Rare,$18.12,en_US-SWSH6-172-shadow_rider_calyrex_v.jpg
+
+CRE,173,Galarian Zapdos V,Pkmn › Basic,{F},Ultra Rare,$6.28,en_US-SWSH6-173-galarian_zapdos_v.jpg
+
+CRE,174,Galarian Zapdos V,Pkmn › Basic,{F},Ultra Rare,$42.49,en_US-SWSH6-174-galarian_zapdos_v.jpg
+
+CRE,175,Sandaconda V,Pkmn › Basic,{F},Ultra Rare,$1.66,en_US-SWSH6-175-sandaconda_v.jpg
+
+CRE,176,Galarian Moltres V,Pkmn › Basic,{D},Ultra Rare,$10.27,en_US-SWSH6-176-galarian_moltres_v.jpg
+
+CRE,177,Galarian Moltres V,Pkmn › Basic,{D},Ultra Rare,$123.38,en_US-SWSH6-177-galarian_moltres_v.jpg
+
+CRE,178,Galarian Slowking V,Pkmn › Basic,{D},Ultra Rare,$4.05,en_US-SWSH6-178-galarian_slowking_v.jpg
+
+CRE,179,Galarian Slowking V,Pkmn › Basic,{D},Ultra Rare,$26.57,en_US-SWSH6-179-galarian_slowking_v.jpg
+
+CRE,180,Liepard V,Pkmn › Basic,{D},Ultra Rare,$1.53,en_US-SWSH6-180-liepard_v.jpg
+
+CRE,181,Metagross V,Pkmn › Basic,{M},Ultra Rare,$2.57,en_US-SWSH6-181-metagross_v.jpg
+
+CRE,182,Blissey V,Pkmn › Basic,{C},Ultra Rare,$3.37,en_US-SWSH6-182-blissey_v.jpg
+
+CRE,183,Blissey V,Pkmn › Basic,{C},Ultra Rare,$15.88,en_US-SWSH6-183-blissey_v.jpg
+
+CRE,184,Tornadus V,Pkmn › Basic,{C},Ultra Rare,$2.78,en_US-SWSH6-184-tornadus_v.jpg
+
+CRE,185,Tornadus V,Pkmn › Basic,{C},Ultra Rare,$20.25,en_US-SWSH6-185-tornadus_v.jpg
+
+CRE,186,Agatha,Trainer › Supporter,,Ultra Rare,$4.24,en_US-SWSH6-186-agatha.jpg
+
+CRE,187,Avery,Trainer › Supporter,,Ultra Rare,$6.10,en_US-SWSH6-187-avery.jpg
+
+CRE,188,Brawly,Trainer › Supporter,,Ultra Rare,$1.47,en_US-SWSH6-188-brawly.jpg
+
+CRE,189,Caitlin,Trainer › Supporter,,Ultra Rare,$24.40,en_US-SWSH6-189-caitlin.jpg
+
+CRE,190,Doctor,Trainer › Supporter,,Ultra Rare,$6.30,en_US-SWSH6-190-doctor.jpg
+
+CRE,191,Flannery,Trainer › Supporter,,Ultra Rare,$17.01,en_US-SWSH6-191-flannery.jpg
+
+CRE,192,Honey,Trainer › Supporter,,Ultra Rare,$6.00,en_US-SWSH6-192-honey.jpg
+
+CRE,193,Karen’s Conviction,Trainer › Supporter,,Ultra Rare,$10.73,en_US-SWSH6-193-karens_conviction.jpg
+
+CRE,194,Klara,Trainer › Supporter,,Ultra Rare,$19.92,en_US-SWSH6-194-klara.jpg
+
+CRE,195,Melony,Trainer › Supporter,,Ultra Rare,$4.13,en_US-SWSH6-195-melony.jpg
+
+CRE,196,Peonia,Trainer › Supporter,,Ultra Rare,$11.18,en_US-SWSH6-196-peonia.jpg
+
+CRE,197,Peony,Trainer › Supporter,,Ultra Rare,$7.32,en_US-SWSH6-197-peony.jpg
+
+CRE,198,Siebold,Trainer › Supporter,,Ultra Rare,$2.54,en_US-SWSH6-198-siebold.jpg
+
+CRE,199,Celebi VMAX,Pkmn › VMAX,{G},Rainbow Rare,$8.61,en_US-SWSH6-199-celebi_vmax.jpg
+
+CRE,200,Blaziken VMAX,Pkmn › VMAX,{R},Rainbow Rare,$13.94,en_US-SWSH6-200-blaziken_vmax.jpg
+
+CRE,201,Blaziken VMAX,Pkmn › VMAX,{R},Rainbow Rare,$184.09,en_US-SWSH6-201-blaziken_vmax.jpg
+
+CRE,202,Ice Rider Calyrex VMAX,Pkmn › VMAX,{W},Rainbow Rare,$7.73,en_US-SWSH6-202-ice_rider_calyrex_vmax.jpg
+
+CRE,203,Ice Rider Calyrex VMAX,Pkmn › VMAX,{W},Rainbow Rare,$37.95,en_US-SWSH6-203-ice_rider_calyrex_vmax.jpg
+
+CRE,204,Shadow Rider Calyrex VMAX,Pkmn › VMAX,{P},Rainbow Rare,$7.21,en_US-SWSH6-204-shadow_rider_calyrex_vmax.jpg
+
+CRE,205,Shadow Rider Calyrex VMAX,Pkmn › VMAX,{P},Rainbow Rare,$48.95,en_US-SWSH6-205-shadow_rider_calyrex_vmax.jpg
+
+CRE,206,Sandaconda VMAX,Pkmn › VMAX,{F},Rainbow Rare,$6.76,en_US-SWSH6-206-sandaconda_vmax.jpg
+
+CRE,207,Galarian Slowking VMAX,Pkmn › VMAX,{D},Rainbow Rare,$6.75,en_US-SWSH6-207-galarian_slowking_vmax.jpg
+
+CRE,208,Metagross VMAX,Pkmn › VMAX,{M},Rainbow Rare,$8.77,en_US-SWSH6-208-metagross_vmax.jpg
+
+CRE,209,Tornadus VMAX,Pkmn › VMAX,{C},Rainbow Rare,$6.99,en_US-SWSH6-209-tornadus_vmax.jpg
+
+CRE,210,Agatha,Trainer › Supporter,,Rainbow Rare,$4.59,en_US-SWSH6-210-agatha.jpg
+
+CRE,211,Avery,Trainer › Supporter,,Rainbow Rare,$10.23,en_US-SWSH6-211-avery.jpg
+
+CRE,212,Brawly,Trainer › Supporter,,Rainbow Rare,$4.63,en_US-SWSH6-212-brawly.jpg
+
+CRE,213,Caitlin,Trainer › Supporter,,Rainbow Rare,$7.37,en_US-SWSH6-213-caitlin.jpg
+
+CRE,214,Doctor,Trainer › Supporter,,Rainbow Rare,$5.63,en_US-SWSH6-214-doctor.jpg
+
+CRE,215,Flannery,Trainer › Supporter,,Rainbow Rare,$4.80,en_US-SWSH6-215-flannery.jpg
+
+CRE,216,Karen’s Conviction,Trainer › Supporter,,Rainbow Rare,$4.48,en_US-SWSH6-216-karens_conviction.jpg
+
+CRE,217,Klara,Trainer › Supporter,,Rainbow Rare,$6.66,en_US-SWSH6-217-klara.jpg
+
+CRE,218,Melony,Trainer › Supporter,,Rainbow Rare,$7.45,en_US-SWSH6-218-melony.jpg
+
+CRE,219,Peonia,Trainer › Supporter,,Rainbow Rare,$6.82,en_US-SWSH6-219-peonia.jpg
+
+CRE,220,Peony,Trainer › Supporter,,Rainbow Rare,$6.17,en_US-SWSH6-220-peony.jpg
+
+CRE,221,Siebold,Trainer › Supporter,,Rainbow Rare,$4.29,en_US-SWSH6-221-siebold.jpg
+
+CRE,222,Electrode,Pkmn › Stage 1,{L},Rare Secret,$9.00,en_US-SWSH6-222-electrode.jpg
+
+CRE,223,Bronzong,Pkmn › Stage 1,{M},Rare Secret,$5.05,en_US-SWSH6-223-bronzong.jpg
+
+CRE,224,Snorlax,Pkmn › Basic,{C},Rare Secret,$65.29,en_US-SWSH6-224-snorlax.jpg
+
+CRE,225,Echoing Horn,Trainer › Item,,Rare Secret,$3.62,en_US-SWSH6-225-echoing_horn.jpg
+
+CRE,226,Fan of Waves,Trainer › Item,,Rare Secret,$2.43,en_US-SWSH6-226-fan_of_waves.jpg
+
+CRE,227,Fog Crystal,Trainer › Item,,Rare Secret,$6.22,en_US-SWSH6-227-fog_crystal.jpg
+
+CRE,228,Rugged Helmet,Trainer › Tool,,Rare Secret,$2.62,en_US-SWSH6-228-rugged_helmet.jpg
+
+CRE,229,Urn of Vitality,Trainer › Item,,Rare Secret,$2.23,en_US-SWSH6-229-urn_of_vitality.jpg
+
+CRE,230,Welcoming Lantern,Trainer › Item,,Rare Secret,$2.77,en_US-SWSH6-230-welcoming_lantern.jpg
+
+CRE,231,Water Energy,Energy › Basic,,Rare Secret,$15.04,en_US-SWSH6-231-water_energy.jpg
+
+CRE,232,Psychic Energy,Energy › Basic,,Rare Secret,$10.95,en_US-SWSH6-232-psychic_energy.jpg
+
+CRE,233,Fighting Energy,Energy › Basic,,Rare Secret,$7.2,en_US-SWSH6-233-fighting_energy.jpg
+

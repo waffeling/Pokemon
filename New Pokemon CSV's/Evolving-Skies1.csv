@@ -1,0 +1,476 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+
+VS,001,Pinsir,Pkmn › Basic,{G},Rare,$0.07,en_US-SWSH7-001-pinsir-1.jpg
+
+EVS,002,Hoppip,Pkmn › Basic,{G},Common,$0.04,en_US-SWSH7-002-hoppip.jpg
+
+EVS,003,Skiploom,Pkmn › Stage 1,{G},Uncommon,$0.04,en_US-SWSH7-003-skiploom.jpg
+
+EVS,004,Jumpluff,Pkmn › Stage 2,{G},Rare Holo,$0.19,en_US-SWSH7-004-jumpluff.jpg
+
+EVS,005,Seedot,Pkmn › Basic,{G},Common,$0.03,en_US-SWSH7-005-seedot.jpg
+
+EVS,006,Tropius,Pkmn › Basic,{G},Rare,$0.06,en_US-SWSH7-006-tropius.jpg
+
+EVS,007,Leafeon V,Pkmn › Basic,{G},Holo Rare V,$1.40,en_US-SWSH7-007-leafeon_v.jpg
+
+EVS,008,Leafeon VMAX,Pkmn › VMAX,{G},Holo Rare VMAX,$2.52,en_US-SWSH7-008-leafeon_vmax.jpg
+
+EVS,009,Petilil,Pkmn › Basic,{G},Common,$0.03,en_US-SWSH7-009-petilil.jpg
+
+EVS,010,Lilligant,Pkmn › Stage 1,{G},Rare,$0.09,en_US-SWSH7-010-lilligant.jpg
+
+EVS,011,Dwebble,Pkmn › Basic,{G},Common,$0.07,en_US-SWSH7-011-dwebble.jpg
+
+EVS,012,Crustle,Pkmn › Stage 1,{G},Uncommon,$0.03,en_US-SWSH7-012-crustle.jpg
+
+EVS,013,Trevenant V,Pkmn › Basic,{G},Holo Rare V,$0.50,en_US-SWSH7-013-trevenant_v.jpg
+
+EVS,014,Trevenant VMAX,Pkmn › VMAX,{G},Holo Rare VMAX,$0.98,en_US-SWSH7-014-trevenant_vmax.jpg
+
+EVS,015,Gossifleur,Pkmn › Basic,{G},Common,$0.03,en_US-SWSH7-015-gossifleur.jpg
+
+EVS,016,Eldegoss,Pkmn › Stage 1,{G},Rare Holo,$0.22,en_US-SWSH7-016-eldegoss.jpg
+
+EVS,017,Applin,Pkmn › Basic,{G},Common,$0.02,en_US-SWSH7-017-applin.jpg
+
+EVS,018,Flareon VMAX,Pkmn › VMAX,{R},Holo Rare VMAX,$3.88,en_US-SWSH7-018-flareon_vmax.jpg
+
+EVS,019,Entei,Pkmn › Basic,{R},Rare Holo,$0.18,en_US-SWSH7-019-entei.jpg
+
+EVS,020,Victini,Pkmn › Basic,{R},Rare Holo,$0.25,en_US-SWSH7-020-victini.jpg
+
+EVS,021,Volcarona V,Pkmn › Basic,{R},Holo Rare V,$0.87,en_US-SWSH7-021-volcarona_v.jpg
+
+EVS,022,Litleo,Pkmn › Basic,{R},Common,$0.04,en_US-SWSH7-022-litleo.jpg
+
+EVS,023,Pyroar,Pkmn › Stage 1,{R},Uncommon,$0.05,en_US-SWSH7-023-pyroar.jpg
+
+EVS,024,Psyduck,Pkmn › Basic,{W},Common,$0.05,en_US-SWSH7-024-psyduck.jpg
+
+EVS,025,Golduck,Pkmn › Stage 1,{W},Uncommon,$0.03,en_US-SWSH7-025-golduck.jpg
+
+EVS,026,Tentacool,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH7-026-tentacool.jpg
+
+EVS,027,Tentacruel,Pkmn › Stage 1,{W},Uncommon,$0.04,en_US-SWSH7-027-tentacruel.jpg
+
+EVS,028,Gyarados V,Pkmn › Basic,{W},Holo Rare V,$1.13,en_US-SWSH7-028-gyarados_v.jpg
+
+EVS,029,Gyarados VMAX,Pkmn › VMAX,{W},Holo Rare VMAX,$3.55,en_US-SWSH7-029-gyarados_vmax.jpg
+
+EVS,030,Vaporeon VMAX,Pkmn › VMAX,{W},Holo Rare VMAX,$3.46,en_US-SWSH7-030-vaporeon_vmax.jpg
+
+EVS,031,Suicune V,Pkmn › Basic,{W},Holo Rare V,$1.14,en_US-SWSH7-031-suicune_v.jpg
+
+EVS,032,Lotad,Pkmn › Basic,{W},Common,$0.03,en_US-SWSH7-032-lotad.jpg
+
+EVS,033,Lombre,Pkmn › Stage 1,{W},Uncommon,$0.03,en_US-SWSH7-033-lombre.jpg
+
+EVS,034,Ludicolo,Pkmn › Stage 2,{W},Rare Holo,$0.19,en_US-SWSH7-034-ludicolo.jpg
+
+EVS,035,Carvanha,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH7-035-carvanha.jpg
+
+EVS,036,Sharpedo,Pkmn › Stage 1,{W},Rare,$0.08,en_US-SWSH7-036-sharpedo.jpg
+
+EVS,037,Feebas,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH7-037-feebas.jpg
+
+EVS,038,Milotic,Pkmn › Stage 1,{W},Rare,$0.12,en_US-SWSH7-038-milotic.jpg
+
+EVS,039,Luvdisc,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH7-039-luvdisc.jpg
+
+EVS,040,Glaceon V,Pkmn › Basic,{W},Holo Rare V,$0.99,en_US-SWSH7-040-glaceon_v.jpg
+
+EVS,041,Glaceon VMAX,Pkmn › VMAX,{W},Holo Rare VMAX,$1.99,en_US-SWSH7-041-glaceon_vmax.jpg
+
+EVS,042,Tympole,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH7-042-tympole.jpg
+
+EVS,043,Cryogonal,Pkmn › Basic,{W},Common,$0.02,en_US-SWSH7-043-cryogonal.jpg
+
+EVS,044,Bergmite,Pkmn › Basic,{W},Common,$0.03,en_US-SWSH7-044-bergmite.jpg
+
+EVS,045,Avalugg,Pkmn › Stage 1,{W},Uncommon,$0.04,en_US-SWSH7-045-avalugg.jpg
+
+EVS,046,Wishiwashi,Pkmn › Basic,{W},Rare,$0.08,en_US-SWSH7-046-wishiwashi.jpg
+
+EVS,047,Eiscue,Pkmn › Basic,{W},Uncommon,$0.04,en_US-SWSH7-047-eiscue.jpg
+
+EVS,048,Arctovish V,Pkmn › Basic,{W},Holo Rare V,$0.50,en_US-SWSH7-048-arctovish_v.jpg
+
+EVS,049,Pikachu,Pkmn › Basic,{L},Common,$0.08,en_US-SWSH7-049-pikachu.jpg
+
+EVS,050,Raichu,Pkmn › Stage 1,{L},Rare Holo,$0.18,en_US-SWSH7-050-raichu.jpg
+
+EVS,051,Jolteon VMAX,Pkmn › VMAX,{L},Holo Rare VMAX,$3.18,en_US-SWSH7-051-jolteon_vmax.jpg
+
+EVS,052,Chinchou,Pkmn › Basic,{L},Common,$0.03,en_US-SWSH7-052-chinchou.jpg
+
+EVS,053,Lanturn,Pkmn › Stage 1,{L},Uncommon,$0.04,en_US-SWSH7-053-lanturn.jpg
+
+EVS,054,Mareep,Pkmn › Basic,{L},Common,$0.05,en_US-SWSH7-054-mareep.jpg
+
+EVS,055,Flaaffy,Pkmn › Stage 1,{L},Uncommon,$0.15,en_US-SWSH7-055-flaaffy.jpg
+
+EVS,056,Ampharos,Pkmn › Stage 2,{L},Rare,$0.08,en_US-SWSH7-056-ampharos.jpg
+
+EVS,057,Emolga,Pkmn › Basic,{L},Common,$0.10,en_US-SWSH7-057-emolga.jpg
+
+EVS,058,Dracozolt V,Pkmn › Basic,{L},Holo Rare V,$0.63,en_US-SWSH7-058-dracozolt_v.jpg
+
+EVS,059,Dracozolt VMAX,Pkmn › VMAX,{L},Holo Rare VMAX,$1.51,en_US-SWSH7-059-dracozolt_vmax.jpg
+
+EVS,060,Regieleki,Pkmn › Basic,{L},Rare Holo,$0.18,en_US-SWSH7-060-regieleki.jpg
+
+EVS,061,Drowzee,Pkmn › Basic,{P},Common,$0.08,en_US-SWSH7-061-drowzee.jpg
+
+EVS,062,Hypno,Pkmn › Stage 1,{P},Uncommon,$0.03,en_US-SWSH7-062-hypno.jpg
+
+EVS,063,Galarian Articuno,Pkmn › Basic,{P},Rare Holo,$0.17,en_US-SWSH7-063-galarian_articuno.jpg
+
+EVS,064,Espeon V,Pkmn › Basic,{P},Holo Rare V,$0.95,en_US-SWSH7-064-espeon_v.jpg
+
+EVS,065,Espeon VMAX,Pkmn › VMAX,{P},Holo Rare VMAX,$3.74,en_US-SWSH7-065-espeon_vmax.jpg
+
+EVS,066,Wobbuffet,Pkmn › Basic,{P},Common,$0.08,en_US-SWSH7-066-wobbuffet.jpg
+
+EVS,067,Sableye,Pkmn › Basic,{P},Common,$0.04,en_US-SWSH7-067-sableye.jpg
+
+EVS,068,Woobat,Pkmn › Basic,{P},Common,$0.08,en_US-SWSH7-068-woobat.jpg
+
+EVS,069,Swoobat,Pkmn › Stage 1,{P},Uncommon,$0.04,en_US-SWSH7-069-swoobat.jpg
+
+EVS,070,Golurk V,Pkmn › Basic,{P},Holo Rare V,$0.47,en_US-SWSH7-070-golurk_v.jpg
+
+EVS,071,Flabébé,Pkmn › Basic,{P},Common,$0.07,en_US-SWSH7-071-flabebe.jpg
+
+EVS,072,Floette,Pkmn › Stage 1,{P},Uncommon,$0.03,en_US-SWSH7-072-floette.jpg
+
+EVS,073,Florges,Pkmn › Stage 2,{P},Rare Holo,$0.15,en_US-SWSH7-073-florges.jpg
+
+EVS,074,Sylveon V,Pkmn › Basic,{P},Holo Rare V,$1.04,en_US-SWSH7-074-sylveon_v.jpg
+
+EVS,075,Sylveon VMAX,Pkmn › VMAX,{P},Holo Rare VMAX,$3.28,en_US-SWSH7-075-sylveon_vmax.jpg
+
+EVS,076,Pumpkaboo,Pkmn › Basic,{P},Common,$0.05,en_US-SWSH7-076-pumpkaboo.jpg
+
+EVS,077,Gourgeist,Pkmn › Stage 1,{P},Rare,$0.07,en_US-SWSH7-077-gourgeist.jpg
+
+EVS,078,Cutiefly,Pkmn › Basic,{P},Common,$0.05,en_US-SWSH7-078-cutiefly.jpg
+
+EVS,079,Ribombee,Pkmn › Stage 1,{P},Uncommon,$0.04,en_US-SWSH7-079-ribombee.jpg
+
+EVS,080,Marshadow,Pkmn › Basic,{P},Rare Holo,$0.18,en_US-SWSH7-080-marshadow.jpg
+
+EVS,081,Hitmonchan,Pkmn › Basic,{F},Common,$0.04,en_US-SWSH7-081-hitmonchan.jpg
+
+EVS,082,Galarian Zapdos,Pkmn › Basic,{F},Rare Holo,$0.21,en_US-SWSH7-082-galarian_zapdos.jpg
+
+EVS,083,Medicham V,Pkmn › Basic,{F},Holo Rare V,$0.72,en_US-SWSH7-083-medicham_v.jpg
+
+EVS,084,Hippopotas,Pkmn › Basic,{F},Common,$0.04,en_US-SWSH7-084-hippopotas.jpg
+
+EVS,085,Hippowdon,Pkmn › Stage 1,{F},Uncommon,$0.05,en_US-SWSH7-085-hippowdon.jpg
+
+EVS,086,Roggenrola,Pkmn › Basic,{F},Common,$0.03,en_US-SWSH7-086-roggenrola.jpg
+
+EVS,087,Boldore,Pkmn › Stage 1,{F},Uncommon,$0.10,en_US-SWSH7-087-boldore.jpg
+
+EVS,088,Gigalith,Pkmn › Stage 2,{F},Rare,$0.12,en_US-SWSH7-088-gigalith.jpg
+
+EVS,089,Palpitoad,Pkmn › Stage 1,{F},Uncommon,$0.08,en_US-SWSH7-089-palpitoad.jpg
+
+EVS,090,Seismitoad,Pkmn › Stage 2,{F},Rare,$0.06,en_US-SWSH7-090-seismitoad.jpg
+
+EVS,091,Lycanroc V,Pkmn › Basic,{F},Holo Rare V,$0.55,en_US-SWSH7-091-lycanroc_v.jpg
+
+EVS,092,Lycanroc VMAX,Pkmn › VMAX,{F},Holo Rare VMAX,$1.23,en_US-SWSH7-092-lycanroc_vmax.jpg
+
+EVS,093,Galarian Moltres,Pkmn › Basic,{D},Rare Holo,$0.26,en_US-SWSH7-093-galarian_moltres.jpg
+
+EVS,094,Umbreon V,Pkmn › Basic,{D},Holo Rare V,$1.13,en_US-SWSH7-094-umbreon_v.jpg
+
+EVS,095,Umbreon VMAX,Pkmn › VMAX,{D},Holo Rare VMAX,$5.05,en_US-SWSH7-095-umbreon_vmax.jpg
+
+EVS,096,Nuzleaf,Pkmn › Stage 1,{D},Uncommon,$0.03,en_US-SWSH7-096-nuzleaf.jpg
+
+EVS,097,Shiftry,Pkmn › Stage 2,{D},Rare,$0.06,en_US-SWSH7-097-shiftry.jpg
+
+EVS,098,Scraggy,Pkmn › Basic,{D},Common,$0.08,en_US-SWSH7-098-scraggy.jpg
+
+EVS,099,Scrafty,Pkmn › Stage 1,{D},Uncommon,$0.06,en_US-SWSH7-099-scrafty.jpg
+
+EVS,100,Garbodor V,Pkmn › Basic,{D},Holo Rare V,$0.51,en_US-SWSH7-100-garbodor_v.jpg
+
+EVS,101,Garbodor VMAX,Pkmn › VMAX,{D},Holo Rare VMAX,$1.05,en_US-SWSH7-101-garbodor_vmax.jpg
+
+EVS,102,Zorua,Pkmn › Basic,{D},Common,$0.10,en_US-SWSH7-102-zorua.jpg
+
+EVS,103,Zoroark,Pkmn › Stage 1,{D},Rare Holo,$0.35,en_US-SWSH7-103-zoroark.jpg
+
+EVS,104,Nickit,Pkmn › Basic,{D},Common,$0.02,en_US-SWSH7-104-nickit.jpg
+
+EVS,105,Thievul,Pkmn › Stage 1,{D},Rare,$0.05,en_US-SWSH7-105-thievul.jpg
+
+EVS,106,Altaria,Pkmn › Stage 1,{N},Rare,$0.07,en_US-SWSH7-106-altaria.jpg
+
+EVS,107,Bagon,Pkmn › Basic,{N},Common,$0.04,en_US-SWSH7-107-bagon.jpg
+
+EVS,108,Shelgon,Pkmn › Stage 1,{N},Uncommon,$0.05,en_US-SWSH7-108-shelgon.jpg
+
+EVS,109,Salamence,Pkmn › Stage 2,{N},Rare Holo,$0.28,en_US-SWSH7-109-salamence.jpg
+
+EVS,110,Rayquaza V,Pkmn › Basic,{N},Holo Rare V,$0.76,en_US-SWSH7-110-rayquaza_v.jpg
+
+EVS,111,Rayquaza VMAX,Pkmn › VMAX,{N},Holo Rare VMAX,$3.45,en_US-SWSH7-111-rayquaza_vmax.jpg
+
+EVS,112,Dialga,Pkmn › Basic,{N},Rare Holo,$0.17,en_US-SWSH7-112-dialga.jpg
+
+EVS,113,Deino,Pkmn › Basic,{N},Common,$0.03,en_US-SWSH7-113-deino.jpg
+
+EVS,114,Zweilous,Pkmn › Stage 1,{N},Uncommon,$0.03,en_US-SWSH7-114-zweilous.jpg
+
+EVS,115,Hydreigon,Pkmn › Stage 2,{N},Rare Holo,$0.17,en_US-SWSH7-115-hydreigon.jpg
+
+EVS,116,Kyurem,Pkmn › Basic,{N},Rare Holo,$0.24,en_US-SWSH7-116-kyurem.jpg
+
+EVS,117,Noivern V,Pkmn › Basic,{N},Holo Rare V,$0.54,en_US-SWSH7-117-noivern_v.jpg
+
+EVS,118,Zygarde,Pkmn › Basic,{N},Rare Holo,$0.21,en_US-SWSH7-118-zygarde.jpg
+
+EVS,119,Drampa,Pkmn › Basic,{N},Rare,$0.07,en_US-SWSH7-119-drampa.jpg
+
+EVS,120,Flapple,Pkmn › Stage 1,{N},Rare,$0.06,en_US-SWSH7-120-flapple.jpg
+
+EVS,121,Appletun,Pkmn › Stage 1,{N},Rare,$0.07,en_US-SWSH7-121-appletun.jpg
+
+EVS,122,Duraludon V,Pkmn › Basic,{N},Holo Rare V,$0.51,en_US-SWSH7-122-duraludon_v.jpg
+
+EVS,123,Duraludon VMAX,Pkmn › VMAX,{N},Holo Rare VMAX,$0.98,en_US-SWSH7-123-duraludon_vmax.jpg
+
+EVS,124,Regidrago,Pkmn › Basic,{N},Rare Holo,$0.15,en_US-SWSH7-124-regidrago.jpg
+
+EVS,125,Eevee,Pkmn › Basic,{C},Common,$0.08,en_US-SWSH7-125-eevee.jpg
+
+EVS,126,Teddiursa,Pkmn › Basic,{C},Common,$0.05,en_US-SWSH7-126-teddiursa.jpg
+
+EVS,127,Ursaring,Pkmn › Stage 1,{C},Uncommon,$0.04,en_US-SWSH7-127-ursaring.jpg
+
+EVS,128,Smeargle,Pkmn › Basic,{C},Rare,$0.06,en_US-SWSH7-128-smeargle.jpg
+
+EVS,129,Slakoth,Pkmn › Basic,{C},Common,$0.03,en_US-SWSH7-129-slakoth.jpg
+
+EVS,130,Vigoroth,Pkmn › Stage 1,{C},Uncommon,$0.12,en_US-SWSH7-130-vigoroth.jpg
+
+EVS,131,Slaking,Pkmn › Stage 2,{C},Rare Holo,$0.16,en_US-SWSH7-131-slaking.jpg
+
+EVS,132,Swablu,Pkmn › Basic,{C},Common,$0.05,en_US-SWSH7-132-swablu.jpg
+
+EVS,133,Lillipup,Pkmn › Basic,{C},Common,$0.03,en_US-SWSH7-133-lillipup.jpg
+
+EVS,134,Herdier,Pkmn › Stage 1,{C},Uncommon,$0.05,en_US-SWSH7-134-herdier.jpg
+
+EVS,135,Stoutland,Pkmn › Stage 2,{C},Rare,$0.07,en_US-SWSH7-135-stoutland.jpg
+
+EVS,136,Rufflet,Pkmn › Basic,{C},Common,$0.03,en_US-SWSH7-136-rufflet.jpg
+
+EVS,137,Braviary,Pkmn › Stage 1,{C},Uncommon,$0.03,en_US-SWSH7-137-braviary.jpg
+
+EVS,138,Fletchling,Pkmn › Basic,{C},Common,$0.04,en_US-SWSH7-138-fletchling.jpg
+
+EVS,139,Fletchinder,Pkmn › Stage 1,{C},Uncommon,$0.03,en_US-SWSH7-139-fletchinder.jpg
+
+EVS,140,Talonflame,Pkmn › Stage 2,{C},Rare,$0.06,en_US-SWSH7-140-talonflame.jpg
+
+EVS,141,Aroma Lady,Trainer › Supporter,,Uncommon,$0.05,en_US-SWSH7-141-aroma_lady.jpg
+
+EVS,142,Boost Shake,Trainer › Item,,Uncommon,$0.06,en_US-SWSH7-142-boost_shake.jpg
+
+EVS,143,Copycat,Trainer › Supporter,,Uncommon,$0.04,en_US-SWSH7-143-copycat.jpg
+
+EVS,144,Crystal Cave,Trainer › Stadium,,Uncommon,$0.07,en_US-SWSH7-144-crystal_cave.jpg
+
+EVS,145,Digging Gloves,Trainer › Tool,,Uncommon,$0.03,en_US-SWSH7-145-digging_gloves.jpg
+
+EVS,146,Dream Ball,Trainer › Item,,Uncommon,$0.06,en_US-SWSH7-146-dream_ball.jpg
+
+EVS,147,Elemental Badge,Trainer › Tool,,Uncommon,$0.02,en_US-SWSH7-147-elemental_badge.jpg
+
+EVS,148,Full Face Guard,Trainer › Tool,,Uncommon,$0.11,en_US-SWSH7-148-full_face_guard.jpg
+
+EVS,149,Gordie,Trainer › Supporter,,Uncommon,$0.06,en_US-SWSH7-149-gordie.jpg
+
+EVS,150,Lucky Ice Pop,Trainer › Item,,Uncommon,$0.06,en_US-SWSH7-150-lucky_ice_pop.jpg
+
+EVS,151,Moon & Sun Badge,Trainer › Tool,,Uncommon,$0.10,en_US-SWSH7-151-moon_sun_badge.jpg
+
+EVS,152,Raihan,Trainer › Supporter,,Uncommon,$0.11,en_US-SWSH7-152-raihan.jpg
+
+EVS,153,Rapid Strike Scroll of the Flying Dragon,Trainer › Tool,,Uncommon,$0.04,en_US-SWSH7-153-rapid_strike_scroll_of_the_flying_dragon.jpg
+
+EVS,154,Rescue Carrier,Trainer › Item,,Uncommon,$0.15,en_US-SWSH7-154-rescue_carrier.jpg
+
+EVS,155,Ribbon Badge,Trainer › Tool,,Uncommon,$0.09,en_US-SWSH7-155-ribbon_badge.jpg
+
+EVS,156,Rubber Gloves,Trainer › Tool,,Uncommon,$0.06,en_US-SWSH7-156-rubber_gloves.jpg
+
+EVS,157,Shopping Center,Trainer › Stadium,,Uncommon,$0.07,en_US-SWSH7-157-shopping_center.jpg
+
+EVS,158,Single Strike Scroll of the Fanged Dragon,Trainer › Tool,,Uncommon,$0.07,en_US-SWSH7-158-single_strike_scroll_of_the_fanged_dragon.jpg
+
+EVS,159,Snow Leaf Badge,Trainer › Tool,,Uncommon,$0.04,en_US-SWSH7-159-snow_leaf_badge.jpg
+
+EVS,160,Spirit Mask,Trainer › Tool,,Uncommon,$0.05,en_US-SWSH7-160-spirit_mask.jpg
+
+EVS,161,Stormy Mountains,Trainer › Stadium,,Uncommon,$0.09,en_US-SWSH7-161-stormy_mountains.jpg
+
+EVS,162,Switching Cups,Trainer › Item,,Uncommon,$0.07,en_US-SWSH7-162-switching_cups.jpg
+
+EVS,163,Toy Catcher,Trainer › Item,,Uncommon,$0.05,en_US-SWSH7-163-toy_catcher.jpg
+
+EVS,164,Zinnia’s Resolve,Trainer › Supporter,,Uncommon,$0.05,en_US-SWSH7-164-zinnias_resolve.jpg
+
+EVS,165,Treasure Energy,Energy › Special,,Uncommon,$0.06,en_US-SWSH7-165-treasure_energy.jpg
+
+EVS,166,Leafeon V,Pkmn › Basic,{G},Ultra Rare,$10.14,en_US-SWSH7-166-leafeon_v.jpg
+
+EVS,167,Leafeon V,Pkmn › Basic,{G},Ultra Rare,$52.81,en_US-SWSH7-167-leafeon_v.jpg
+
+EVS,168,Trevenant V,Pkmn › Basic,{G},Ultra Rare,$2.65,en_US-SWSH7-168-trevenant_v.jpg
+
+EVS,169,Flareon V,Pkmn › Basic,{R},Ultra Rare,$11.94,en_US-SWSH7-169-flareon_v.jpg
+
+EVS,170,Volcarona V,Pkmn › Basic,{R},Ultra Rare,$3.30,en_US-SWSH7-170-volcarona_v.jpg
+
+EVS,171,Gyarados V,Pkmn › Basic,{W},Ultra Rare,$7.24,en_US-SWSH7-171-gyarados_v.jpg
+
+EVS,172,Vaporeon V,Pkmn › Basic,{W},Ultra Rare,$12.86,en_US-SWSH7-172-vaporeon_v.jpg
+
+EVS,173,Suicune V,Pkmn › Basic,{W},Ultra Rare,$5.45,en_US-SWSH7-173-suicune_v.jpg
+
+EVS,174,Glaceon V,Pkmn › Basic,{W},Ultra Rare,$10.21,en_US-SWSH7-174-glaceon_v.jpg
+
+EVS,175,Glaceon V,Pkmn › Basic,{W},Ultra Rare,$55.11,en_US-SWSH7-175-glaceon_v.jpg
+
+EVS,176,Arctovish V,Pkmn › Basic,{W},Ultra Rare,$1.73,en_US-SWSH7-176-arctovish_v.jpg
+
+EVS,177,Jolteon V,Pkmn › Basic,{L},Ultra Rare,$9.84,en_US-SWSH7-177-jolteon_v.jpg
+
+EVS,178,Dracozolt V,Pkmn › Basic,{L},Ultra Rare,$2.33,en_US-SWSH7-178-dracozolt_v.jpg
+
+EVS,179,Espeon V,Pkmn › Basic,{P},Ultra Rare,$9.75,en_US-SWSH7-179-espeon_v.jpg
+
+EVS,180,Espeon V,Pkmn › Basic,{P},Ultra Rare,$69.09,en_US-SWSH7-180-espeon_v.jpg
+
+EVS,181,Golurk V,Pkmn › Basic,{P},Ultra Rare,$2.57,en_US-SWSH7-181-golurk_v.jpg
+
+EVS,182,Golurk V,Pkmn › Basic,{P},Ultra Rare,$12.48,en_US-SWSH7-182-golurk_v.jpg
+
+EVS,183,Sylveon V,Pkmn › Basic,{P},Ultra Rare,$9.94,en_US-SWSH7-183-sylveon_v.jpg
+
+EVS,184,Sylveon V,Pkmn › Basic,{P},Ultra Rare,$54.57,en_US-SWSH7-184-sylveon_v.jpg
+
+EVS,185,Medicham V,Pkmn › Basic,{F},Ultra Rare,$2.42,en_US-SWSH7-185-medicham_v.jpg
+
+EVS,186,Medicham V,Pkmn › Basic,{F},Ultra Rare,$11.18,en_US-SWSH7-186-medicham_v.jpg
+
+EVS,187,Lycanroc V,Pkmn › Basic,{F},Ultra Rare,$2.95,en_US-SWSH7-187-lycanroc_v.jpg
+
+EVS,188,Umbreon V,Pkmn › Basic,{D},Ultra Rare,$19.30,en_US-SWSH7-188-umbreon_v.jpg
+
+EVS,189,Umbreon V,Pkmn › Basic,{D},Ultra Rare,$95.35,en_US-SWSH7-189-umbreon_v.jpg
+
+EVS,190,Garbodor V,Pkmn › Basic,{D},Ultra Rare,$2.44,en_US-SWSH7-190-garbodor_v.jpg
+
+EVS,191,Dragonite V,Pkmn › Basic,{N},Ultra Rare,$9.96,en_US-SWSH7-191-dragonite_v.jpg
+
+EVS,192,Dragonite V,Pkmn › Basic,{N},Ultra Rare,$102.13,en_US-SWSH7-192-dragonite_v.jpg
+
+EVS,193,Rayquaza V,Pkmn › Basic,{N},Ultra Rare,$12.71,en_US-SWSH7-193-rayquaza_v.jpg
+
+EVS,194,Rayquaza V,Pkmn › Basic,{N},Ultra Rare,$77.45,en_US-SWSH7-194-rayquaza_v.jpg
+
+EVS,195,Noivern V,Pkmn › Basic,{N},Ultra Rare,$2.75,en_US-SWSH7-195-noivern_v.jpg
+
+EVS,196,Noivern V,Pkmn › Basic,{N},Ultra Rare,$26.68,en_US-SWSH7-196-noivern_v.jpg
+
+EVS,197,Duraludon V,Pkmn › Basic,{N},Ultra Rare,$2.13,en_US-SWSH7-197-duraludon_v.jpg
+
+EVS,198,Duraludon V,Pkmn › Basic,{N},Ultra Rare,$10.29,en_US-SWSH7-198-duraludon_v.jpg
+
+EVS,199,Aroma Lady,Trainer › Supporter,,Ultra Rare,$9.47,en_US-SWSH7-199-aroma_lady.jpg
+
+EVS,200,Copycat,Trainer › Supporter,,Ultra Rare,$1.54,en_US-SWSH7-200-copycat.jpg
+
+EVS,201,Gordie,Trainer › Supporter,,Ultra Rare,$1.90,en_US-SWSH7-201-gordie.jpg
+
+EVS,202,Raihan,Trainer › Supporter,,Ultra Rare,$4.86,en_US-SWSH7-202-raihan.jpg
+
+EVS,203,Zinnia’s Resolve,Trainer › Supporter,,Ultra Rare,$4.34,en_US-SWSH7-203-zinnias_resolve.jpg
+
+EVS,204,Leafeon VMAX,Pkmn › VMAX,{G},Rainbow Rare,$18.54,en_US-SWSH7-204-leafeon_vmax.jpg
+
+EVS,205,Leafeon VMAX,Pkmn › VMAX,{G},Rainbow Rare,$159.10,en_US-SWSH7-205-leafeon_vmax.jpg
+
+EVS,206,Trevenant VMAX,Pkmn › VMAX,{G},Rainbow Rare,$9.92,en_US-SWSH7-206-trevenant_vmax.jpg
+
+EVS,207,Gyarados VMAX,Pkmn › VMAX,{W},Rainbow Rare,$21.54,en_US-SWSH7-207-gyarados_vmax.jpg
+
+EVS,208,Glaceon VMAX,Pkmn › VMAX,{W},Rainbow Rare,$22.34,en_US-SWSH7-208-glaceon_vmax.jpg
+
+EVS,209,Glaceon VMAX,Pkmn › VMAX,{W},Rainbow Rare,$151.03,en_US-SWSH7-209-glaceon_vmax.jpg
+
+EVS,210,Dracozolt VMAX,Pkmn › VMAX,{L},Rainbow Rare,$7.24,en_US-SWSH7-210-dracozolt_vmax.jpg
+
+EVS,211,Sylveon VMAX,Pkmn › VMAX,{P},Rainbow Rare,$20.57,en_US-SWSH7-211-sylveon_vmax.jpg
+
+EVS,212,Sylveon VMAX,Pkmn › VMAX,{P},Rainbow Rare,$133.38,en_US-SWSH7-212-sylveon_vmax.jpg
+
+EVS,213,Lycanroc VMAX,Pkmn › VMAX,{F},Rainbow Rare,$6.56,en_US-SWSH7-213-lycanroc_vmax.jpg
+
+EVS,214,Umbreon VMAX,Pkmn › VMAX,{D},Rainbow Rare,$26.56,en_US-SWSH7-214-umbreon_vmax.jpg
+
+EVS,215,Umbreon VMAX,Pkmn › VMAX,{D},Rainbow Rare,$603.27,en_US-SWSH7-215-umbreon_vmax.jpg
+
+EVS,216,Garbodor VMAX,Pkmn › VMAX,{D},Rainbow Rare,$6.65,en_US-SWSH7-216-garbodor_vmax.jpg
+
+EVS,217,Rayquaza VMAX,Pkmn › VMAX,{N},Rainbow Rare,$32.17,en_US-SWSH7-217-rayquaza_vmax.jpg
+
+EVS,218,Rayquaza VMAX,Pkmn › VMAX,{N},Rainbow Rare,$244.96,en_US-SWSH7-218-rayquaza_vmax.jpg
+
+EVS,219,Duraludon VMAX,Pkmn › VMAX,{N},Rainbow Rare,$9.59,en_US-SWSH7-219-duraludon_vmax.jpg
+
+EVS,220,Duraludon VMAX,Pkmn › VMAX,{N},Rainbow Rare,$16.52,en_US-SWSH7-220-duraludon_vmax.jpg
+
+EVS,221,Aroma Lady,Trainer › Supporter,,Rainbow Rare,$5.34,en_US-SWSH7-221-aroma_lady.jpg
+
+EVS,222,Copycat,Trainer › Supporter,,Rainbow Rare,$3.80,en_US-SWSH7-222-copycat.jpg
+
+EVS,223,Gordie,Trainer › Supporter,,Rainbow Rare,$3.73,en_US-SWSH7-223-gordie.jpg
+
+EVS,224,Raihan,Trainer › Supporter,,Rainbow Rare,$5.05,en_US-SWSH7-224-raihan.jpg
+
+EVS,225,Zinnia’s Resolve,Trainer › Supporter,,Rainbow Rare,$6.56,en_US-SWSH7-225-zinnias_resolve.jpg
+
+EVS,226,Froslass,Pkmn › Stage 1,{W},Rare Secret,$5.25,en_US-SWSH7-226-froslass.jpg
+
+EVS,227,Inteleon,Pkmn › Stage 2,{W},Rare Secret,$6.29,en_US-SWSH7-227-inteleon.jpg
+
+EVS,228,Cresselia,Pkmn › Basic,{P},Rare Secret,$7.22,en_US-SWSH7-228-cresselia.jpg
+
+EVS,229,Boost Shake,Trainer › Item,,Rare Secret,$2.65,en_US-SWSH7-229-boost_shake.jpg
+
+EVS,230,Crystal Cave,Trainer › Stadium,,Rare Secret,$3.87,en_US-SWSH7-230-crystal_cave.jpg
+
+EVS,231,Full Face Guard,Trainer › Tool,,Rare Secret,$3.15,en_US-SWSH7-231-full_face_guard.jpg
+
+EVS,232,Stormy Mountains,Trainer › Stadium,,Rare Secret,$4.08,en_US-SWSH7-232-stormy_mountains.jpg
+
+EVS,233,Toy Catcher,Trainer › Item,,Rare Secret,$3.58,en_US-SWSH7-233-toy_catcher.jpg
+
+EVS,234,Turffield Stadium,Trainer › Stadium,,Rare Secret,$4.32,en_US-SWSH7-234-turffield_stadium.jpg
+
+EVS,235,Lightning Energy,Energy › Basic,,Rare Secret,$9.83,en_US-SWSH7-235-lightning_energy.jpg
+
+EVS,236,Darkness Energy,Energy › Basic,,Rare Secret,$17.77,en_US-SWSH7-236-darkness_energy.jpg
+
+EVS,237,Metal Energy,Energy › Basic,,Rare Secret,$11.5,en_US-SWSH7-237-metal_energy.jpg
+

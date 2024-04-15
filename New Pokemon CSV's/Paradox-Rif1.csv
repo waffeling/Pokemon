@@ -1,0 +1,534 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+
+AR,001,Surskit,Pkmn › Basic,{G},Common,$0.04,sv4_en_246_std.jpg
+
+PAR,002,Masquerain,Pkmn › Stage 1,{G},Uncommon,$0.02,sv4_en_247_std.jpg
+
+PAR,003,Froslass ex,Pkmn › Stage 1,{G},Double Rare,$0.54,sv4_en_248_std.jpg
+
+PAR,004,Pansage,Pkmn › Basic,{G},Common,$0.05,sv4_en_249_std.jpg
+
+PAR,005,Simisage,Pkmn › Stage 1,{G},Uncommon,$0.05,sv4_en_250_std.jpg
+
+PAR,006,Dwebble,Pkmn › Basic,{G},Common,$0.03,sv4_en_251_std.jpg
+
+PAR,007,Crustle,Pkmn › Stage 1,{G},Common,$0.04,sv4_en_252_std.jpg
+
+PAR,008,Bounsweet,Pkmn › Basic,{G},Common,$0.04,sv4_en_253_std.jpg
+
+PAR,009,Steenee,Pkmn › Stage 1,{G},Uncommon,$0.03,sv4_en_254_std.jpg
+
+PAR,010,Blipbug,Pkmn › Basic,{G},Common,$0.04,sv4_en_255_std.jpg
+
+PAR,011,Dottler,Pkmn › Stage 1,{G},Common,$0.04,sv4_en_256_std.jpg
+
+PAR,012,Orbeetle,Pkmn › Stage 2,{G},Uncommon,$0.04,sv4_en_257_std.jpg
+
+PAR,013,Nymble,Pkmn › Basic,{G},Common,$0.03,sv4_en_258_std.jpg
+
+PAR,014,Nymble,Pkmn › Basic,{G},Common,$0.03,sv4_en_259_std.jpg
+
+PAR,015,Toedscool,Pkmn › Basic,{G},Common,$0.08,sv4_en_260_std.jpg
+
+PAR,016,Toedscool,Pkmn › Basic,{G},Common,$0.05,sv4_en_261_std.jpg
+
+PAR,017,Toedscruel,Pkmn › Stage 1,{G},Uncommon,$0.06,sv4_en_262_std.jpg
+
+PAR,018,Wo-Chien,Pkmn › Basic,{G},Rare,$0.19,sv4_en_263_std.jpg
+
+PAR,019,Magby,Pkmn › Basic,{R},Common,$0.03,sv4_en_264_std.jpg
+
+PAR,020,Pansear,Pkmn › Basic,{R},Common,$0.05,sv4_en_265_std.jpg
+
+PAR,021,Simisear,Pkmn › Stage 1,{R},Uncommon,$0.05,sv4_en_266_std.jpg
+
+PAR,022,Volcanion,Pkmn › Basic,{R},Rare,$0.07,sv1_en_001-1.jpg
+
+PAR,023,Fuecoco,Pkmn › Basic,{R},Common,$0.07,sv1_en_002-1.jpg
+
+PAR,024,Crocalor,Pkmn › Stage 1,{R},Uncommon,$0.05,sv1_en_003-1.jpg
+
+PAR,025,Charcadet,Pkmn › Basic,{R},Common,$0.04,sv1_en_004-1.jpg
+
+PAR,026,Charcadet,Pkmn › Basic,{R},Common,$0.05,sv1_en_005-1.jpg
+
+PAR,027,Armarouge ex,Pkmn › Stage 1,{R},Double Rare,$0.53,sv1_en_006-1.jpg
+
+PAR,028,Iron Moth,Pkmn › Basic,{R},Rare,$0.14,sv1_en_007-1.jpg
+
+PAR,029,Chi-Yu,Pkmn › Basic,{R},Rare,$0.12,sv1_en_008-1.jpg
+
+PAR,030,Horsea,Pkmn › Basic,{W},Common,$0.04,sv1_en_009-1.jpg
+
+PAR,031,Seadra,Pkmn › Stage 1,{W},Common,$0.05,sv1_en_010-1.jpg
+
+PAR,032,Kingdra,Pkmn › Stage 2,{W},Rare,$0.08,sv1_en_011-1.jpg
+
+PAR,033,Remoraid,Pkmn › Basic,{W},Common,$0.07,sv1_en_012-1.jpg
+
+PAR,034,Octillery,Pkmn › Stage 1,{W},Common,$0.04,sv1_en_013-1.jpg
+
+PAR,035,Feebas,Pkmn › Basic,{W},Common,$0.12,sv1_en_014-1.jpg
+
+PAR,036,Milotic,Pkmn › Stage 1,{W},Rare,$0.09,sv1_en_015-1.jpg
+
+PAR,037,Snorunt,Pkmn › Basic,{W},Common,$0.03,sv1_en_016-1.jpg
+
+PAR,038,Garchomp ex,Pkmn › Stage 2,{W},Double Rare,$1.31,sv1_en_017-1.jpg
+
+PAR,039,Mantyke,Pkmn › Basic,{W},Common,$0.04,sv1_en_018-1.jpg
+
+PAR,040,Palkia,Pkmn › Basic,{W},Rare,$0.07,sv1_en_019-1.jpg
+
+PAR,041,Panpour,Pkmn › Basic,{W},Common,$0.03,sv1_en_020-1.jpg
+
+PAR,042,Simipour,Pkmn › Stage 1,{W},Uncommon,$0.11,sv1_en_021-1.jpg
+
+PAR,043,Vanillite,Pkmn › Basic,{W},Common,$0.04,sv1_en_022-1.jpg
+
+PAR,044,Vanillish,Pkmn › Stage 1,{W},Common,$0.07,sv1_en_023-1.jpg
+
+PAR,045,Vanilluxe,Pkmn › Stage 2,{W},Uncommon,$0.04,sv1_en_024-1.jpg
+
+PAR,046,Tsareena ex,Pkmn › Stage 2,{W},Double Rare,$1.12,sv1_en_025-1.jpg
+
+PAR,047,Wimpod,Pkmn › Basic,{W},Common,$0.05,sv1_en_026-1.jpg
+
+PAR,048,Wimpod,Pkmn › Basic,{W},Common,$0.03,sv1_en_027-1.jpg
+
+PAR,049,Golisopod,Pkmn › Stage 1,{W},Rare,$0.07,sv1_en_028-1.jpg
+
+PAR,050,Golisopod ex,Pkmn › Stage 1,{W},Double Rare,$0.46,sv1_en_029-1.jpg
+
+PAR,051,Wiglett,Pkmn › Basic,{W},Common,$0.03,sv1_en_030-1.jpg
+
+PAR,052,Wiglett,Pkmn › Basic,{W},Common,$0.04,sv1_en_031-1.jpg
+
+PAR,053,Wugtrio,Pkmn › Stage 1,{W},Uncommon,$0.04,sv1_en_032-1.jpg
+
+PAR,054,Veluza,Pkmn › Basic,{W},Uncommon,$0.04,sv1_en_033-1.jpg
+
+PAR,055,Dondozo,Pkmn › Basic,{W},Uncommon,$0.03,sv1_en_034-1.jpg
+
+PAR,056,Iron Bundle,Pkmn › Basic,{W},Uncommon,$0.07,sv1_en_035-1.jpg
+
+PAR,057,Chien-Pao,Pkmn › Basic,{W},Rare,$0.09,sv1_en_036-1.jpg
+
+PAR,058,Mewtwo ex,Pkmn › Basic,{L},Double Rare,$1.40,sv1_en_037-1.jpg
+
+PAR,059,Elekid,Pkmn › Basic,{L},Common,$0.06,sv1_en_038-1.jpg
+
+PAR,060,Plusle,Pkmn › Basic,{L},Common,$0.08,sv1_en_039-1.jpg
+
+PAR,061,Minun,Pkmn › Basic,{L},Common,$0.08,sv1_en_040-1.jpg
+
+PAR,062,Blitzle,Pkmn › Basic,{L},Common,$0.03,sv1_en_041-1.jpg
+
+PAR,063,Zebstrika,Pkmn › Stage 1,{L},Uncommon,$0.04,sv1_en_042-1.jpg
+
+PAR,064,Joltik,Pkmn › Basic,{L},Common,$0.04,sv1_en_043-1.jpg
+
+PAR,065,Galvantula,Pkmn › Stage 1,{L},Common,$0.04,sv1_en_044-1.jpg
+
+PAR,066,Zekrom,Pkmn › Basic,{L},Rare,$0.10,sv1_en_045-1.jpg
+
+PAR,067,Oricorio,Pkmn › Basic,{L},Common,$0.07,sv1_en_046-1.jpg
+
+PAR,068,Tapu Koko ex,Pkmn › Basic,{L},Double Rare,$0.54,sv1_en_047-1.jpg
+
+PAR,069,Toxel,Pkmn › Basic,{L},Common,$0.03,sv1_en_048-1.jpg
+
+PAR,070,Iron Hands ex,Pkmn › Basic,{L},Double Rare,$14.20,sv1_en_049-1.jpg
+
+PAR,071,Natu,Pkmn › Basic,{P},Common,$0.05,sv1_en_050-1.jpg
+
+PAR,072,Xatu,Pkmn › Stage 1,{P},Rare,$0.13,sv1_en_051-1.jpg
+
+PAR,073,Latios,Pkmn › Basic,{P},Rare,$0.10,sv1_en_052-1.jpg
+
+PAR,074,Deoxys,Pkmn › Basic,{P},Rare,$0.10,sv1_en_053-1.jpg
+
+PAR,075,Yamask,Pkmn › Basic,{P},Common,$0.07,sv1_en_054-1.jpg
+
+PAR,076,Cofagrigus ex,Pkmn › Stage 1,{P},Double Rare,$0.56,sv1_en_055-1.jpg
+
+PAR,077,Pumpkaboo,Pkmn › Basic,{P},Common,$0.04,sv1_en_056-1.jpg
+
+PAR,078,Gourgeist,Pkmn › Stage 1,{P},Uncommon,$0.03,sv1_en_057-1.jpg
+
+PAR,079,Flittle,Pkmn › Basic,{P},Common,$0.03,sv1_en_058-1.jpg
+
+PAR,080,Flittle,Pkmn › Basic,{P},Common,$0.05,sv1_en_059-1.jpg
+
+PAR,081,Espathra,Pkmn › Stage 1,{P},Rare,$0.09,sv1_en_060-1.jpg
+
+PAR,082,Tinkatink,Pkmn › Basic,{P},Common,$0.05,sv1_en_061-1.jpg
+
+PAR,083,Tinkatink,Pkmn › Basic,{P},Common,$0.03,sv1_en_062-1.jpg
+
+PAR,084,Tinkatuff,Pkmn › Stage 1,{P},Common,$0.08,sv1_en_063-1.jpg
+
+PAR,085,Tinkaton,Pkmn › Stage 2,{P},Uncommon,$0.10,sv1_en_064-1.jpg
+
+PAR,086,Scream Tail,Pkmn › Basic,{P},Uncommon,$0.06,sv1_en_065-1.jpg
+
+PAR,087,Gimmighoul,Pkmn › Basic,{P},Common,$0.11,sv1_en_066-1.jpg
+
+PAR,088,Gimmighoul,Pkmn › Basic,{P},Common,$0.10,sv1_en_067-1.jpg
+
+PAR,089,Iron Valiant ex,Pkmn › Basic,{P},Double Rare,$1.98,sv1_en_068-1.jpg
+
+PAR,090,Onix,Pkmn › Basic,{F},Common,$0.03,sv1_en_069-1.jpg
+
+PAR,091,Gligar,Pkmn › Basic,{F},Common,$0.06,sv1_en_070-1.jpg
+
+PAR,092,Gliscor,Pkmn › Stage 1,{F},Uncommon,$0.03,sv1_en_071-1.jpg
+
+PAR,093,Groudon,Pkmn › Basic,{F},Rare,$0.14,sv1_en_072-1.jpg
+
+PAR,094,Gible,Pkmn › Basic,{F},Common,$0.08,sv1_en_073-1.jpg
+
+PAR,095,Gabite,Pkmn › Stage 1,{F},Common,$0.06,sv1_en_074-1.jpg
+
+PAR,096,Mienfoo,Pkmn › Basic,{F},Common,$0.03,sv1_en_075-1.jpg
+
+PAR,097,Mienshao,Pkmn › Stage 1,{F},Uncommon,$0.03,sv1_en_076-1.jpg
+
+PAR,098,Hoopa ex,Pkmn › Basic,{F},Double Rare,$0.80,sv1_en_077-1.jpg
+
+PAR,099,Minior,Pkmn › Basic,{F},Uncommon,$0.05,sv1_en_078-1.jpg
+
+PAR,100,Toxtricity ex,Pkmn › Stage 1,{F},Double Rare,$0.65,sv1_en_079-1.jpg
+
+PAR,101,Nacli,Pkmn › Basic,{F},Common,$0.04,sv1_en_080-1.jpg
+
+PAR,102,Nacli,Pkmn › Basic,{F},Common,$0.03,sv1_en_081-1.jpg
+
+PAR,103,Naclstack,Pkmn › Stage 1,{F},Common,$0.05,sv1_en_082-1.jpg
+
+PAR,104,Garganacl,Pkmn › Stage 2,{F},Rare,$0.13,sv1_en_083-1.jpg
+
+PAR,105,Klawf,Pkmn › Basic,{F},Uncommon,$0.08,sv1_en_084-1.jpg
+
+PAR,106,Flamigo,Pkmn › Basic,{F},Common,$0.02,sv1_en_085-1.jpg
+
+PAR,107,Slither Wing,Pkmn › Basic,{F},Uncommon,$0.09,sv1_en_086-1.jpg
+
+PAR,108,Sandy Shocks ex,Pkmn › Basic,{F},Double Rare,$1.34,sv1_en_087-1.jpg
+
+PAR,109,Ting-Lu,Pkmn › Basic,{F},Rare,$0.09,sv1_en_088-1.jpg
+
+PAR,110,Zubat,Pkmn › Basic,{D},Common,$0.02,sv1_en_089-1.jpg
+
+PAR,111,Golbat,Pkmn › Stage 1,{D},Common,$0.06,sv1_en_090-1.jpg
+
+PAR,112,Crobat,Pkmn › Stage 2,{D},Uncommon,$0.04,sv1_en_091-1.jpg
+
+PAR,113,Absol,Pkmn › Basic,{D},Uncommon,$0.05,sv1_en_092-1.jpg
+
+PAR,114,Purrloin,Pkmn › Basic,{D},Common,$0.05,sv1_en_093-1.jpg
+
+PAR,115,Liepard,Pkmn › Stage 1,{D},Common,$0.05,sv1_en_094-1.jpg
+
+PAR,116,Trubbish,Pkmn › Basic,{D},Common,$0.02,sv1_en_095-1.jpg
+
+PAR,117,Garbodor,Pkmn › Stage 1,{D},Uncommon,$0.03,sv1_en_096-1.jpg
+
+PAR,118,Yveltal,Pkmn › Basic,{D},Rare,$0.11,sv1_en_097-1.jpg
+
+PAR,119,Nickit,Pkmn › Basic,{D},Common,$0.05,sv1_en_098-1.jpg
+
+PAR,120,Thievul,Pkmn › Stage 1,{D},Rare,$0.07,sv1_en_099-1.jpg
+
+PAR,121,Morpeko,Pkmn › Basic,{D},Rare,$0.12,sv1_en_100-1.jpg
+
+PAR,122,Lokix,Pkmn › Stage 1,{D},Rare,$0.10,sv1_en_101-1.jpg
+
+PAR,123,Brute Bonnet,Pkmn › Basic,{D},Rare,$0.18,sv1_en_102-1.jpg
+
+PAR,124,Roaring Moon ex,Pkmn › Basic,{D},Double Rare,$5.51,sv1_en_103-1.jpg
+
+PAR,125,Steelix,Pkmn › Stage 1,{M},Rare,$0.07,sv1_en_104-1.jpg
+
+PAR,126,Jirachi,Pkmn › Basic,{M},Common,$0.22,sv1_en_105-1.jpg
+
+PAR,127,Ferroseed,Pkmn › Basic,{M},Common,$0.02,sv1_en_106-1.jpg
+
+PAR,128,Ferrothorn,Pkmn › Stage 1,{M},Uncommon,$0.03,sv1_en_107-1.jpg
+
+PAR,129,Durant,Pkmn › Basic,{M},Uncommon,$0.03,sv1_en_108-1.jpg
+
+PAR,130,Honedge,Pkmn › Basic,{M},Common,$0.05,sv1_en_109-1.jpg
+
+PAR,131,Honedge,Pkmn › Basic,{M},Common,$0.04,sv1_en_110-1.jpg
+
+PAR,132,Doublade,Pkmn › Stage 1,{M},Common,$0.08,sv1_en_111-1.jpg
+
+PAR,133,Doublade,Pkmn › Stage 1,{M},Common,$0.06,sv1_en_112-1.jpg
+
+PAR,134,Aegislash,Pkmn › Stage 2,{M},Rare,$0.07,sv1_en_113-1.jpg
+
+PAR,135,Aegislash ex,Pkmn › Stage 2,{M},Double Rare,$0.59,sv1_en_114-1.jpg
+
+PAR,136,Zacian,Pkmn › Basic,{M},Rare,$0.07,sv1_en_115-1.jpg
+
+PAR,137,Skeledirge ex,Pkmn › Stage 2,{M},Double Rare,$0.75,sv1_en_116-1.jpg
+
+PAR,138,Orthworm,Pkmn › Basic,{M},Uncommon,$0.05,sv1_en_117-1.jpg
+
+PAR,139,Gholdengo ex,Pkmn › Stage 1,{M},Double Rare,$4.42,sv1_en_118-1.jpg
+
+PAR,140,Altaria ex,Pkmn › Stage 1,{N},Double Rare,$0.61,sv1_en_119-1.jpg
+
+PAR,141,Tatsugiri,Pkmn › Basic,{N},Uncommon,$0.05,sv1_en_120.jpg
+
+PAR,142,Porygon,Pkmn › Basic,{C},Common,$0.05,sv1_en_121.jpg
+
+PAR,143,Porygon2,Pkmn › Stage 1,{C},Common,$0.05,sv1_en_122.jpg
+
+PAR,144,Porygon-Z,Pkmn › Stage 2,{C},Rare,$0.07,sv1_en_123.jpg
+
+PAR,145,Aipom,Pkmn › Basic,{C},Common,$0.06,sv1_en_124.jpg
+
+PAR,146,Ambipom,Pkmn › Stage 1,{C},Uncommon,$0.04,sv1_en_125.jpg
+
+PAR,147,Miltank,Pkmn › Basic,{C},Common,$0.03,sv1_en_126.jpg
+
+PAR,148,Whismur,Pkmn › Basic,{C},Common,$0.07,sv1_en_127.jpg
+
+PAR,149,Loudred,Pkmn › Stage 1,{C},Common,$0.04,sv1_en_128.jpg
+
+PAR,150,Exploud,Pkmn › Stage 2,{C},Uncommon,$0.06,sv1_en_129.jpg
+
+PAR,151,Spinda,Pkmn › Basic,{C},Common,$0.04,sv1_en_130.jpg
+
+PAR,152,Swablu,Pkmn › Basic,{C},Common,$0.05,sv1_en_131.jpg
+
+PAR,153,Tandemaus,Pkmn › Basic,{C},Common,$0.08,sv1_en_132.jpg
+
+PAR,154,Tandemaus,Pkmn › Basic,{C},Common,$0.04,sv1_en_133.jpg
+
+PAR,155,Maushold ex,Pkmn › Stage 1,{C},Double Rare,$0.99,sv1_en_134.jpg
+
+PAR,156,Bombirdier ex,Pkmn › Basic,{C},Double Rare,$0.65,sv1_en_135.jpg
+
+PAR,157,Cyclizar,Pkmn › Basic,{C},Uncommon,$0.03,sv1_en_136.jpg
+
+PAR,158,Iron Jugulis,Pkmn › Basic,{C},Rare,$0.15,sv1_en_137.jpg
+
+PAR,159,Ancient Booster Energy Capsule,Trainer › Tool,,Uncommon,$0.15,sv1_en_138.jpg
+
+PAR,160,Counter Catcher,Trainer › Item,,Uncommon,$0.74,sv1_en_139.jpg
+
+PAR,161,Cursed Duster,Trainer › Tool,,Uncommon,$0.05,sv1_en_140.jpg
+
+PAR,162,Defiance Vest,Trainer › Tool,,Uncommon,$0.06,sv1_en_141.jpg
+
+PAR,163,Earthen Vessel,Trainer › Item,,Uncommon,$1.26,sv1_en_142.jpg
+
+PAR,164,Future Booster Energy Capsule,Trainer › Tool,,Uncommon,$0.13,sv1_en_143.jpg
+
+PAR,165,Larry,Trainer › Supporter,,Common,$0.10,sv1_en_144.jpg
+
+PAR,166,Luxurious Cape,Trainer › Tool,,Uncommon,$0.11,sv1_en_145.jpg
+
+PAR,167,Mela,Trainer › Supporter,,Uncommon,$0.06,sv1_en_146.jpg
+
+PAR,168,Norman,Trainer › Supporter,,Uncommon,$0.04,sv1_en_147.jpg
+
+PAR,169,Parasol Lady,Trainer › Supporter,,Common,$0.06,sv1_en_148.jpg
+
+PAR,170,Professor Sada’s Vitality,Trainer › Supporter,,Uncommon,$0.19,sv1_en_149.jpg
+
+PAR,171,Professor Turo’s Scenario,Trainer › Supporter,,Uncommon,$0.11,sv1_en_150.jpg
+
+PAR,172,Rika,Trainer › Supporter,,Uncommon,$0.05,sv1_en_151.jpg
+
+PAR,173,Roark,Trainer › Supporter,,Uncommon,$0.08,sv1_en_152.jpg
+
+PAR,174,Shauntal,Trainer › Supporter,,Uncommon,$0.04,sv1_en_153.jpg
+
+PAR,175,Snorlax Doll,Trainer › Item,,Uncommon,$0.06,sv1_en_154.jpg
+
+PAR,176,Technical Machine: Blindside,Trainer › Tool,,Uncommon,$0.08,sv1_en_155.jpg
+
+PAR,177,Technical Machine: Devolution,Trainer › Tool,,Uncommon,$0.14,sv1_en_156.jpg
+
+PAR,178,Technical Machine: Evolution,Trainer › Tool,,Uncommon,$0.15,sv1_en_157.jpg
+
+PAR,179,Technical Machine: Turbo Energize,Trainer › Tool,,Uncommon,$0.09,sv1_en_158.jpg
+
+PAR,180,Techno Radar,Trainer › Item,,Uncommon,$0.11,sv1_en_159.jpg
+
+PAR,181,Tulip,Trainer › Supporter,,Uncommon,$0.10,sv1_en_160.jpg
+
+PAR,182,Medical Energy,Energy › Special,,Uncommon,$0.08,sv1_en_161.jpg
+
+PAR,183,Crustle,Pkmn › Stage 1,{G},Illustration Rare,$1.83,sv1_en_162.jpg
+
+PAR,184,Dottler,Pkmn › Stage 1,{G},Illustration Rare,$1.81,sv1_en_163.jpg
+
+PAR,185,Toedscruel,Pkmn › Stage 1,{G},Illustration Rare,$3.92,sv1_en_164.jpg
+
+PAR,186,Magby,Pkmn › Basic,{R},Illustration Rare,$7.56,sv1_en_165.jpg
+
+PAR,187,Iron Moth,Pkmn › Basic,{R},Illustration Rare,$5.27,sv1_en_166.jpg
+
+PAR,188,Snorunt,Pkmn › Basic,{W},Illustration Rare,$3.02,sv1_en_167.jpg
+
+PAR,189,Mantyke,Pkmn › Basic,{W},Illustration Rare,$4.12,sv1_en_168.jpg
+
+PAR,190,Vanillish,Pkmn › Stage 1,{W},Illustration Rare,$6.70,sv1_en_169.jpg
+
+PAR,191,Wimpod,Pkmn › Basic,{W},Illustration Rare,$3.80,sv1_en_170.jpg
+
+PAR,192,Veluza,Pkmn › Basic,{W},Illustration Rare,$3.58,sv1_en_171.jpg
+
+PAR,193,Plusle,Pkmn › Basic,{L},Illustration Rare,$7.20,sv1_en_172.jpg
+
+PAR,194,Minun,Pkmn › Basic,{L},Illustration Rare,$6.45,sv1_en_173.jpg
+
+PAR,195,Blitzle,Pkmn › Basic,{L},Illustration Rare,$3.36,sv1_en_174.jpg
+
+PAR,196,Joltik,Pkmn › Basic,{L},Illustration Rare,$5.51,sv1_en_175.jpg
+
+PAR,197,Espathra,Pkmn › Stage 1,{P},Illustration Rare,$4.98,sv1_en_176.jpg
+
+PAR,198,Gimmighoul,Pkmn › Basic,{P},Illustration Rare,$9.00,sv1_en_177.jpg
+
+PAR,199,Groudon,Pkmn › Basic,{F},Illustration Rare,$26.70,sv1_en_178.jpg
+
+PAR,200,Mienshao,Pkmn › Stage 1,{F},Illustration Rare,$3.82,sv1_en_179.jpg
+
+PAR,201,Minior,Pkmn › Basic,{F},Illustration Rare,$4.90,sv1_en_180.jpg
+
+PAR,202,Garganacl,Pkmn › Stage 2,{F},Illustration Rare,$2.29,sv1_en_181.jpg
+
+PAR,203,Slither Wing,Pkmn › Basic,{F},Illustration Rare,$4.09,sv1_en_182.jpg
+
+PAR,204,Garbodor,Pkmn › Stage 1,{D},Illustration Rare,$6.15,sv1_en_183.jpg
+
+PAR,205,Yveltal,Pkmn › Basic,{D},Illustration Rare,$5.76,sv1_en_184.jpg
+
+PAR,206,Morpeko,Pkmn › Basic,{D},Illustration Rare,$11.61,sv1_en_185.jpg
+
+PAR,207,Brute Bonnet,Pkmn › Basic,{D},Illustration Rare,$4.75,sv1_en_186.jpg
+
+PAR,208,Steelix,Pkmn › Stage 1,{M},Illustration Rare,$10.62,sv1_en_187.jpg
+
+PAR,209,Ferrothorn,Pkmn › Stage 1,{M},Illustration Rare,$2.90,sv1_en_188.jpg
+
+PAR,210,Aegislash,Pkmn › Stage 2,{M},Illustration Rare,$3.30,sv1_en_189.jpg
+
+PAR,211,Aipom,Pkmn › Basic,{C},Illustration Rare,$5.03,sv1_en_190.jpg
+
+PAR,212,Loudred,Pkmn › Stage 1,{C},Illustration Rare,$5.90,sv1_en_191.jpg
+
+PAR,213,Swablu,Pkmn › Basic,{C},Illustration Rare,$3.81,sv1_en_192.jpg
+
+PAR,214,Porygon-Z,Pkmn › Stage 2,{C},Illustration Rare,$4.50,sv1_en_193.jpg
+
+PAR,215,Cyclizar,Pkmn › Basic,{C},Illustration Rare,$2.45,sv1_en_194.jpg
+
+PAR,216,Iron Jugulis,Pkmn › Basic,{C},Illustration Rare,$5.08,sv1_en_195.jpg
+
+PAR,217,Froslass ex,Pkmn › Stage 1,{G},Ultra Rare,sold out,sv1_en_196.jpg
+
+PAR,218,Armarouge ex,Pkmn › Stage 1,{R},Ultra Rare,$3.40,sv1_en_197.jpg
+
+PAR,219,Garchomp ex,Pkmn › Stage 2,{W},Ultra Rare,$5.08,sv1_en_198.jpg
+
+PAR,220,Tsareena ex,Pkmn › Stage 2,{W},Ultra Rare,$4.07,sv1_en_199.jpg
+
+PAR,221,Golisopod ex,Pkmn › Stage 1,{W},Ultra Rare,$1.74,sv1_en_200.jpg
+
+PAR,222,Tapu Koko ex,Pkmn › Basic,{L},Ultra Rare,$2.13,sv1_en_201.jpg
+
+PAR,223,Iron Hands ex,Pkmn › Basic,{L},Ultra Rare,$17.85,sv1_en_202.jpg
+
+PAR,224,Cofagrigus ex,Pkmn › Stage 1,{P},Ultra Rare,$2.15,sv1_en_203.jpg
+
+PAR,225,Iron Valiant ex,Pkmn › Basic,{P},Ultra Rare,$5.69,sv1_en_204.jpg
+
+PAR,226,Hoopa ex,Pkmn › Basic,{F},Ultra Rare,$3.18,sv1_en_205.jpg
+
+PAR,227,Toxtricity ex,Pkmn › Stage 1,{F},Ultra Rare,$2.56,sv1_en_206.jpg
+
+PAR,228,Sandy Shocks ex,Pkmn › Basic,{F},Ultra Rare,$3.55,sv1_en_207.jpg
+
+PAR,229,Roaring Moon ex,Pkmn › Basic,{D},Ultra Rare,$10.27,sv1_en_208.jpg
+
+PAR,230,Aegislash ex,Pkmn › Stage 2,{M},Ultra Rare,$1.56,sv1_en_209.jpg
+
+PAR,231,Gholdengo ex,Pkmn › Stage 1,{M},Ultra Rare,$9.10,sv1_en_210.jpg
+
+PAR,232,Altaria ex,Pkmn › Stage 1,{N},Ultra Rare,$1.96,sv1_en_211.jpg
+
+PAR,233,Maushold ex,Pkmn › Stage 1,{C},Ultra Rare,$2.99,sv1_en_212.jpg
+
+PAR,234,Bombirdier ex,Pkmn › Basic,{C},Ultra Rare,$1.66,sv1_en_213.jpg
+
+PAR,235,Larry,Trainer › Supporter,,Ultra Rare,$1.88,sv1_en_214.jpg
+
+PAR,236,Mela,Trainer › Supporter,,Ultra Rare,$3.32,sv1_en_215.jpg
+
+PAR,237,Norman,Trainer › Supporter,,Ultra Rare,$1.71,sv1_en_216.jpg
+
+PAR,238,Parasol Lady,Trainer › Supporter,,Ultra Rare,$5.05,sv1_en_217.jpg
+
+PAR,239,Professor Sada’s Vitality,Trainer › Supporter,,Ultra Rare,$10.59,sv1_en_218.jpg
+
+PAR,240,Professor Turo’s Scenario,Trainer › Supporter,,Ultra Rare,$3.23,sv1_en_219.jpg
+
+PAR,241,Rika,Trainer › Supporter,,Ultra Rare,$2.80,sv1_en_220.jpg
+
+PAR,242,Roark,Trainer › Supporter,,Ultra Rare,$1.70,sv1_en_221.jpg
+
+PAR,243,Shauntal,Trainer › Supporter,,Ultra Rare,$2.02,sv1_en_222.jpg
+
+PAR,244,Tulip,Trainer › Supporter,,Ultra Rare,$4.73,sv1_en_223.jpg
+
+PAR,245,Garchomp ex,Pkmn › Stage 2,{W},Special Illustration Rare,$17.96,sv1_en_224.jpg
+
+PAR,246,Golisopod ex,Pkmn › Stage 1,{W},Special Illustration Rare,$11.17,sv1_en_225.jpg
+
+PAR,247,Tapu Koko ex,Pkmn › Basic,{L},Special Illustration Rare,$11.59,sv1_en_226.jpg
+
+PAR,248,Iron Hands ex,Pkmn › Basic,{L},Special Illustration Rare,$30.45,sv1_en_227.jpg
+
+PAR,249,Iron Valiant ex,Pkmn › Basic,{P},Special Illustration Rare,$25.69,sv1_en_228.jpg
+
+PAR,250,Sandy Shocks ex,Pkmn › Basic,{F},Special Illustration Rare,$10.98,sv1_en_229.jpg
+
+PAR,251,Roaring Moon ex,Pkmn › Basic,{D},Special Illustration Rare,$53.57,sv1_en_230.jpg
+
+PAR,252,Gholdengo ex,Pkmn › Stage 1,{M},Special Illustration Rare,$28.06,sv1_en_231.jpg
+
+PAR,253,Altaria ex,Pkmn › Stage 1,{N},Special Illustration Rare,$19.50,sv1_en_232.jpg
+
+PAR,254,Mela,Trainer › Supporter,,Special Illustration Rare,$9.49,sv1_en_233.jpg
+
+PAR,255,Parasol Lady,Trainer › Supporter,,Special Illustration Rare,$17.63,sv1_en_234.jpg
+
+PAR,256,Professor Sada’s Vitality,Trainer › Supporter,,Special Illustration Rare,$18.07,sv1_en_235.jpg
+
+PAR,257,Professor Turo’s Scenario,Trainer › Supporter,,Special Illustration Rare,$9.98,sv1_en_236.jpg
+
+PAR,258,Rika,Trainer › Supporter,,Special Illustration Rare,$8.09,sv1_en_237.jpg
+
+PAR,259,Tulip,Trainer › Supporter,,Special Illustration Rare,$9.16,sv1_en_238.jpg
+
+PAR,260,Garchomp ex,Pkmn › Stage 2,{W},Hyper Rare,$8.92,sv1_en_239.jpg
+
+PAR,261,Iron Valiant ex,Pkmn › Basic,{P},Hyper Rare,$5.39,sv1_en_240.jpg
+
+PAR,262,Roaring Moon ex,Pkmn › Basic,{D},Hyper Rare,$9.69,sv1_en_241.jpg
+
+PAR,263,Beach Court,Trainer › Stadium,,Hyper Rare,$5.21,sv1_en_242.jpg
+
+PAR,264,Counter Catcher,Trainer › Item,,Hyper Rare,$10.02,sv1_en_243.jpg
+
+PAR,265,Luxurious Cape,Trainer › Tool,,Hyper Rare,$4.37,sv1_en_244.jpg
+
+PAR,266,Reversal Energy,Energy › Special,,Hyper Rare,$5.9,sv1_en_245.jpg
+

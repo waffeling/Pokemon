@@ -1,0 +1,462 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+
+RZ,001,Oddish,Pkmn › Basic,{G},Common,$0.04,en_US-CZ-001-oddish.jpg
+
+CRZ,002,Gloom,Pkmn › Stage 1,{G},Uncommon,$0.04,en_US-CZ-002-gloom.jpg
+
+CRZ,003,Bellossom,Pkmn › Stage 2,{G},Rare,$0.09,en_US-CZ-003-bellossom.jpg
+
+CRZ,004,Tangela,Pkmn › Basic,{G},Common,$0.05,en_US-CZ-004-tangela.jpg
+
+CRZ,005,Tangrowth,Pkmn › Stage 1,{G},Rare,$0.08,en_US-CZ-005-tangrowth.jpg
+
+CRZ,006,Scyther,Pkmn › Basic,{G},Common,$0.06,en_US-CZ-006-scyther.jpg
+
+CRZ,007,Sunkern,Pkmn › Basic,{G},Common,$0.03,en_US-CZ-007-sunkern.jpg
+
+CRZ,008,Yanma,Pkmn › Basic,{G},Common,$0.03,en_US-CZ-008-yanma.jpg
+
+CRZ,009,Yanmega,Pkmn › Stage 1,{G},Rare,$0.09,en_US-CZ-009-yanmega.jpg
+
+CRZ,010,Kricketot,Pkmn › Basic,{G},Common,$0.02,en_US-CZ-010-kricketot.jpg
+
+CRZ,011,Cherubi,Pkmn › Basic,{G},Common,$0.03,en_US-CZ-011-cherubi.jpg
+
+CRZ,012,Carnivine,Pkmn › Basic,{G},Uncommon,$0.04,en_US-CZ-012-carnivine.jpg
+
+CRZ,013,Leafeon V,Pkmn › Basic,{G},Holo Rare V,$0.90,en_US-CZ-013-leafeon_v.jpg
+
+CRZ,014,Leafeon VSTAR,Pkmn › VSTAR,{G},Holo Rare VSTAR,$1.57,en_US-CZ-014-leafeon_vstar.jpg
+
+CRZ,015,Grubbin,Pkmn › Basic,{G},Common,$0.03,en_US-CZ-015-grubbin.jpg
+
+CRZ,016,Zarude,Pkmn › Basic,{G},Rare Holo,$0.20,en_US-CZ-016-zarude.jpg
+
+CRZ,017,Calyrex,Pkmn › Basic,{G},Rare Holo,$0.28,en_US-CZ-017-calyrex.jpg
+
+CRZ,018,Charizard V,Pkmn › Basic,{R},Holo Rare V,$2.58,en_US-CZ-018-charizard_v.jpg
+
+CRZ,019,Charizard VSTAR,Pkmn › VSTAR,{R},Holo Rare VSTAR,$5.17,en_US-CZ-019-charizard_vstar.jpg
+
+CRZ,020,Radiant Charizard,Pkmn › Basic,{R},Radiant Rare,$5.24,en_US-CZ-020-radiant_charizard.jpg
+
+CRZ,021,Entei,Pkmn › Basic,{R},Rare Holo,$0.25,en_US-CZ-021-entei.jpg
+
+CRZ,022,Simisear V,Pkmn › Basic,{R},Holo Rare V,$0.52,en_US-CZ-022-simisear_v.jpg
+
+CRZ,023,Simisear VSTAR,Pkmn › VSTAR,{R},Holo Rare VSTAR,$0.81,en_US-CZ-023-simisear_vstar.jpg
+
+CRZ,024,Larvesta,Pkmn › Basic,{R},Common,$0.03,en_US-CZ-024-larvesta.jpg
+
+CRZ,025,Volcarona,Pkmn › Stage 1,{R},Rare,$0.07,en_US-CZ-025-volcarona.jpg
+
+CRZ,026,Volcanion,Pkmn › Basic,{R},Rare Holo,$0.22,en_US-CZ-026-volcanion.jpg
+
+CRZ,027,Salandit,Pkmn › Basic,{R},Common,$0.05,en_US-CZ-027-salandit.jpg
+
+CRZ,028,Salazzle,Pkmn › Stage 1,{R},Uncommon,$0.04,en_US-CZ-028-salazzle.jpg
+
+CRZ,029,Seel,Pkmn › Basic,{W},Common,$0.03,en_US-CZ-029-seel.jpg
+
+CRZ,030,Galarian Mr. Mime,Pkmn › Basic,{W},Common,$0.03,en_US-CZ-030-galarian_mr_mime.jpg
+
+CRZ,031,Wailmer,Pkmn › Basic,{W},Common,$0.05,en_US-CZ-031-wailmer.jpg
+
+CRZ,032,Wailord,Pkmn › Stage 1,{W},Rare,$0.09,en_US-CZ-032-wailord.jpg
+
+CRZ,033,Corphish,Pkmn › Basic,{W},Common,$0.03,en_US-CZ-033-corphish.jpg
+
+CRZ,034,Snorunt,Pkmn › Basic,{W},Common,$0.04,en_US-CZ-034-snorunt.jpg
+
+CRZ,035,Luvdisc,Pkmn › Basic,{W},Common,$0.02,en_US-CZ-035-luvdisc.jpg
+
+CRZ,036,Kyogre,Pkmn › Basic,{W},Rare Holo,$0.63,en_US-CZ-036-kyogre.jpg
+
+CRZ,037,Kyogre V,Pkmn › Basic,{W},Holo Rare V,$0.81,en_US-CZ-037-kyogre_v.jpg
+
+CRZ,038,Glaceon V,Pkmn › Basic,{W},Holo Rare V,$0.82,en_US-CZ-038-glaceon_v.jpg
+
+CRZ,039,Shinx,Pkmn › Basic,{L},Common,$0.04,en_US-CZ-039-shinx.jpg
+
+CRZ,040,Shinx,Pkmn › Basic,{L},Common,$0.03,en_US-CZ-040-shinx.jpg
+
+CRZ,041,Luxio,Pkmn › Stage 1,{L},Uncommon,$0.05,en_US-CZ-041-luxio.jpg
+
+CRZ,042,Luxio,Pkmn › Stage 1,{L},Uncommon,$0.04,en_US-CZ-042-luxio.jpg
+
+CRZ,043,Luxray,Pkmn › Stage 2,{L},Rare,$0.10,en_US-CZ-043-luxray.jpg
+
+CRZ,044,Luxray,Pkmn › Stage 2,{L},Rare,$0.12,en_US-CZ-044-luxray.jpg
+
+CRZ,045,Rotom V,Pkmn › Basic,{L},Holo Rare V,$0.93,en_US-CZ-045-rotom_v.jpg
+
+CRZ,046,Rotom VSTAR,Pkmn › VSTAR,{L},Holo Rare VSTAR,$0.97,en_US-CZ-046-rotom_vstar.jpg
+
+CRZ,047,Emolga,Pkmn › Basic,{L},Common,$0.04,en_US-CZ-047-emolga.jpg
+
+CRZ,048,Eelektrik,Pkmn › Stage 1,{L},Uncommon,$0.03,en_US-CZ-048-eelektrik.jpg
+
+CRZ,049,Helioptile,Pkmn › Basic,{L},Common,$0.03,en_US-CZ-049-helioptile.jpg
+
+CRZ,050,Heliolisk,Pkmn › Stage 1,{L},Rare,$0.08,en_US-CZ-050-heliolisk.jpg
+
+CRZ,051,Radiant Charjabug,Pkmn › Basic,{L},Radiant Rare,$0.34,en_US-CZ-051-radiant_charjabug.jpg
+
+CRZ,052,Zeraora,Pkmn › Basic,{L},Rare,$0.07,en_US-CZ-052-zeraora.jpg
+
+CRZ,053,Zeraora V,Pkmn › Basic,{L},Holo Rare V,$0.64,en_US-CZ-053-zeraora_v.jpg
+
+CRZ,054,Zeraora VMAX,Pkmn › VMAX,{L},Holo Rare VMAX,$1.59,en_US-CZ-054-zeraora_vmax.jpg
+
+CRZ,055,Zeraora VSTAR,Pkmn › VSTAR,{L},Holo Rare VSTAR,$1.34,en_US-CZ-055-zeraora_vstar.jpg
+
+CRZ,056,Pincurchin,Pkmn › Basic,{L},Uncommon,$0.03,en_US-CZ-056-pincurchin.jpg
+
+CRZ,057,Exeggcute,Pkmn › Basic,{P},Common,$0.02,en_US-CZ-057-exeggcute.jpg
+
+CRZ,058,Exeggutor,Pkmn › Stage 1,{P},Rare,$0.10,en_US-CZ-058-exeggutor.jpg
+
+CRZ,059,Mewtwo,Pkmn › Basic,{P},Rare Holo,$0.50,en_US-CZ-059-mewtwo.jpg
+
+CRZ,060,Mew V,Pkmn › Basic,{P},Holo Rare V,$1.21,en_US-CZ-060-mew_v.jpg
+
+CRZ,061,Girafarig,Pkmn › Basic,{P},Uncommon,$0.02,en_US-CZ-061-girafarig.jpg
+
+CRZ,062,Lunatone,Pkmn › Basic,{P},Uncommon,$0.05,en_US-CZ-062-lunatone.jpg
+
+CRZ,063,Dusclops,Pkmn › Stage 1,{P},Uncommon,$0.02,en_US-CZ-063-dusclops.jpg
+
+CRZ,064,Tapu Lele,Pkmn › Basic,{P},Rare Holo,$0.35,en_US-CZ-064-tapu_lele.jpg
+
+CRZ,065,Hatterene V,Pkmn › Basic,{P},Holo Rare V,$0.55,en_US-CZ-065-hatterene_v.jpg
+
+CRZ,066,Hatterene VMAX,Pkmn › VMAX,{P},Holo Rare VMAX,$1.04,en_US-CZ-066-hatterene_vmax.jpg
+
+CRZ,067,Enamorus,Pkmn › Basic,{P},Rare,$0.10,en_US-CZ-067-enamorus.jpg
+
+CRZ,068,Graveler,Pkmn › Stage 1,{F},Uncommon,$0.03,en_US-CZ-068-graveler.jpg
+
+CRZ,069,Solrock,Pkmn › Basic,{F},Uncommon,$0.04,en_US-CZ-069-solrock.jpg
+
+CRZ,070,Baltoy,Pkmn › Basic,{F},Common,$0.02,en_US-CZ-070-baltoy.jpg
+
+CRZ,071,Riolu,Pkmn › Basic,{F},Common,$0.07,en_US-CZ-071-riolu.jpg
+
+CRZ,072,Pancham,Pkmn › Basic,{F},Common,$0.04,en_US-CZ-072-pancham.jpg
+
+CRZ,073,Rockruff,Pkmn › Basic,{F},Common,$0.06,en_US-CZ-073-rockruff.jpg
+
+CRZ,074,Lycanroc,Pkmn › Stage 1,{F},Rare,$0.07,en_US-CZ-074-lycanroc.jpg
+
+CRZ,075,Koffing,Pkmn › Basic,{D},Common,$0.04,en_US-CZ-075-koffing.jpg
+
+CRZ,076,Absol,Pkmn › Basic,{D},Rare Holo,$0.26,en_US-CZ-076-absol.jpg
+
+CRZ,077,Purrloin,Pkmn › Basic,{D},Common,$0.05,en_US-CZ-077-purrloin.jpg
+
+CRZ,078,Liepard,Pkmn › Stage 1,{D},Rare,$0.09,en_US-CZ-078-liepard.jpg
+
+CRZ,079,Krokorok,Pkmn › Stage 1,{D},Uncommon,$0.03,en_US-CZ-079-krokorok.jpg
+
+CRZ,080,Pangoro,Pkmn › Stage 1,{D},Rare,$0.09,en_US-CZ-080-pangoro.jpg
+
+CRZ,081,Skrelp,Pkmn › Basic,{D},Common,$0.04,en_US-CZ-081-skrelp.jpg
+
+CRZ,082,Dragalge,Pkmn › Stage 1,{D},Rare,$0.09,en_US-CZ-082-dragalge.jpg
+
+CRZ,083,Hoopa,Pkmn › Basic,{D},Rare Holo,$0.24,en_US-CZ-083-hoopa.jpg
+
+CRZ,084,Galarian Meowth,Pkmn › Basic,{M},Common,$0.04,en_US-CZ-084-galarian_meowth.jpg
+
+CRZ,085,Galarian Perrserker,Pkmn › Stage 1,{M},Rare,$0.09,en_US-CZ-085-galarian_perrserker.jpg
+
+CRZ,086,Scizor,Pkmn › Stage 1,{M},Rare,$0.10,en_US-CZ-086-scizor.jpg
+
+CRZ,087,Aron,Pkmn › Basic,{M},Common,$0.04,en_US-CZ-087-aron.jpg
+
+CRZ,088,Lairon,Pkmn › Stage 1,{M},Uncommon,$0.05,en_US-CZ-088-lairon.jpg
+
+CRZ,089,Aggron,Pkmn › Stage 2,{M},Rare Holo,$0.24,en_US-CZ-089-aggron.jpg
+
+CRZ,090,Metang,Pkmn › Stage 1,{M},Uncommon,$0.02,en_US-CZ-090-metang.jpg
+
+CRZ,091,Pawniard,Pkmn › Basic,{M},Common,$0.02,en_US-CZ-091-pawniard.jpg
+
+CRZ,092,Pawniard,Pkmn › Basic,{M},Common,$0.03,en_US-CZ-092-pawniard.jpg
+
+CRZ,093,Bisharp,Pkmn › Stage 1,{M},Uncommon,$0.03,en_US-CZ-093-bisharp.jpg
+
+CRZ,094,Zacian,Pkmn › Basic,{M},Rare Holo,$0.21,en_US-CZ-094-zacian.jpg
+
+CRZ,095,Zacian V,Pkmn › Basic,{M},Holo Rare V,$0.61,en_US-CZ-095-zacian_v.jpg
+
+CRZ,096,Zacian VSTAR,Pkmn › VSTAR,{M},Holo Rare VSTAR,$1.32,en_US-CZ-096-zacian_vstar.jpg
+
+CRZ,097,Zamazenta,Pkmn › Basic,{M},Rare Holo,$0.45,en_US-CZ-097-zamazenta.jpg
+
+CRZ,098,Zamazenta V,Pkmn › Basic,{M},Holo Rare V,$0.56,en_US-CZ-098-zamazenta_v.jpg
+
+CRZ,099,Zamazenta VSTAR,Pkmn › VSTAR,{M},Holo Rare VSTAR,$1.24,en_US-CZ-099-zamazenta_vstar.jpg
+
+CRZ,100,Rayquaza V,Pkmn › Basic,{N},Holo Rare V,$0.67,en_US-CZ-100-rayquaza_v.jpg
+
+CRZ,101,Rayquaza VMAX,Pkmn › VMAX,{N},Holo Rare VMAX,$2.04,en_US-CZ-101-rayquaza_vmax.jpg
+
+CRZ,102,Rayquaza VMAX,Pkmn › VMAX,{N},Holo Rare VMAX,$1.86,en_US-CZ-102-rayquaza_vmax.jpg
+
+CRZ,103,Duraludon V,Pkmn › Basic,{N},Holo Rare V,$0.56,en_US-CZ-103-duraludon_v.jpg
+
+CRZ,104,Duraludon VMAX,Pkmn › VMAX,{N},Holo Rare VMAX,$1.12,en_US-CZ-104-duraludon_vmax.jpg
+
+CRZ,105,Radiant Eternatus,Pkmn › Basic,{N},Radiant Rare,$0.39,en_US-CZ-105-radiant_eternatus.jpg
+
+CRZ,106,Tauros,Pkmn › Basic,{C},Rare,$0.09,en_US-CZ-106-tauros.jpg
+
+CRZ,107,Ditto,Pkmn › Basic,{C},Rare Holo,$0.46,en_US-CZ-107-ditto.jpg
+
+CRZ,108,Eevee V,Pkmn › Basic,{C},Holo Rare V,$1.36,en_US-CZ-108-eevee_v.jpg
+
+CRZ,109,Snorlax,Pkmn › Basic,{C},Rare,$0.17,en_US-CZ-109-snorlax.jpg
+
+CRZ,110,Starly,Pkmn › Basic,{C},Common,$0.03,en_US-CZ-110-starly.jpg
+
+CRZ,111,Bidoof,Pkmn › Basic,{C},Common,$0.17,en_US-CZ-111-bidoof.jpg
+
+CRZ,112,Chatot,Pkmn › Basic,{C},Common,$0.02,en_US-CZ-112-chatot.jpg
+
+CRZ,113,Regigigas V,Pkmn › Basic,{C},Holo Rare V,$0.88,en_US-CZ-113-regigigas_v.jpg
+
+CRZ,114,Regigigas VSTAR,Pkmn › VSTAR,{C},Holo Rare VSTAR,$1.22,en_US-CZ-114-regigigas_vstar.jpg
+
+CRZ,115,Shaymin,Pkmn › Basic,{C},Uncommon,$0.04,en_US-CZ-115-shaymin.jpg
+
+CRZ,116,Stoutland V,Pkmn › Basic,{C},Holo Rare V,$0.51,en_US-CZ-116-stoutland_v.jpg
+
+CRZ,117,Yungoos,Pkmn › Basic,{C},Common,$0.03,en_US-CZ-117-yungoos.jpg
+
+CRZ,118,Gumshoos,Pkmn › Stage 1,{C},Rare,$0.12,en_US-CZ-118-gumshoos.jpg
+
+CRZ,119,Oranguru,Pkmn › Basic,{C},Rare,$0.10,en_US-CZ-119-oranguru.jpg
+
+CRZ,120,Greedent V,Pkmn › Basic,{C},Holo Rare V,$0.45,en_US-CZ-120-greedent_v.jpg
+
+CRZ,121,Wooloo,Pkmn › Basic,{C},Common,$0.03,en_US-CZ-121-wooloo.jpg
+
+CRZ,122,Dubwool,Pkmn › Stage 1,{C},Rare,$0.09,en_US-CZ-122-dubwool.jpg
+
+CRZ,123,Bea,Trainer › Supporter,,Rare Holo,$0.20,en_US-CZ-123-bea.jpg
+
+CRZ,124,Bede,Trainer › Supporter,,Rare Holo,$0.18,en_US-CZ-124-bede.jpg
+
+CRZ,125,Crushing Hammer,Trainer › Item,,Uncommon,$0.05,en_US-CZ-125-crushing_hammer.jpg
+
+CRZ,126,Digging Duo,Trainer › Supporter,,Uncommon,$0.04,en_US-CZ-126-digging_duo.jpg
+
+CRZ,127,Energy Retrieval,Trainer › Item,,Common,$0.06,en_US-CZ-127-energy_retrieval.jpg
+
+CRZ,128,Energy Search,Trainer › Item,,Common,$0.05,en_US-CZ-128-energy_search.jpg
+
+CRZ,129,Energy Switch,Trainer › Item,,Uncommon,$0.09,en_US-CZ-129-energy_switch.jpg
+
+CRZ,130,Friends in Hisui,Trainer › Supporter,,Uncommon,$0.04,en_US-CZ-130-friends_in_hisui.jpg
+
+CRZ,131,Friends in Sinnoh,Trainer › Supporter,,Uncommon,$0.07,en_US-CZ-131-friends_in_sinnoh.jpg
+
+CRZ,132,Great Ball,Trainer › Item,,Uncommon,$0.10,en_US-CZ-132-great_ball.jpg
+
+CRZ,133,Hop,Trainer › Supporter,,Rare Holo,$0.17,en_US-CZ-133-hop.jpg
+
+CRZ,134,Leon,Trainer › Supporter,,Rare Holo,$0.34,en_US-CZ-134-leon.jpg
+
+CRZ,135,Lost Vacuum,Trainer › Item,,Uncommon,$0.10,en_US-CZ-135-lost_vacuum.jpg
+
+CRZ,136,Nessa,Trainer › Supporter,,Rare Holo,$0.25,en_US-CZ-136-nessa.jpg
+
+CRZ,137,Poké Ball,Trainer › Item,,Common,$0.04,en_US-CZ-137-poke_ball.jpg
+
+CRZ,138,Pokémon Catcher,Trainer › Item,,Uncommon,$0.07,en_US-CZ-138-pokemon_catcher.jpg
+
+CRZ,139,Potion,Trainer › Item,,Common,$0.05,en_US-CZ-139-potion.jpg
+
+CRZ,140,Raihan,Trainer › Supporter,,Rare Holo,$0.34,en_US-CZ-140-raihan.jpg
+
+CRZ,141,Rare Candy,Trainer › Item,,Uncommon,$0.12,en_US-CZ-141-rare_candy.jpg
+
+CRZ,142,Rescue Carrier,Trainer › Item,,Uncommon,$0.05,en_US-CZ-142-rescue_carrier.jpg
+
+CRZ,143,Sky Seal Stone,Trainer › Tool,,Rare Holo,$0.22,en_US-CZ-143-sky_seal_stone.jpg
+
+CRZ,144,Switch,Trainer › Item,,Common,$0.07,en_US-CZ-144-switch.jpg
+
+CRZ,145,Trekking Shoes,Trainer › Item,,Uncommon,$0.12,en_US-CZ-145-trekking_shoes.jpg
+
+CRZ,146,Ultra Ball,Trainer › Item,,Uncommon,$0.12,en_US-CZ-146-ultra_ball.jpg
+
+CRZ,147,Elesa’s Sparkle,Trainer › Supporter,,Ultra Rare,$18.00,en_US-CZ-147-elesas_sparkle.jpg
+
+CRZ,148,Friends in Hisui,Trainer › Supporter,,Ultra Rare,$5.86,en_US-CZ-148-friends_in_hisui.jpg
+
+CRZ,149,Friends in Sinnoh,Trainer › Supporter,,Ultra Rare,$5.76,en_US-CZ-149-friends_in_sinnoh.jpg
+
+CRZ,150,Professor’s Research,Trainer › Supporter,,Ultra Rare,$2.82,en_US-CZ-150-professors_research.jpg
+
+CRZ,151,Volo,Trainer › Supporter,,Ultra Rare,$1.55,en_US-CZ-151-volo.jpg
+
+CRZ,152,Grass Energy,Energy › Basic,,Ultra Rare,$1.77,en_US-CZ-152-grass_energy.jpg
+
+CRZ,153,Fire Energy,Energy › Basic,,Ultra Rare,$1.73,en_US-CZ-153-fire_energy.jpg
+
+CRZ,154,Water Energy,Energy › Basic,,Ultra Rare,$2.54,en_US-CZ-154-water_energy.jpg
+
+CRZ,155,Lightning Energy,Energy › Basic,,Ultra Rare,$1.55,en_US-CZ-155-lightning_energy.jpg
+
+CRZ,156,Psychic Energy,Energy › Basic,,Ultra Rare,$2.23,en_US-CZ-156-psychic_energy.jpg
+
+CRZ,157,Fighting Energy,Energy › Basic,,Ultra Rare,$1.09,en_US-CZ-157-fighting_energy.jpg
+
+CRZ,158,Darkness Energy,Energy › Basic,,Ultra Rare,$2.47,en_US-CZ-158-darkness_energy.jpg
+
+CRZ,159,Metal Energy,Energy › Basic,,Ultra Rare,$1.32,en_US-CZ-159-metal_energy.jpg
+
+CRZ,160,Pikachu,Pkmn › Basic,{L},Rare Secret,$6.27,en_US-CZ-160-pikachu.jpg
+
+CRZ,GG01,Hisuian Voltorb,Pkmn › Basic,{G},Trainer Gallery Holo Rare,$0.61,en_US-CZ-GG001-hisuian_voltorb.jpg
+
+CRZ,GG02,Kricketune,Pkmn › Stage 1,{G},Trainer Gallery Holo Rare,$0.98,en_US-CZ-GG002-kricketune.jpg
+
+CRZ,GG03,Magmortar,Pkmn › Stage 1,{R},Trainer Gallery Holo Rare,$1.52,en_US-CZ-GG003-magmortar.jpg
+
+CRZ,GG04,Oricorio,Pkmn › Basic,{R},Trainer Gallery Holo Rare,$0.54,en_US-CZ-GG004-oricorio.jpg
+
+CRZ,GG05,Lapras,Pkmn › Basic,{W},Trainer Gallery Holo Rare,$2.75,en_US-CZ-GG005-lapras.jpg
+
+CRZ,GG06,Manaphy,Pkmn › Basic,{W},Trainer Gallery Holo Rare,$4.65,en_US-CZ-GG006-manaphy.jpg
+
+CRZ,GG07,Keldeo,Pkmn › Basic,{W},Trainer Gallery Holo Rare,$1.85,en_US-CZ-GG007-keldeo.jpg
+
+CRZ,GG08,Electivire,Pkmn › Stage 1,{L},Trainer Gallery Holo Rare,$1.14,en_US-CZ-GG008-electivire.jpg
+
+CRZ,GG09,Toxtricity,Pkmn › Stage 1,{L},Trainer Gallery Holo Rare,$0.71,en_US-CZ-GG009-toxtricity.jpg
+
+CRZ,GG10,Mew,Pkmn › Basic,{P},Trainer Gallery Holo Rare,$6.01,en_US-CZ-GG010-mew.jpg
+
+CRZ,GG11,Lunatone,Pkmn › Basic,{P},Trainer Gallery Holo Rare,$1.38,en_US-CZ-GG011-lunatone.jpg
+
+CRZ,GG12,Deoxys,Pkmn › Basic,{P},Trainer Gallery Holo Rare,$1.99,en_US-CZ-GG012-deoxys.jpg
+
+CRZ,GG13,Diancie,Pkmn › Basic,{P},Trainer Gallery Holo Rare,$0.75,en_US-CZ-GG013-diancie.jpg
+
+CRZ,GG14,Comfey,Pkmn › Basic,{P},Trainer Gallery Holo Rare,$2.19,en_US-CZ-GG014-comfey.jpg
+
+CRZ,GG15,Solrock,Pkmn › Basic,{F},Trainer Gallery Holo Rare,$1.35,en_US-CZ-GG015-solrock.jpg
+
+CRZ,GG16,Absol,Pkmn › Basic,{D},Trainer Gallery Holo Rare,$1.41,en_US-CZ-GG016-absol.jpg
+
+CRZ,GG17,Thievul,Pkmn › Stage 1,{D},Trainer Gallery Holo Rare,$0.76,en_US-CZ-GG017-thievul.jpg
+
+CRZ,GG18,Magnezone,Pkmn › Stage 2,{M},Trainer Gallery Holo Rare,$1.20,en_US-CZ-GG018-magnezone.jpg
+
+CRZ,GG19,Altaria,Pkmn › Stage 1,{N},Trainer Gallery Holo Rare,$1.04,en_US-CZ-GG019-altaria.jpg
+
+CRZ,GG20,Latias,Pkmn › Basic,{N},Trainer Gallery Holo Rare,$2.06,en_US-CZ-GG020-latias.jpg
+
+CRZ,GG21,Hisuian Goodra,Pkmn › Stage 2,{N},Trainer Gallery Holo Rare,$0.83,en_US-CZ-GG021-hisuian_goodra.jpg
+
+CRZ,GG22,Ditto,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$1.10,en_US-CZ-GG022-ditto.jpg
+
+CRZ,GG23,Dunsparce,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$0.73,en_US-CZ-GG023-dunsparce.jpg
+
+CRZ,GG24,Miltank,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$1.38,en_US-CZ-GG024-miltank.jpg
+
+CRZ,GG25,Bibarel,Pkmn › Stage 1,{C},Trainer Gallery Holo Rare,$5.32,en_US-CZ-GG025-bibarel.jpg
+
+CRZ,GG26,Riolu,Pkmn › Basic,{F},Trainer Gallery Holo Rare,$1.00,en_US-CZ-GG026-riolu.jpg
+
+CRZ,GG27,Swablu,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$0.67,en_US-CZ-GG027-swablu.jpg
+
+CRZ,GG28,Duskull,Pkmn › Basic,{P},Trainer Gallery Holo Rare,$0.71,en_US-CZ-GG028-duskull.jpg
+
+CRZ,GG29,Bidoof,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$4.63,en_US-CZ-GG029-bidoof.jpg
+
+CRZ,GG30,Pikachu,Pkmn › Basic,{L},Trainer Gallery Holo Rare,$3.25,en_US-CZ-GG030-pikachu.jpg
+
+CRZ,GG31,Turtwig,Pkmn › Basic,{G},Trainer Gallery Holo Rare,$0.98,en_US-CZ-GG031-turtwig.jpg
+
+CRZ,GG32,Paras,Pkmn › Basic,{G},Trainer Gallery Holo Rare,$0.71,en_US-CZ-GG032-paras.jpg
+
+CRZ,GG33,Poochyena,Pkmn › Basic,{D},Trainer Gallery Holo Rare,sold out,en_US-CZ-GG033-poochyena.jpg
+
+CRZ,GG34,Mareep,Pkmn › Basic,{L},Trainer Gallery Holo Rare,sold out,en_US-CZ-GG034-mareep.jpg
+
+CRZ,GG35,Leafeon VSTAR,Pkmn › VSTAR,{G},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG035-leafeon_vstar.jpg
+
+CRZ,GG36,Entei V,Pkmn › Basic,{R},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG036-entei_v.jpg
+
+CRZ,GG37,Simisear VSTAR,Pkmn › VSTAR,{R},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG037-simisear_vstar.jpg
+
+CRZ,GG38,Suicune V,Pkmn › Basic,{W},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG038-suicune_v.jpg
+
+CRZ,GG39,Lumineon V,Pkmn › Basic,{W},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG039-lumineon_v.jpg
+
+CRZ,GG40,Glaceon VSTAR,Pkmn › VSTAR,{W},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG040-glaceon_vstar.jpg
+
+CRZ,GG41,Raikou V,Pkmn › Basic,{L},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG041-raikou_v.jpg
+
+CRZ,GG42,Zeraora VMAX,Pkmn › VMAX,{L},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG042-zeraora_vmax.jpg
+
+CRZ,GG43,Zeraora VSTAR,Pkmn › VSTAR,{L},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG043-zeraora_vstar.jpg
+
+CRZ,GG44,Mewtwo VSTAR,Pkmn › VSTAR,{P},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG044-mewtwo_vstar.jpg
+
+CRZ,GG45,Deoxys VMAX,Pkmn › VMAX,{P},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG045-deoxys_vmax.jpg
+
+CRZ,GG46,Deoxys VSTAR,Pkmn › VSTAR,{P},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG046-deoxys_vstar.jpg
+
+CRZ,GG47,Hatterene VMAX,Pkmn › VMAX,{P},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG047-hatterene_vmax.jpg
+
+CRZ,GG48,Zacian V,Pkmn › Basic,{P},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG048-zacian_v.jpg
+
+CRZ,GG49,Drapion V,Pkmn › Basic,{D},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG049-drapion_v.jpg
+
+CRZ,GG50,Darkrai VSTAR,Pkmn › VSTAR,{D},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG050-darkrai_vstar.jpg
+
+CRZ,GG51,Hisuian Samurott V,Pkmn › Basic,{D},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG051-hisuian_samurott_v.jpg
+
+CRZ,GG52,Hisuian Samurott VSTAR,Pkmn › VSTAR,{D},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG052-hisuian_samurott_vstar.jpg
+
+CRZ,GG53,Hoopa V,Pkmn › Basic,{D},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG053-hoopa_v.jpg
+
+CRZ,GG54,Zamazenta V,Pkmn › Basic,{M},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG054-zamazenta_v.jpg
+
+CRZ,GG55,Regigigas VSTAR,Pkmn › VSTAR,{C},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG055-regigigas_vstar.jpg
+
+CRZ,GG56,Hisuian Zoroark VSTAR,Pkmn › VSTAR,{C},Trainer Gallery Holo Rare V,sold out,en_US-CZ-GG056-hisuian_zoroark_vstar.jpg
+
+CRZ,GG57,Adaman,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG057-adaman.jpg
+
+CRZ,GG58,Cheren’s Care,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG058-cherens_care.jpg
+
+CRZ,GG59,Colress’s Experiment,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG059-colresss_experiment.jpg
+
+CRZ,GG60,Cynthia’s Ambition,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG060-cynthias_ambition.jpg
+
+CRZ,GG61,Gardenia’s Vigor,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG061-gardenias_vigor.jpg
+
+CRZ,GG62,Grant,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG062-grant.jpg
+
+CRZ,GG63,Irida,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG063-irida.jpg
+
+CRZ,GG64,Melony,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG064-melony.jpg
+
+CRZ,GG65,Raihan,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG065-raihan.jpg
+
+CRZ,GG66,Roxanne,Trainer › Supporter,,Trainer Gallery Ultra Rare,sold out,en_US-CZ-GG066-roxanne.jpg
+
+CRZ,GG67,Origin Forme Palkia VSTAR,Pkmn › VSTAR,{W},Trainer Gallery Secret Rare,sold out,en_US-CZ-GG067-origin_forme_palkia_vstar.jpg
+
+CRZ,GG68,Origin Forme Dialga VSTAR,Pkmn › VSTAR,{M},Trainer Gallery Secret Rare,sold out,en_US-CZ-GG068-origin_forme_dialga_vstar.jpg
+
+CRZ,GG69,Giratina VSTAR,Pkmn › VSTAR,{N},Trainer Gallery Secret Rare,sold out,en_US-CZ-GG069-giratina_vstar.jpg
+
+CRZ,GG70,Arceus VSTAR,Pkmn › VSTAR,{C},Trainer Gallery Secret Rare,sold ou,en_US-CZ-GG070-arceus_vstar.jpg
+

@@ -1,0 +1,493 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+,,,,,,
+ASR,1,Beedrill V,Pkmn › Basic,{G},Holo Rare V,$0.53,en_US-SWSH10-001-beedrill_v.jpg
+,,,,,,
+ASR,2,Hisuian Voltorb,Pkmn › Basic,{G},Common,$0.05,en_US-SWSH10-002-hisuian_voltorb.jpg
+,,,,,,
+ASR,3,Hisuian Electrode,Pkmn › Stage 1,{G},Uncommon,$0.05,en_US-SWSH10-003-hisuian_electrode.jpg
+,,,,,,
+ASR,4,Scyther,Pkmn › Basic,{G},Common,$0.05,en_US-SWSH10-004-scyther.jpg
+,,,,,,
+ASR,5,Scyther,Pkmn › Basic,{G},Common,$0.04,en_US-SWSH10-005-scyther.jpg
+,,,,,,
+ASR,6,Yanma,Pkmn › Basic,{G},Common,$0.05,en_US-SWSH10-006-yanma.jpg
+,,,,,,
+ASR,7,Yanmega,Pkmn › Stage 1,{G},Uncommon,$0.04,en_US-SWSH10-007-yanmega.jpg
+,,,,,,
+ASR,8,Heracross,Pkmn › Basic,{G},Common,$0.05,en_US-SWSH10-008-heracross.jpg
+,,,,,,
+ASR,9,Kricketot,Pkmn › Basic,{G},Common,$0.06,en_US-SWSH10-009-kricketot.jpg
+,,,,,,
+ASR,10,Kricketune,Pkmn › Stage 1,{G},Uncommon,$0.07,en_US-SWSH10-010-kricketune.jpg
+,,,,,,
+ASR,11,Combee,Pkmn › Basic,{G},Common,$0.03,en_US-SWSH10-011-combee.jpg
+,,,,,,
+ASR,12,Vespiquen,Pkmn › Stage 1,{G},Rare,$0.06,en_US-SWSH10-012-vespiquen.jpg
+,,,,,,
+ASR,13,Leafeon,Pkmn › Stage 1,{G},Rare,$0.17,en_US-SWSH10-013-leafeon.jpg
+,,,,,,
+ASR,14,Shaymin,Pkmn › Basic,{G},Rare,$0.07,en_US-SWSH10-014-shaymin.jpg
+,,,,,,
+ASR,15,Petilil,Pkmn › Basic,{G},Common,$0.03,en_US-SWSH10-015-petilil.jpg
+,,,,,,
+ASR,16,Hisuian Lilligant,Pkmn › Stage 1,{G},Rare Holo,$0.15,en_US-SWSH10-016-hisuian_lilligant.jpg
+,,,,,,
+ASR,17,Hisuian Lilligant V,Pkmn › Basic,{G},Holo Rare V,$0.74,en_US-SWSH10-017-hisuian_lilligant_v.jpg
+,,,,,,
+ASR,18,Hisuian Lilligant VSTAR,Pkmn › VSTAR,{G},Holo Rare VSTAR,$1.86,en_US-SWSH10-018-hisuian_lilligant_vstar.jpg
+,,,,,,
+ASR,19,Rowlet,Pkmn › Basic,{G},Common,$0.04,en_US-SWSH10-019-rowlet.jpg
+,,,,,,
+ASR,20,Dartrix,Pkmn › Stage 1,{G},Uncommon,$0.04,en_US-SWSH10-020-dartrix.jpg
+,,,,,,
+ASR,21,Ponyta,Pkmn › Basic,{R},Common,$0.04,en_US-SWSH10-021-ponyta.jpg
+,,,,,,
+ASR,22,Rapidash,Pkmn › Stage 1,{R},Rare,$0.09,en_US-SWSH10-022-rapidash.jpg
+,,,,,,
+ASR,23,Cyndaquil,Pkmn › Basic,{R},Common,$0.04,en_US-SWSH10-023-cyndaquil.jpg
+,,,,,,
+ASR,24,Quilava,Pkmn › Stage 1,{R},Uncommon,$0.06,en_US-SWSH10-024-quilava.jpg
+,,,,,,
+ASR,25,Heatran V,Pkmn › Basic,{R},Holo Rare V,$0.63,en_US-SWSH10-025-heatran_v.jpg
+,,,,,,
+ASR,26,Heatran VMAX,Pkmn › VMAX,{R},Holo Rare VMAX,$1.37,en_US-SWSH10-026-heatran_vmax.jpg
+,,,,,,
+ASR,27,Radiant Heatran,Pkmn › Basic,{R},Radiant Rare,$0.34,en_US-SWSH10-027-radiant_heatran.jpg
+,,,,,,
+ASR,28,Psyduck,Pkmn › Basic,{W},Common,$0.05,en_US-SWSH10-028-psyduck.jpg
+,,,,,,
+ASR,29,Golduck,Pkmn › Stage 1,{W},Uncommon,$0.05,en_US-SWSH10-029-golduck.jpg
+,,,,,,
+ASR,30,Starmie V,Pkmn › Basic,{W},Holo Rare V,$0.55,en_US-SWSH10-030-starmie_v.jpg
+,,,,,,
+ASR,31,Swinub,Pkmn › Basic,{W},Common,$0.05,en_US-SWSH10-031-swinub.jpg
+,,,,,,
+ASR,32,Piloswine,Pkmn › Stage 1,{W},Uncommon,$0.07,en_US-SWSH10-032-piloswine.jpg
+,,,,,,
+ASR,33,Mamoswine,Pkmn › Stage 2,{W},Rare,$0.08,en_US-SWSH10-033-mamoswine.jpg
+,,,,,,
+ASR,34,Mantine,Pkmn › Basic,{W},Common,$0.05,en_US-SWSH10-034-mantine.jpg
+,,,,,,
+ASR,35,Barboach,Pkmn › Basic,{W},Common,$0.03,en_US-SWSH10-035-barboach.jpg
+,,,,,,
+ASR,36,Whiscash,Pkmn › Stage 1,{W},Uncommon,$0.03,en_US-SWSH10-036-whiscash.jpg
+,,,,,,
+ASR,37,Regice,Pkmn › Basic,{W},Rare,$0.10,en_US-SWSH10-037-regice.jpg
+,,,,,,
+ASR,38,Glaceon,Pkmn › Stage 1,{W},Rare,$0.15,en_US-SWSH10-038-glaceon.jpg
+,,,,,,
+ASR,39,Origin Forme Palkia V,Pkmn › Basic,{W},Holo Rare V,$0.71,en_US-SWSH10-039-origin_forme_palkia_v.jpg
+,,,,,,
+ASR,40,Origin Forme Palkia VSTAR,Pkmn › VSTAR,{W},Holo Rare VSTAR,$1.36,en_US-SWSH10-040-origin_forme_palkia_vstar.jpg
+,,,,,,
+ASR,41,Oshawott,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH10-041-oshawott.jpg
+,,,,,,
+ASR,42,Dewott,Pkmn › Stage 1,{W},Uncommon,$0.07,en_US-SWSH10-042-dewott.jpg
+,,,,,,
+ASR,43,Hisuian Basculin,Pkmn › Basic,{W},Common,$0.05,en_US-SWSH10-043-hisuian_basculin.jpg
+,,,,,,
+ASR,44,Hisuian Basculegion,Pkmn › Stage 1,{W},Rare,$0.07,en_US-SWSH10-044-hisuian_basculegion.jpg
+,,,,,,
+ASR,45,Keldeo,Pkmn › Basic,{W},Rare Holo,$0.20,en_US-SWSH10-045-keldeo.jpg
+,,,,,,
+ASR,46,Radiant Greninja,Pkmn › Basic,{W},Radiant Rare,$6.24,en_US-SWSH10-046-radiant_greninja.jpg
+,,,,,,
+ASR,47,Bergmite,Pkmn › Basic,{W},Common,$0.02,en_US-SWSH10-047-bergmite.jpg
+,,,,,,
+ASR,48,Hisuian Avalugg,Pkmn › Stage 1,{W},Rare,$0.10,en_US-SWSH10-048-hisuian_avalugg.jpg
+,,,,,,
+ASR,49,Galarian Mr. Rime V,Pkmn › Basic,{W},Holo Rare V,$0.48,en_US-SWSH10-049-galarian_mr_rime_v.jpg
+,,,,,,
+ASR,50,Luxray V,Pkmn › Basic,{L},Holo Rare V,$1.01,en_US-SWSH10-050-luxray_v.jpg
+,,,,,,
+ASR,51,Regieleki,Pkmn › Basic,{L},Rare,$0.11,en_US-SWSH10-051-regieleki.jpg
+,,,,,,
+ASR,52,Hisuian Typhlosion,Pkmn › Stage 2,{P},Rare Holo,$0.25,en_US-SWSH10-052-hisuian_typhlosion.jpg
+,,,,,,
+ASR,53,Hisuian Typhlosion V,Pkmn › Basic,{P},Holo Rare V,$0.64,en_US-SWSH10-053-hisuian_typhlosion_v.jpg
+,,,,,,
+ASR,54,Hisuian Typhlosion VSTAR,Pkmn › VSTAR,{P},Holo Rare VSTAR,$1.31,en_US-SWSH10-054-hisuian_typhlosion_vstar.jpg
+,,,,,,
+ASR,55,Togepi,Pkmn › Basic,{P},Common,$0.05,en_US-SWSH10-055-togepi.jpg
+,,,,,,
+ASR,56,Togetic,Pkmn › Stage 1,{P},Uncommon,$0.08,en_US-SWSH10-056-togetic.jpg
+,,,,,,
+ASR,57,Togekiss,Pkmn › Stage 2,{P},Rare Holo,$0.19,en_US-SWSH10-057-togekiss.jpg
+,,,,,,
+ASR,58,Misdreavus,Pkmn › Basic,{P},Common,$0.02,en_US-SWSH10-058-misdreavus.jpg
+,,,,,,
+ASR,59,Mismagius,Pkmn › Stage 1,{P},Rare,$0.07,en_US-SWSH10-059-mismagius.jpg
+,,,,,,
+ASR,60,Ralts,Pkmn › Basic,{P},Common,$0.12,en_US-SWSH10-060-ralts.jpg
+,,,,,,
+ASR,61,Kirlia,Pkmn › Stage 1,{P},Uncommon,$0.02,en_US-SWSH10-061-kirlia.jpg
+,,,,,,
+ASR,62,Gallade,Pkmn › Stage 2,{P},Rare Holo,$0.49,en_US-SWSH10-062-gallade.jpg
+,,,,,,
+ASR,63,Drifloon,Pkmn › Basic,{P},Common,$0.05,en_US-SWSH10-063-drifloon.jpg
+,,,,,,
+ASR,64,Drifblim,Pkmn › Stage 1,{P},Uncommon,$0.03,en_US-SWSH10-064-drifblim.jpg
+,,,,,,
+ASR,65,Uxie,Pkmn › Basic,{P},Uncommon,$0.05,en_US-SWSH10-065-uxie.jpg
+,,,,,,
+ASR,66,Mesprit,Pkmn › Basic,{P},Rare Holo,$0.19,en_US-SWSH10-066-mesprit.jpg
+,,,,,,
+ASR,67,Azelf,Pkmn › Basic,{P},Uncommon,$0.06,en_US-SWSH10-067-azelf.jpg
+,,,,,,
+ASR,68,Diancie,Pkmn › Basic,{P},Rare Holo,$0.19,en_US-SWSH10-068-diancie.jpg
+,,,,,,
+ASR,69,Wyrdeer,Pkmn › Stage 1,{P},Rare Holo,$0.28,en_US-SWSH10-069-wyrdeer.jpg
+,,,,,,
+ASR,70,Hisuian Growlithe,Pkmn › Basic,{F},Common,$0.08,en_US-SWSH10-070-hisuian_growlithe.jpg
+,,,,,,
+ASR,71,Hisuian Arcanine,Pkmn › Stage 1,{F},Rare,$0.11,en_US-SWSH10-071-hisuian_arcanine.jpg
+,,,,,,
+ASR,72,Machamp V,Pkmn › Basic,{F},Holo Rare V,$0.86,en_US-SWSH10-072-machamp_v.jpg
+,,,,,,
+ASR,73,Machamp VMAX,Pkmn › VMAX,{F},Holo Rare VMAX,$2.71,en_US-SWSH10-073-machamp_vmax.jpg
+,,,,,,
+ASR,74,Sudowoodo,Pkmn › Basic,{F},Common,$0.03,en_US-SWSH10-074-sudowoodo.jpg
+,,,,,,
+ASR,75,Regirock,Pkmn › Basic,{F},Rare,$0.11,en_US-SWSH10-075-regirock.jpg
+,,,,,,
+ASR,76,Cranidos,Pkmn › Stage 1,{F},Uncommon,$0.05,en_US-SWSH10-076-cranidos.jpg
+,,,,,,
+ASR,77,Rampardos,Pkmn › Stage 2,{F},Rare Holo,$0.26,en_US-SWSH10-077-rampardos.jpg
+,,,,,,
+ASR,78,Lucario V,Pkmn › Basic,{F},Holo Rare V,$0.48,en_US-SWSH10-078-lucario_v.jpg
+,,,,,,
+ASR,79,Hippopotas,Pkmn › Basic,{F},Common,$0.02,en_US-SWSH10-079-hippopotas.jpg
+,,,,,,
+ASR,80,Hippowdon,Pkmn › Stage 1,{F},Uncommon,$0.05,en_US-SWSH10-080-hippowdon.jpg
+,,,,,,
+ASR,81,Radiant Hawlucha,Pkmn › Basic,{F},Radiant Rare,$0.31,en_US-SWSH10-081-radiant_hawlucha.jpg
+,,,,,,
+ASR,82,Hisuian Decidueye,Pkmn › Stage 2,{F},Rare Holo,$0.17,en_US-SWSH10-082-hisuian_decidueye.jpg
+,,,,,,
+ASR,83,Hisuian Decidueye V,Pkmn › Basic,{F},Holo Rare V,$0.56,en_US-SWSH10-083-hisuian_decidueye_v.jpg
+,,,,,,
+ASR,84,Hisuian Decidueye VSTAR,Pkmn › VSTAR,{F},Holo Rare VSTAR,$0.93,en_US-SWSH10-084-hisuian_decidueye_vstar.jpg
+,,,,,,
+ASR,85,Kleavor,Pkmn › Stage 1,{F},Rare,$0.10,en_US-SWSH10-085-kleavor.jpg
+,,,,,,
+ASR,86,Kleavor,Pkmn › Stage 1,{F},Rare Holo,$0.21,en_US-SWSH10-086-kleavor.jpg
+,,,,,,
+ASR,87,Kleavor V,Pkmn › Basic,{F},Holo Rare V,$0.55,en_US-SWSH10-087-kleavor_v.jpg
+,,,,,,
+ASR,88,Hisuian Qwilfish,Pkmn › Basic,{D},Common,$0.04,en_US-SWSH10-088-hisuian_qwilfish.jpg
+,,,,,,
+ASR,89,Hisuian Qwilfish,Pkmn › Basic,{D},Common,$0.04,en_US-SWSH10-089-hisuian_qwilfish.jpg
+,,,,,,
+ASR,90,Hisuian Overqwil,Pkmn › Stage 1,{D},Uncommon,$0.04,en_US-SWSH10-090-hisuian_overqwil.jpg
+,,,,,,
+ASR,91,Hisuian Overqwil,Pkmn › Stage 1,{D},Rare,$0.06,en_US-SWSH10-091-hisuian_overqwil.jpg
+,,,,,,
+ASR,92,Hisuian Sneasel,Pkmn › Basic,{D},Common,$0.05,en_US-SWSH10-092-hisuian_sneasel.jpg
+,,,,,,
+ASR,93,Hisuian Sneasler,Pkmn › Stage 1,{D},Rare Holo,$0.21,en_US-SWSH10-093-hisuian_sneasler.jpg
+,,,,,,
+ASR,94,Hisuian Sneasler V,Pkmn › Basic,{D},Holo Rare V,$0.57,en_US-SWSH10-094-hisuian_sneasler_v.jpg
+,,,,,,
+ASR,95,Poochyena,Pkmn › Basic,{D},Common,$0.05,en_US-SWSH10-095-poochyena.jpg
+,,,,,,
+ASR,96,Mightyena,Pkmn › Stage 1,{D},Rare,$0.09,en_US-SWSH10-096-mightyena.jpg
+,,,,,,
+ASR,97,Absol,Pkmn › Basic,{D},Rare Holo,$0.20,en_US-SWSH10-097-absol.jpg
+,,,,,,
+ASR,98,Darkrai V,Pkmn › Basic,{D},Holo Rare V,$1.04,en_US-SWSH10-098-darkrai_v.jpg
+,,,,,,
+ASR,99,Darkrai VSTAR,Pkmn › VSTAR,{D},Holo Rare VSTAR,$1.47,en_US-SWSH10-099-darkrai_vstar.jpg
+,,,,,,
+ASR,100,Hisuian Samurott,Pkmn › Stage 2,{D},Rare Holo,$0.19,en_US-SWSH10-100-hisuian_samurott.jpg
+,,,,,,
+ASR,101,Hisuian Samurott V,Pkmn › Basic,{D},Holo Rare V,$0.65,en_US-SWSH10-101-hisuian_samurott_v.jpg
+,,,,,,
+ASR,102,Hisuian Samurott VSTAR,Pkmn › VSTAR,{D},Holo Rare VSTAR,$1.31,en_US-SWSH10-102-hisuian_samurott_vstar.jpg
+,,,,,,
+ASR,103,Nickit,Pkmn › Basic,{D},Common,$0.03,en_US-SWSH10-103-nickit.jpg
+,,,,,,
+ASR,104,Thievul,Pkmn › Stage 1,{D},Rare,$0.05,en_US-SWSH10-104-thievul.jpg
+,,,,,,
+ASR,105,Magnemite,Pkmn › Basic,{M},Common,$0.05,en_US-SWSH10-105-magnemite.jpg
+,,,,,,
+ASR,106,Magneton,Pkmn › Stage 1,{M},Uncommon,$0.04,en_US-SWSH10-106-magneton.jpg
+,,,,,,
+ASR,107,Magnezone,Pkmn › Stage 2,{M},Rare Holo,$0.41,en_US-SWSH10-107-magnezone.jpg
+,,,,,,
+ASR,108,Registeel,Pkmn › Basic,{M},Rare,$0.13,en_US-SWSH10-108-registeel.jpg
+,,,,,,
+ASR,109,Shieldon,Pkmn › Stage 1,{M},Uncommon,$0.06,en_US-SWSH10-109-shieldon.jpg
+,,,,,,
+ASR,110,Bastiodon,Pkmn › Stage 2,{M},Rare Holo,$0.18,en_US-SWSH10-110-bastiodon.jpg
+,,,,,,
+ASR,111,Bronzor,Pkmn › Basic,{M},Common,$0.03,en_US-SWSH10-111-bronzor.jpg
+,,,,,,
+ASR,112,Bronzong,Pkmn › Stage 1,{M},Uncommon,$0.04,en_US-SWSH10-112-bronzong.jpg
+,,,,,,
+ASR,113,Origin Forme Dialga V,Pkmn › Basic,{M},Holo Rare V,$2.02,en_US-SWSH10-113-origin_forme_dialga_v.jpg
+,,,,,,
+ASR,114,Origin Forme Dialga VSTAR,Pkmn › VSTAR,{M},Holo Rare VSTAR,$6.09,en_US-SWSH10-114-origin_forme_dialga_vstar.jpg
+,,,,,,
+ASR,115,Pawniard,Pkmn › Basic,{M},Common,$0.02,en_US-SWSH10-115-pawniard.jpg
+,,,,,,
+ASR,116,Bisharp,Pkmn › Stage 1,{M},Uncommon,$0.04,en_US-SWSH10-116-bisharp.jpg
+,,,,,,
+ASR,117,Garchomp V,Pkmn › Basic,{N},Holo Rare V,$0.59,en_US-SWSH10-117-garchomp_v.jpg
+,,,,,,
+ASR,118,Regidrago,Pkmn › Basic,{N},Rare,$0.12,en_US-SWSH10-118-regidrago.jpg
+,,,,,,
+ASR,119,Eevee,Pkmn › Basic,{C},Common,$0.07,en_US-SWSH10-119-eevee.jpg
+,,,,,,
+ASR,120,Hoothoot,Pkmn › Basic,{C},Common,$0.04,en_US-SWSH10-120-hoothoot.jpg
+,,,,,,
+ASR,121,Noctowl,Pkmn › Stage 1,{C},Uncommon,$0.04,en_US-SWSH10-121-noctowl.jpg
+,,,,,,
+ASR,122,Teddiursa,Pkmn › Basic,{C},Common,$0.06,en_US-SWSH10-122-teddiursa.jpg
+,,,,,,
+ASR,123,Ursaring,Pkmn › Stage 1,{C},Uncommon,$0.05,en_US-SWSH10-123-ursaring.jpg
+,,,,,,
+ASR,124,Ursaluna,Pkmn › Stage 2,{C},Rare,$0.14,en_US-SWSH10-124-ursaluna.jpg
+,,,,,,
+ASR,125,Stantler,Pkmn › Basic,{C},Common,$0.05,en_US-SWSH10-125-stantler.jpg
+,,,,,,
+ASR,126,Miltank,Pkmn › Basic,{C},Rare Holo,$0.21,en_US-SWSH10-126-miltank.jpg
+,,,,,,
+ASR,127,Glameow,Pkmn › Basic,{C},Common,$0.03,en_US-SWSH10-127-glameow.jpg
+,,,,,,
+ASR,128,Purugly,Pkmn › Stage 1,{C},Uncommon,$0.03,en_US-SWSH10-128-purugly.jpg
+,,,,,,
+ASR,129,Chatot,Pkmn › Basic,{C},Common,$0.02,en_US-SWSH10-129-chatot.jpg
+,,,,,,
+ASR,130,Regigigas,Pkmn › Basic,{C},Rare Holo,$0.26,en_US-SWSH10-130-regigigas.jpg
+,,,,,,
+ASR,131,Rufflet,Pkmn › Basic,{C},Common,$0.05,en_US-SWSH10-131-rufflet.jpg
+,,,,,,
+ASR,132,Hisuian Braviary,Pkmn › Stage 1,{C},Rare,$0.10,en_US-SWSH10-132-hisuian_braviary.jpg
+,,,,,,
+ASR,133,Oranguru V,Pkmn › Basic,{C},Holo Rare V,$0.49,en_US-SWSH10-133-oranguru_v.jpg
+,,,,,,
+ASR,134,Wyrdeer V,Pkmn › Basic,{C},Holo Rare V,$0.69,en_US-SWSH10-134-wyrdeer_v.jpg
+,,,,,,
+ASR,135,Adaman,Trainer › Supporter,,Rare Holo,$0.23,en_US-SWSH10-135-adaman.jpg
+,,,,,,
+ASR,136,Canceling Cologne,Trainer › Item,,Uncommon,$0.17,en_US-SWSH10-136-canceling_cologne.jpg
+,,,,,,
+ASR,137,Choy,Trainer › Supporter,,Uncommon,$0.03,en_US-SWSH10-137-choy.jpg
+,,,,,,
+ASR,138,Cyllene,Trainer › Supporter,,Uncommon,$0.09,en_US-SWSH10-138-cyllene.jpg
+,,,,,,
+ASR,139,Dark Patch,Trainer › Item,,Uncommon,$0.23,en_US-SWSH10-139-dark_patch.jpg
+,,,,,,
+ASR,140,Energy Loto,Trainer › Item,,Uncommon,$0.08,en_US-SWSH10-140-energy_loto.jpg
+,,,,,,
+ASR,141,Feather Ball,Trainer › Item,,Uncommon,$0.08,en_US-SWSH10-141-feather_ball.jpg
+,,,,,,
+ASR,142,Gapejaw Bog,Trainer › Stadium,,Uncommon,$0.07,en_US-SWSH10-142-gapejaw_bog.jpg
+,,,,,,
+ASR,143,Gardenia’s Vigor,Trainer › Supporter,,Uncommon,$0.09,en_US-SWSH10-143-gardenias_vigor.jpg
+,,,,,,
+ASR,144,Grant,Trainer › Supporter,,Uncommon,$0.07,en_US-SWSH10-144-grant.jpg
+,,,,,,
+ASR,145,Gutsy Pickaxe,Trainer › Item,,Uncommon,$0.08,en_US-SWSH10-145-gutsy_pickaxe.jpg
+,,,,,,
+ASR,146,Hisuian Heavy Ball,Trainer › Item,,Uncommon,$0.18,en_US-SWSH10-146-hisuian_heavy_ball.jpg
+,,,,,,
+ASR,147,Irida,Trainer › Supporter,,Rare Holo,$2.40,en_US-SWSH10-147-irida.jpg
+,,,,,,
+ASR,148,Jubilife Village,Trainer › Stadium,,Uncommon,$0.04,en_US-SWSH10-148-jubilife_village.jpg
+,,,,,,
+ASR,149,Kamado,Trainer › Supporter,,Uncommon,$0.05,en_US-SWSH10-149-kamado.jpg
+,,,,,,
+ASR,150,Roxanne,Trainer › Supporter,,Uncommon,$0.09,en_US-SWSH10-150-roxanne.jpg
+,,,,,,
+ASR,151,Spicy Seasoned Curry,Trainer › Item,,Uncommon,$0.06,en_US-SWSH10-151-spicy_seasoned_curry.jpg
+,,,,,,
+ASR,152,Supereffective Glasses,Trainer › Tool,,Uncommon,$0.08,en_US-SWSH10-152-supereffective_glasses.jpg
+,,,,,,
+ASR,153,Sweet Honey,Trainer › Item,,Uncommon,$0.05,en_US-SWSH10-153-sweet_honey.jpg
+,,,,,,
+ASR,154,Switch Cart,Trainer › Item,,Uncommon,$2.56,en_US-SWSH10-154-switch_cart.jpg
+,,,,,,
+ASR,155,Temple of Sinnoh,Trainer › Stadium,,Uncommon,$0.18,en_US-SWSH10-155-temple_of_sinnoh.jpg
+,,,,,,
+ASR,156,Trekking Shoes,Trainer › Item,,Uncommon,$0.09,en_US-SWSH10-156-trekking_shoes.jpg
+,,,,,,
+ASR,157,Unidentified Fossil,Trainer › Item,,Uncommon,$0.03,en_US-SWSH10-157-unidentified_fossil.jpg
+,,,,,,
+ASR,158,Wait and See Turbo,Trainer › Item,,Uncommon,$0.06,en_US-SWSH10-158-wait_and_see_turbo.jpg
+,,,,,,
+ASR,159,Zisu,Trainer › Supporter,,Uncommon,$0.19,en_US-SWSH10-159-zisu.jpg
+,,,,,,
+ASR,160,Beedrill V,Pkmn › Basic,{G},Ultra Rare,$2.16,en_US-SWSH10-160-beedrill_v.jpg
+,,,,,,
+ASR,161,Beedrill V,Pkmn › Basic,{G},Ultra Rare,$23.64,en_US-SWSH10-161-beedrill_v.jpg
+,,,,,,
+ASR,162,Hisuian Lilligant V,Pkmn › Basic,{G},Ultra Rare,$1.84,en_US-SWSH10-162-hisuian_lilligant_v.jpg
+,,,,,,
+ASR,163,Hisuian Lilligant V,Pkmn › Basic,{G},Ultra Rare,$10.19,en_US-SWSH10-163-hisuian_lilligant_v.jpg
+,,,,,,
+ASR,164,Virizion V,Pkmn › Basic,{G},Ultra Rare,$1.62,en_US-SWSH10-164-virizion_v.jpg
+,,,,,,
+ASR,165,Heatran V,Pkmn › Basic,{R},Ultra Rare,$1.60,en_US-SWSH10-165-heatran_v.jpg
+,,,,,,
+ASR,166,Starmie V,Pkmn › Basic,{W},Ultra Rare,$1.65,en_US-SWSH10-166-starmie_v.jpg
+,,,,,,
+ASR,167,Origin Forme Palkia V,Pkmn › Basic,{W},Ultra Rare,$34.40,en_US-SWSH10-167-origin_forme_palkia_v.jpg
+,,,,,,
+ASR,168,Luxray V,Pkmn › Basic,{L},Ultra Rare,$3.02,en_US-SWSH10-168-luxray_v.jpg
+,,,,,,
+ASR,169,Hisuian Typhlosion V,Pkmn › Basic,{P},Ultra Rare,$2.35,en_US-SWSH10-169-hisuian_typhlosion_v.jpg
+,,,,,,
+ASR,170,Jirachi V,Pkmn › Basic,{P},Ultra Rare,$4.20,en_US-SWSH10-170-jirachi_v.jpg
+,,,,,,
+ASR,171,Machamp V,Pkmn › Basic,{F},Ultra Rare,$6.63,en_US-SWSH10-171-machamp_v.jpg
+,,,,,,
+ASR,172,Machamp V,Pkmn › Basic,{F},Ultra Rare,$87.38,en_US-SWSH10-172-machamp_v.jpg
+,,,,,,
+ASR,173,Hisuian Decidueye V,Pkmn › Basic,{F},Ultra Rare,$1.37,en_US-SWSH10-173-hisuian_decidueye_v.jpg
+,,,,,,
+ASR,174,Hisuian Sneasler V,Pkmn › Basic,{D},Ultra Rare,$3.27,en_US-SWSH10-174-hisuian_sneasler_v.jpg
+,,,,,,
+ASR,175,Hisuian Sneasler V,Pkmn › Basic,{D},Ultra Rare,$20.05,en_US-SWSH10-175-hisuian_sneasler_v.jpg
+,,,,,,
+ASR,176,Hisuian Samurott V,Pkmn › Basic,{D},Ultra Rare,$1.79,en_US-SWSH10-176-hisuian_samurott_v.jpg
+,,,,,,
+ASR,177,Origin Forme Dialga V,Pkmn › Basic,{M},Ultra Rare,$28.29,en_US-SWSH10-177-origin_forme_dialga_v.jpg
+,,,,,,
+ASR,178,Garchomp V,Pkmn › Basic,{N},Ultra Rare,$3.39,en_US-SWSH10-178-garchomp_v.jpg
+,,,,,,
+ASR,179,Oranguru V,Pkmn › Basic,{C},Ultra Rare,$1.14,en_US-SWSH10-179-oranguru_v.jpg
+,,,,,,
+ASR,180,Wyrdeer V,Pkmn › Basic,{C},Ultra Rare,$2.15,en_US-SWSH10-180-wyrdeer_v.jpg
+,,,,,,
+ASR,181,Adaman,Trainer › Supporter,,Ultra Rare,$3.28,en_US-SWSH10-181-adaman.jpg
+,,,,,,
+ASR,182,Choy,Trainer › Supporter,,Ultra Rare,$1.12,en_US-SWSH10-182-choy.jpg
+,,,,,,
+ASR,183,Cyllene,Trainer › Supporter,,Ultra Rare,$4.38,en_US-SWSH10-183-cyllene.jpg
+,,,,,,
+ASR,184,Gardenia’s Vigor,Trainer › Supporter,,Ultra Rare,$8.19,en_US-SWSH10-184-gardenias_vigor.jpg
+,,,,,,
+ASR,185,Grant,Trainer › Supporter,,Ultra Rare,$1.42,en_US-SWSH10-185-grant.jpg
+,,,,,,
+ASR,186,Irida,Trainer › Supporter,,Ultra Rare,$21.05,en_US-SWSH10-186-irida.jpg
+,,,,,,
+ASR,187,Kamado,Trainer › Supporter,,Ultra Rare,$1.14,en_US-SWSH10-187-kamado.jpg
+,,,,,,
+ASR,188,Roxanne,Trainer › Supporter,,Ultra Rare,$8.92,en_US-SWSH10-188-roxanne.jpg
+,,,,,,
+ASR,189,Zisu,Trainer › Supporter,,Ultra Rare,$1.23,en_US-SWSH10-189-zisu.jpg
+,,,,,,
+ASR,190,Hisuian Lilligant VSTAR,Pkmn › VSTAR,{G},Rainbow Rare,$7.25,en_US-SWSH10-190-hisuian_lilligant_vstar.jpg
+,,,,,,
+ASR,191,Heatran VMAX,Pkmn › VMAX,{R},Rainbow Rare,$7.17,en_US-SWSH10-191-heatran_vmax.jpg
+,,,,,,
+ASR,192,Origin Forme Palkia VSTAR,Pkmn › VSTAR,{W},Rainbow Rare,$10.16,en_US-SWSH10-192-origin_forme_palkia_vstar.jpg
+,,,,,,
+ASR,193,Hisuian Typhlosion VSTAR,Pkmn › VSTAR,{P},Rainbow Rare,$8.50,en_US-SWSH10-193-hisuian_typhlosion_vstar.jpg
+,,,,,,
+ASR,194,Machamp VMAX,Pkmn › VMAX,{F},Rainbow Rare,$8.28,en_US-SWSH10-194-machamp_vmax.jpg
+,,,,,,
+ASR,195,Hisuian Decidueye VSTAR,Pkmn › VSTAR,{F},Rainbow Rare,$6.52,en_US-SWSH10-195-hisuian_decidueye_vstar.jpg
+,,,,,,
+ASR,196,Kleavor VSTAR,Pkmn › VSTAR,{F},Rainbow Rare,$6.86,en_US-SWSH10-196-kleavor_vstar.jpg
+,,,,,,
+ASR,197,Hisuian Samurott VSTAR,Pkmn › VSTAR,{D},Rainbow Rare,$6.65,en_US-SWSH10-197-hisuian_samurott_vstar.jpg
+,,,,,,
+ASR,198,Origin Forme Dialga VSTAR,Pkmn › VSTAR,{M},Rainbow Rare,$9.68,en_US-SWSH10-198-origin_forme_dialga_vstar.jpg
+,,,,,,
+ASR,199,Adaman,Trainer › Supporter,,Rainbow Rare,$3.63,en_US-SWSH10-199-adaman.jpg
+,,,,,,
+ASR,200,Choy,Trainer › Supporter,,Rainbow Rare,$3.15,en_US-SWSH10-200-choy.jpg
+,,,,,,
+ASR,201,Cyllene,Trainer › Supporter,,Rainbow Rare,$4.07,en_US-SWSH10-201-cyllene.jpg
+,,,,,,
+ASR,202,Gardenia’s Vigor,Trainer › Supporter,,Rainbow Rare,$5.08,en_US-SWSH10-202-gardenias_vigor.jpg
+,,,,,,
+ASR,203,Grant,Trainer › Supporter,,Rainbow Rare,$2.70,en_US-SWSH10-203-grant.jpg
+,,,,,,
+ASR,204,Irida,Trainer › Supporter,,Rainbow Rare,$13.78,en_US-SWSH10-204-irida.jpg
+,,,,,,
+ASR,205,Kamado,Trainer › Supporter,,Rainbow Rare,$3.82,en_US-SWSH10-205-kamado.jpg
+,,,,,,
+ASR,206,Roxanne,Trainer › Supporter,,Rainbow Rare,$6.58,en_US-SWSH10-206-roxanne.jpg
+,,,,,,
+ASR,207,Zisu,Trainer › Supporter,,Rainbow Rare,$4.41,en_US-SWSH10-207-zisu.jpg
+,,,,,,
+ASR,208,Origin Forme Palkia VSTAR,Pkmn › VSTAR,{W},Rare Secret,$9.03,en_US-SWSH10-208-origin_forme_palkia_vstar.jpg
+,,,,,,
+ASR,209,Hisuian Samurott VSTAR,Pkmn › VSTAR,{D},Rare Secret,$5.45,en_US-SWSH10-209-hisuian_samurott_vstar.jpg
+,,,,,,
+ASR,210,Origin Forme Dialga VSTAR,Pkmn › VSTAR,{M},Rare Secret,$8.65,en_US-SWSH10-210-origin_forme_dialga_vstar.jpg
+,,,,,,
+ASR,211,Choice Belt,Trainer › Tool,,Rare Secret,$4.38,en_US-SWSH10-211-choice_belt.jpg
+,,,,,,
+ASR,212,Jubilife Village,Trainer › Stadium,,Rare Secret,$3.38,en_US-SWSH10-212-jubilife_village.jpg
+,,,,,,
+ASR,213,Path to the Peak,Trainer › Stadium,,Rare Secret,$8.71,en_US-SWSH10-213-path_to_the_peak.jpg
+,,,,,,
+ASR,214,Temple of Sinnoh,Trainer › Stadium,,Rare Secret,$10.11,en_US-SWSH10-214-temple_of_sinnoh.jpg
+,,,,,,
+ASR,215,Trekking Shoes,Trainer › Item,,Rare Secret,$13.62,en_US-SWSH10-215-trekking_shoes.jpg
+,,,,,,
+ASR,216,Double Turbo Energy,Energy › Special,,Rare Secret,$20.77,en_US-SWSH10-216-double_turbo_energy.jpg
+,,,,,,
+ASR,TG01,Abomasnow,Pkmn › Stage 1,{G},Trainer Gallery Holo Rare,$0.60,en_US-SWSH10-TG001-abomasnow.jpg
+,,,,,,
+ASR,TG02,Flapple,Pkmn › Stage 1,{G},Trainer Gallery Holo Rare,$0.66,en_US-SWSH10-TG002-flapple.jpg
+,,,,,,
+ASR,TG03,Kingdra,Pkmn › Stage 2,{W},Trainer Gallery Holo Rare,$1.39,en_US-SWSH10-TG003-kingdra.jpg
+,,,,,,
+ASR,TG04,Frosmoth,Pkmn › Stage 1,{W},Trainer Gallery Holo Rare,$0.70,en_US-SWSH10-TG004-frosmoth.jpg
+,,,,,,
+ASR,TG05,Gardevoir,Pkmn › Stage 2,{P},Trainer Gallery Holo Rare,$1.76,en_US-SWSH10-TG005-gardevoir.jpg
+,,,,,,
+ASR,TG06,Wyrdeer,Pkmn › Stage 1,{P},Trainer Gallery Holo Rare,$0.69,en_US-SWSH10-TG006-wyrdeer.jpg
+,,,,,,
+ASR,TG07,Falinks,Pkmn › Basic,{F},Trainer Gallery Holo Rare,$0.69,en_US-SWSH10-TG007-falinks.jpg
+,,,,,,
+ASR,TG08,Kleavor,Pkmn › Stage 1,{F},Trainer Gallery Holo Rare,$0.71,en_US-SWSH10-TG008-kleavor.jpg
+,,,,,,
+ASR,TG09,Mightyena,Pkmn › Stage 1,{D},Trainer Gallery Holo Rare,$0.70,en_US-SWSH10-TG009-mightyena.jpg
+,,,,,,
+ASR,TG10,Galarian Obstagoon,Pkmn › Stage 2,{D},Trainer Gallery Holo Rare,$0.53,en_US-SWSH10-TG010-galarian_obstagoon.jpg
+,,,,,,
+ASR,TG11,Bronzong,Pkmn › Stage 1,{M},Trainer Gallery Holo Rare,$0.72,en_US-SWSH10-TG011-bronzong.jpg
+,,,,,,
+ASR,TG12,Hoothoot,Pkmn › Basic,{C},Trainer Gallery Holo Rare,$0.72,en_US-SWSH10-TG012-hoothoot.jpg
+,,,,,,
+ASR,TG13,Starmie V,Pkmn › Basic,{W},Trainer Gallery Holo Rare V,$39.75,en_US-SWSH10-TG013-starmie_v.jpg
+,,,,,,
+ASR,TG14,Ice Rider Calyrex V,Pkmn › Basic,{W},Trainer Gallery Holo Rare V,$3.31,en_US-SWSH10-TG014-ice_rider_calyrex_v.jpg
+,,,,,,
+ASR,TG15,Ice Rider Calyrex VMAX,Pkmn › VMAX,{W},Trainer Gallery Holo Rare V,$3.63,en_US-SWSH10-TG015-ice_rider_calyrex_vmax.jpg
+,,,,,,
+ASR,TG16,Galarian Articuno V,Pkmn › Basic,{P},Trainer Gallery Holo Rare V,$4.30,en_US-SWSH10-TG016-galarian_articuno_v.jpg
+,,,,,,
+ASR,TG17,Shadow Rider Calyrex V,Pkmn › Basic,{P},Trainer Gallery Holo Rare V,$3.67,en_US-SWSH10-TG017-shadow_rider_calyrex_v.jpg
+,,,,,,
+ASR,TG18,Shadow Rider Calyrex VMAX,Pkmn › VMAX,{P},Trainer Gallery Holo Rare V,$4.09,en_US-SWSH10-TG018-shadow_rider_calyrex_vmax.jpg
+,,,,,,
+ASR,TG19,Galarian Zapdos V,Pkmn › Basic,{F},Trainer Gallery Holo Rare V,$3.73,en_US-SWSH10-TG019-galarian_zapdos_v.jpg
+,,,,,,
+ASR,TG20,Galarian Moltres V,Pkmn › Basic,{D},Trainer Gallery Holo Rare V,$8.18,en_US-SWSH10-TG020-galarian_moltres_v.jpg
+,,,,,,
+ASR,TG21,Zacian V,Pkmn › Basic,{M},Trainer Gallery Holo Rare V,$5.55,en_US-SWSH10-TG021-zacian_v.jpg
+,,,,,,
+ASR,TG22,Zamazenta V,Pkmn › Basic,{M},Trainer Gallery Holo Rare V,$3.00,en_US-SWSH10-TG022-zamazenta_v.jpg
+,,,,,,
+ASR,TG23,Garchomp V,Pkmn › Basic,{N},Trainer Gallery Holo Rare V,$19.78,en_US-SWSH10-TG023-garchomp_v.jpg
+,,,,,,
+ASR,TG24,Allister,Trainer › Supporter,,Trainer Gallery Ultra Rare,$2.39,en_US-SWSH10-TG024-allister.jpg
+,,,,,,
+ASR,TG25,Bea,Trainer › Supporter,,Trainer Gallery Ultra Rare,$4.26,en_US-SWSH10-TG025-bea.jpg
+,,,,,,
+ASR,TG26,Melony,Trainer › Supporter,,Trainer Gallery Ultra Rare,$2.47,en_US-SWSH10-TG026-melony.jpg
+,,,,,,
+ASR,TG27,Milo,Trainer › Supporter,,Trainer Gallery Ultra Rare,$1.21,en_US-SWSH10-TG027-milo.jpg
+,,,,,,
+ASR,TG28,Piers,Trainer › Supporter,,Trainer Gallery Ultra Rare,$1.78,en_US-SWSH10-TG028-piers.jpg
+,,,,,,
+ASR,TG29,Ice Rider Calyrex VMAX,Pkmn › VMAX,{W},Trainer Gallery Secret Rare,$1.90,en_US-SWSH10-TG029-ice_rider_calyrex_vmax.jpg
+,,,,,,
+ASR,TG30,Shadow Rider Calyrex VMAX,Pkmn › VMAX,{P},Trainer Gallery Secret Rare,$2.0,en_US-SWSH10-TG030-shadow_rider_calyrex_vmax.jpg

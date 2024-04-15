@@ -1,0 +1,392 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+
+HF,001,Yanma,Pkmn › Basic,{G},Common,$0.02,en_US-SWSH12-051-chinchou.jpg
+
+SHF,002,Yanmega,Pkmn › Stage 1,{G},Rare,$0.07,en_US-SWSH12-052-lanturn.jpg
+
+SHF,003,Celebi,Pkmn › Basic,{G},Rare,$0.12,en_US-SWSH12-053-rotom.jpg
+
+SHF,004,Cacnea,Pkmn › Basic,{G},Common,$0.09,en_US-SWSH12-054-emolga.jpg
+
+SHF,005,Tropius,Pkmn › Basic,{G},Uncommon,$0.03,en_US-SWSH12-055-stunfisk.jpg
+
+SHF,006,Rowlet,Pkmn › Basic,{G},Common,$0.10,en_US-SWSH12-056-zeraora.jpg
+
+SHF,007,Dartrix,Pkmn › Stage 1,{G},Uncommon,$0.03,en_US-SWSH12-057-regieleki_v.jpg
+
+SHF,008,Decidueye,Pkmn › Stage 2,{G},Rare Holo,$0.14,en_US-SWSH12-058-regieleki_vmax.jpg
+
+SHF,009,Dhelmise V,Pkmn › Basic,{G},Holo Rare V,$0.50,en_US-SWSH12-059-radiant_alakazam.jpg
+
+SHF,010,Dhelmise VMAX,Pkmn › VMAX,{G},Holo Rare VMAX,$1.22,en_US-SWSH12-060-drowzee.jpg
+
+SHF,011,Grookey,Pkmn › Basic,{G},Common,$0.04,en_US-SWSH12-061-hypno.jpg
+
+SHF,012,Thwackey,Pkmn › Stage 1,{G},Uncommon,$0.04,en_US-SWSH12-062-jynx.jpg
+
+SHF,013,Rillaboom,Pkmn › Stage 2,{G},Rare Holo,$0.14,en_US-SWSH12-063-misdreavus.jpg
+
+SHF,014,Gossifleur,Pkmn › Basic,{G},Common,$0.03,en_US-SWSH12-064-mismagius.jpg
+
+SHF,015,Eldegoss,Pkmn › Stage 1,{G},Uncommon,$0.03,en_US-SWSH12-065-unown_v.jpg
+
+SHF,016,Zarude,Pkmn › Basic,{G},Rare,$0.05,en_US-SWSH12-066-unown_vstar.jpg
+
+SHF,017,Reshiram,Pkmn › Basic,{R},Amazing Rare,$0.46,en_US-SWSH12-067-ralts.jpg
+
+SHF,018,Cinderace V,Pkmn › Basic,{R},Holo Rare V,$0.60,en_US-SWSH12-068-kirlia.jpg
+
+SHF,019,Cinderace VMAX,Pkmn › VMAX,{R},Holo Rare VMAX,$1.26,en_US-SWSH12-069-gardevoir.jpg
+
+SHF,020,Horsea,Pkmn › Basic,{W},Common,$0.03,en_US-SWSH12-070-mawile_v.jpg
+
+SHF,021,Kyogre,Pkmn › Basic,{W},Amazing Rare,$0.59,en_US-SWSH12-071-mawile_vstar.jpg
+
+SHF,022,Buizel,Pkmn › Basic,{W},Common,$0.03,en_US-SWSH12-072-meditite.jpg
+
+SHF,023,Floatzel,Pkmn › Stage 1,{W},Uncommon,$0.02,en_US-SWSH12-073-medicham.jpg
+
+SHF,024,Manaphy,Pkmn › Basic,{W},Rare,$0.09,en_US-SWSH12-074-chimecho.jpg
+
+SHF,025,Volcanion,Pkmn › Basic,{W},Rare,$0.06,en_US-SWSH12-075-sigilyph.jpg
+
+SHF,026,Chewtle,Pkmn › Basic,{W},Common,$0.04,en_US-SWSH12-076-solosis.jpg
+
+SHF,027,Drednaw,Pkmn › Stage 1,{W},Rare,$0.07,en_US-SWSH12-077-duosion.jpg
+
+SHF,028,Cramorant,Pkmn › Basic,{W},Uncommon,$0.03,en_US-SWSH12-078-reuniclus.jpg
+
+SHF,029,Snom,Pkmn › Basic,{W},Common,$0.07,en_US-SWSH12-079-elgyem.jpg
+
+SHF,030,Frosmoth,Pkmn › Stage 1,{W},Rare Holo,$0.15,en_US-SWSH12-080-beheeyem.jpg
+
+SHF,031,Shinx,Pkmn › Basic,{L},Common,$0.03,en_US-SWSH12-081-espurr.jpg
+
+SHF,032,Luxio,Pkmn › Stage 1,{L},Uncommon,$0.09,en_US-SWSH12-082-meowstic.jpg
+
+SHF,033,Luxray,Pkmn › Stage 2,{L},Rare Holo,$0.11,en_US-SWSH12-083-swirlix.jpg
+
+SHF,034,Rotom,Pkmn › Basic,{L},Uncommon,$0.04,en_US-SWSH12-084-slurpuff.jpg
+
+SHF,035,Morpeko,Pkmn › Basic,{L},Common,$0.07,en_US-SWSH12-085-dedenne.jpg
+
+SHF,036,Morpeko,Pkmn › Basic,{L},Common,$0.05,en_US-SWSH12-086-indeedee.jpg
+
+SHF,037,Morpeko V,Pkmn › Basic,{L},Holo Rare V,$0.48,en_US-SWSH12-087-dreepy.jpg
+
+SHF,038,Morpeko VMAX,Pkmn › VMAX,{L},Holo Rare VMAX,$0.99,en_US-SWSH12-088-drakloak.jpg
+
+SHF,039,Indeedee V,Pkmn › Basic,{P},Holo Rare V,$0.46,en_US-SWSH12-089-dragapult.jpg
+
+SHF,040,Trapinch,Pkmn › Basic,{F},Common,$0.09,en_US-SWSH12-090-hisuian_arcanine_v.jpg
+
+SHF,041,Koffing,Pkmn › Basic,{D},Common,$0.11,en_US-SWSH12-091-phanpy.jpg
+
+SHF,042,Galarian Weezing,Pkmn › Stage 1,{D},Rare Holo,$0.21,en_US-SWSH12-092-donphan.jpg
+
+SHF,043,Spinarak,Pkmn › Basic,{D},Common,$0.03,en_US-SWSH12-093-baltoy.jpg
+
+SHF,044,Crobat V,Pkmn › Basic,{D},Holo Rare V,$0.60,en_US-SWSH12-094-claydol.jpg
+
+SHF,045,Crobat VMAX,Pkmn › VMAX,{D},Holo Rare VMAX,$0.99,en_US-SWSH12-095-anorith.jpg
+
+SHF,046,Yveltal,Pkmn › Basic,{D},Amazing Rare,$0.44,en_US-SWSH12-096-armaldo.jpg
+
+SHF,047,Nickit,Pkmn › Basic,{D},Common,$0.03,en_US-SWSH12-097-terrakion.jpg
+
+SHF,048,Thievul,Pkmn › Stage 1,{D},Rare Holo,$0.18,en_US-SWSH12-098-hawlucha.jpg
+
+SHF,049,Cufant,Pkmn › Basic,{M},Common,$0.04,en_US-SWSH12-099-sandygast.jpg
+
+SHF,050,Ditto V,Pkmn › Basic,{C},Holo Rare V,$0.81,en_US-SWSH12-100-palossand.jpg
+
+SHF,051,Ditto VMAX,Pkmn › VMAX,{C},Holo Rare VMAX,$1.41,en_US-SWSH12-101-stonjourner.jpg
+
+SHF,052,Eevee,Pkmn › Basic,{C},Common,$0.06,en_US-SWSH12-102-ursaluna_v.jpg
+
+SHF,053,Greedent V,Pkmn › Basic,{C},Holo Rare V,$0.53,en_US-SWSH12-103-zubat.jpg
+
+SHF,054,Cramorant V,Pkmn › Basic,{C},Holo Rare V,$0.59,en_US-SWSH12-104-golbat.jpg
+
+SHF,055,Cramorant VMAX,Pkmn › VMAX,{C},Holo Rare VMAX,$0.98,en_US-SWSH12-105-crobat.jpg
+
+SHF,056,Indeedee,Pkmn › Basic,{C},Rare Holo,$0.10,en_US-SWSH12-106-murkrow.jpg
+
+SHF,057,Ball Guy,Trainer › Supporter,,Uncommon,$0.08,en_US-SWSH12-107-honchkrow.jpg
+
+SHF,058,Boss’s Orders,Trainer › Supporter,,Rare,$0.28,en_US-SWSH12-108-skuntank_v.jpg
+
+SHF,059,Gym Trainer,Trainer › Supporter,,Uncommon,$0.04,en_US-SWSH12-109-croagunk.jpg
+
+SHF,060,Professor’s Research,Trainer › Supporter,,Rare,$0.09,en_US-SWSH12-110-toxicroak.jpg
+
+SHF,061,Rusted Shield,Trainer › Tool,,Uncommon,$0.11,en_US-SWSH12-111-sandile.jpg
+
+SHF,062,Rusted Sword,Trainer › Tool,,Uncommon,$0.03,en_US-SWSH12-112-krokorok.jpg
+
+SHF,063,Team Yell Towel,Trainer › Item,,Uncommon,$0.03,en_US-SWSH12-113-krookodile.jpg
+
+SHF,064,Alcremie V,Pkmn › Basic,{P},Ultra Rare,$1.45,en_US-SWSH12-114-mareanie.jpg
+
+SHF,065,Ball Guy,Trainer › Supporter,,Ultra Rare,$2.27,en_US-SWSH12-115-toxapex.jpg
+
+SHF,066,Bird Keeper,Trainer › Supporter,,Ultra Rare,$1.32,en_US-SWSH12-116-morpeko.jpg
+
+SHF,067,Cara Liss,Trainer › Supporter,,Ultra Rare,$1.00,en_US-SWSH12-117-beldum.jpg
+
+SHF,068,Gym Trainer,Trainer › Supporter,,Ultra Rare,$0.91,en_US-SWSH12-118-metang.jpg
+
+SHF,069,Piers,Trainer › Supporter,,Ultra Rare,$1.34,en_US-SWSH12-119-metagross.jpg
+
+SHF,070,Poké Kid,Trainer › Supporter,,Ultra Rare,$2.82,en_US-SWSH12-120-radiant_jirachi.jpg
+
+SHF,071,Rose,Trainer › Supporter,,Ultra Rare,$0.98,en_US-SWSH12-121-ferroseed.jpg
+
+SHF,072,Skyla,Trainer › Supporter,,Ultra Rare,$8.09,en_US-SWSH12-122-ferrothorn.jpg
+
+SHF,073,Alcremie VMAX,Pkmn › VMAX,{P},Rainbow Rare,$3.50,en_US-SWSH12-123-klink.jpg
+
+SHF,SV001,Rowlet,Pkmn › Basic,{G},Shiny Rare,$1.49,en_US-SWSH12-124-klang.jpg
+
+SHF,SV002,Dartrix,Pkmn › Stage 1,{G},Shiny Rare,$2.41,en_US-SWSH12-125-klinklang.jpg
+
+SHF,SV003,Decidueye,Pkmn › Stage 2,{G},Shiny Rare,$4.21,en_US-SWSH12-126-cobalion.jpg
+
+SHF,SV004,Grookey,Pkmn › Basic,{G},Shiny Rare,$1.02,en_US-SWSH12-127-togedemaru.jpg
+
+SHF,SV005,Thwackey,Pkmn › Stage 1,{G},Shiny Rare,$2.91,en_US-SWSH12-128-magearna_v.jpg
+
+SHF,SV006,Rillaboom,Pkmn › Stage 2,{G},Shiny Rare,$2.80,en_US-SWSH12-129-dratini.jpg
+
+SHF,SV007,Blipbug,Pkmn › Basic,{G},Shiny Rare,$1.70,en_US-SWSH12-130-dragonair.jpg
+
+SHF,SV008,Dottler,Pkmn › Stage 1,{G},Shiny Rare,$1.33,en_US-SWSH12-131-dragonite.jpg
+
+SHF,SV009,Orbeetle,Pkmn › Stage 2,{G},Shiny Rare,$1.92,en_US-SWSH12-132-noibat.jpg
+
+SHF,SV010,Gossifleur,Pkmn › Basic,{G},Shiny Rare,$2.11,en_US-SWSH12-133-noivern.jpg
+
+SHF,SV011,Eldegoss,Pkmn › Stage 1,{G},Shiny Rare,$1.42,en_US-SWSH12-134-zygarde.jpg
+
+SHF,SV012,Applin,Pkmn › Basic,{G},Shiny Rare,$3.27,en_US-SWSH12-135-regidrago_v.jpg
+
+SHF,SV013,Flapple,Pkmn › Stage 1,{G},Shiny Rare,$2.29,en_US-SWSH12-136-regidrago_vstar.jpg
+
+SHF,SV014,Appletun,Pkmn › Stage 1,{G},Shiny Rare,$2.42,en_US-SWSH12-137-smeargle.jpg
+
+SHF,SV015,Scorbunny,Pkmn › Basic,{R},Shiny Rare,$1.44,en_US-SWSH12-138-lugia_v.jpg
+
+SHF,SV016,Raboot,Pkmn › Stage 1,{R},Shiny Rare,$4.21,en_US-SWSH12-139-lugia_vstar.jpg
+
+SHF,SV017,Cinderace,Pkmn › Stage 2,{R},Shiny Rare,$4.47,en_US-SWSH12-140-ho_oh_v.jpg
+
+SHF,SV018,Sizzlipede,Pkmn › Basic,{R},Shiny Rare,$2.00,en_US-SWSH12-141-spinda.jpg
+
+SHF,SV019,Centiskorch,Pkmn › Stage 1,{R},Shiny Rare,$2.21,en_US-SWSH12-142-swablu.jpg
+
+SHF,SV020,Galarian Mr. Mime,Pkmn › Basic,{W},Shiny Rare,$1.26,en_US-SWSH12-143-altaria.jpg
+
+SHF,SV021,Galarian Mr. Rime,Pkmn › Stage 1,{W},Shiny Rare,$0.70,en_US-SWSH12-144-buneary.jpg
+
+SHF,SV022,Suicune,Pkmn › Basic,{W},Shiny Rare,$10.55,en_US-SWSH12-145-lopunny.jpg
+
+SHF,SV023,Galarian Darumaka,Pkmn › Basic,{W},Shiny Rare,$1.77,en_US-SWSH12-146-archen.jpg
+
+SHF,SV024,Galarian Darmanitan,Pkmn › Stage 1,{W},Shiny Rare,$1.59,en_US-SWSH12-147-archeops.jpg
+
+SHF,SV025,Sobble,Pkmn › Basic,{W},Shiny Rare,$0.90,en_US-SWSH12-148-rufflet.jpg
+
+SHF,SV026,Drizzile,Pkmn › Stage 1,{W},Shiny Rare,$4.18,en_US-SWSH12-149-hisuian_braviary.jpg
+
+SHF,SV027,Inteleon,Pkmn › Stage 2,{W},Shiny Rare,$4.21,en_US-SWSH12-150-fletchling.jpg
+
+SHF,SV028,Chewtle,Pkmn › Basic,{W},Shiny Rare,$1.56,en_US-SWSH12-151-brandon.jpg
+
+SHF,SV029,Drednaw,Pkmn › Stage 1,{W},Shiny Rare,$1.79,en_US-SWSH12-152-candice.jpg
+
+SHF,SV030,Cramorant,Pkmn › Basic,{W},Shiny Rare,$0.75,en_US-SWSH12-153-capturing_aroma.jpg
+
+SHF,SV031,Arrokuda,Pkmn › Basic,{W},Shiny Rare,$2.54,en_US-SWSH12-154-earthen_seal_stone.jpg
+
+SHF,SV032,Barraskewda,Pkmn › Stage 1,{W},Shiny Rare,$1.45,en_US-SWSH12-155-emergency_jelly.jpg
+
+SHF,SV033,Snom,Pkmn › Basic,{W},Shiny Rare,$1.12,en_US-SWSH12-156-forest_seal_stone.jpg
+
+SHF,SV034,Frosmoth,Pkmn › Stage 1,{W},Shiny Rare,$2.67,en_US-SWSH12-157-furisode_girl.jpg
+
+SHF,SV035,Eiscue,Pkmn › Basic,{W},Shiny Rare,$3.43,en_US-SWSH12-158-gym_trainer.jpg
+
+SHF,SV036,Dracovish,Pkmn › Stage 1,{W},Shiny Rare,$2.64,en_US-SWSH12-159-lance.jpg
+
+SHF,SV037,Arctovish,Pkmn › Stage 1,{W},Shiny Rare,$1.68,en_US-SWSH12-160-leafy_camo_poncho.jpg
+
+SHF,SV038,Rotom,Pkmn › Basic,{L},Shiny Rare,$2.92,en_US-SWSH12-161-primordial_altar.jpg
+
+SHF,SV039,Yamper,Pkmn › Basic,{L},Shiny Rare,$5.08,en_US-SWSH12-162-professor_laventon.jpg
+
+SHF,SV040,Boltund,Pkmn › Stage 1,{L},Shiny Rare,$2.31,en_US-SWSH12-163-quad_stone.jpg
+
+SHF,SV041,Toxel,Pkmn › Basic,{L},Shiny Rare,$2.34,en_US-SWSH12-164-serena.jpg
+
+SHF,SV042,Toxtricity,Pkmn › Stage 1,{L},Shiny Rare,$0.70,en_US-SWSH12-165-unidentified_fossil.jpg
+
+SHF,SV043,Pincurchin,Pkmn › Basic,{L},Shiny Rare,$1.43,en_US-SWSH12-166-wallace.jpg
+
+SHF,SV044,Morpeko,Pkmn › Basic,{L},Shiny Rare,$4.28,en_US-SWSH12-167-worker.jpg
+
+SHF,SV045,Dracozolt,Pkmn › Stage 1,{L},Shiny Rare,$2.78,en_US-SWSH12-168-regenerative_energy.jpg
+
+SHF,SV046,Arctozolt,Pkmn › Stage 1,{L},Shiny Rare,$2.12,en_US-SWSH12-169-v_guard_energy.jpg
+
+SHF,SV047,Galarian Ponyta,Pkmn › Basic,{P},Shiny Rare,$8.61,en_US-SWSH12-170-serperior_v.jpg
+
+SHF,SV048,Galarian Rapidash,Pkmn › Stage 1,{P},Shiny Rare,$6.09,en_US-SWSH12-171-chesnaught_v.jpg
+
+SHF,SV049,Galarian Corsola,Pkmn › Basic,{P},Shiny Rare,$1.83,en_US-SWSH12-172-reshiram_v.jpg
+
+SHF,SV050,Galarian Cursola,Pkmn › Stage 1,{P},Shiny Rare,$1.81,en_US-SWSH12-173-alolan_vulpix_v.jpg
+
+SHF,SV051,Dedenne,Pkmn › Basic,{P},Shiny Rare,$0.90,en_US-SWSH12-174-omastar_v.jpg
+
+SHF,SV052,Sinistea,Pkmn › Basic,{P},Shiny Rare,$1.96,en_US-SWSH12-175-regieleki_v.jpg
+
+SHF,SV053,Polteageist,Pkmn › Stage 1,{P},Shiny Rare,$0.77,en_US-SWSH12-176-unown_v.jpg
+
+SHF,SV054,Hatenna,Pkmn › Basic,{P},Shiny Rare,$1.89,en_US-SWSH12-177-unown_v.jpg
+
+SHF,SV055,Hattrem,Pkmn › Stage 1,{P},Shiny Rare,$1.83,en_US-SWSH12-178-mawile_v.jpg
+
+SHF,SV056,Hatterene,Pkmn › Stage 2,{P},Shiny Rare,$2.17,en_US-SWSH12-179-hisuian_arcanine_v.jpg
+
+SHF,SV057,Milcery,Pkmn › Basic,{P},Shiny Rare,$2.12,en_US-SWSH12-180-skuntank_v.jpg
+
+SHF,SV058,Alcremie,Pkmn › Stage 1,{P},Shiny Rare,$2.33,en_US-SWSH12-181-skuntank_v.jpg
+
+SHF,SV059,Indeedee,Pkmn › Basic,{P},Shiny Rare,$1.34,en_US-SWSH12-182-magearna_v.jpg
+
+SHF,SV060,Dreepy,Pkmn › Basic,{P},Shiny Rare,$2.88,en_US-SWSH12-183-regidrago_v.jpg
+
+SHF,SV061,Drakloak,Pkmn › Stage 1,{P},Shiny Rare,$3.45,en_US-SWSH12-184-regidrago_v.jpg
+
+SHF,SV062,Dragapult,Pkmn › Stage 2,{P},Shiny Rare,$1.05,en_US-SWSH12-185-lugia_v.jpg
+
+SHF,SV063,Galarian Farfetch’d,Pkmn › Basic,{F},Shiny Rare,$1.62,en_US-SWSH12-186-lugia_v.jpg
+
+SHF,SV064,Galarian Sirfetch’d,Pkmn › Stage 1,{F},Shiny Rare,$0.81,en_US-SWSH12-187-ho_oh_v.jpg
+
+SHF,SV065,Galarian Yamask,Pkmn › Basic,{F},Shiny Rare,$1.86,en_US-SWSH12-188-brandon.jpg
+
+SHF,SV066,Galarian Runerigus,Pkmn › Stage 1,{F},Shiny Rare,$1.66,en_US-SWSH12-189-candice.jpg
+
+SHF,SV067,Rolycoly,Pkmn › Basic,{F},Shiny Rare,$1.55,en_US-SWSH12-190-furisode_girl.jpg
+
+SHF,SV068,Carkol,Pkmn › Stage 1,{F},Shiny Rare,$1.68,en_US-SWSH12-191-gym_trainer.jpg
+
+SHF,SV069,Coalossal,Pkmn › Stage 2,{F},Shiny Rare,$1.89,en_US-SWSH12-192-lance.jpg
+
+SHF,SV070,Silicobra,Pkmn › Basic,{F},Shiny Rare,$1.61,en_US-SWSH12-193-serena.jpg
+
+SHF,SV071,Sandaconda,Pkmn › Stage 1,{F},Shiny Rare,$1.67,en_US-SWSH12-194-wallace.jpg
+
+SHF,SV072,Clobbopus,Pkmn › Basic,{F},Shiny Rare,$1.69,en_US-SWSH12-195-worker.jpg
+
+SHF,SV073,Grapploct,Pkmn › Stage 1,{F},Shiny Rare,$1.78,en_US-SWSH12-196-serperior_vstar.jpg
+
+SHF,SV074,Falinks,Pkmn › Basic,{F},Shiny Rare,$0.71,en_US-SWSH12-197-alolan_vulpix_vstar.jpg
+
+SHF,SV075,Stonjourner,Pkmn › Basic,{F},Shiny Rare,$1.57,en_US-SWSH12-198-regieleki_vmax.jpg
+
+SHF,SV076,Koffing,Pkmn › Basic,{D},Shiny Rare,$4.76,en_US-SWSH12-199-unown_vstar.jpg
+
+SHF,SV077,Galarian Weezing,Pkmn › Stage 1,{D},Shiny Rare,$3.00,en_US-SWSH12-200-mawile_vstar.jpg
+
+SHF,SV078,Galarian Zigzagoon,Pkmn › Basic,{D},Shiny Rare,$0.98,en_US-SWSH12-201-regidrago_vstar.jpg
+
+SHF,SV079,Galarian Linoone,Pkmn › Stage 1,{D},Shiny Rare,$2.02,en_US-SWSH12-202-lugia_vstar.jpg
+
+SHF,SV080,Galarian Obstagoon,Pkmn › Stage 2,{D},Shiny Rare,$2.40,en_US-SWSH12-203-brandon.jpg
+
+SHF,SV081,Nickit,Pkmn › Basic,{D},Shiny Rare,$1.66,en_US-SWSH12-204-candice.jpg
+
+SHF,SV082,Thievul,Pkmn › Stage 1,{D},Shiny Rare,$1.66,en_US-SWSH12-205-furisode_girl.jpg
+
+SHF,SV083,Impidimp,Pkmn › Basic,{D},Shiny Rare,$1.97,en_US-SWSH12-206-lance.jpg
+
+SHF,SV084,Morgrem,Pkmn › Stage 1,{D},Shiny Rare,$1.68,en_US-SWSH12-207-serena.jpg
+
+SHF,SV085,Grimmsnarl,Pkmn › Stage 2,{D},Shiny Rare,$2.00,en_US-SWSH12-208-wallace.jpg
+
+SHF,SV086,Galarian Meowth,Pkmn › Basic,{M},Shiny Rare,$2.84,en_US-SWSH12-209-worker.jpg
+
+SHF,SV087,Galarian Perrserker,Pkmn › Stage 1,{M},Shiny Rare,$2.00,en_US-SWSH12-210-serperior_vstar.jpg
+
+SHF,SV088,Galarian Stunfisk,Pkmn › Basic,{M},Shiny Rare,$1.36,en_US-SWSH12-211-lugia_vstar.jpg
+
+SHF,SV089,Corviknight,Pkmn › Stage 2,{M},Shiny Rare,$0.81,en_US-SWSH12-212-energy_switch.jpg
+
+SHF,SV090,Cufant,Pkmn › Basic,{M},Shiny Rare,$2.15,en_US-SWSH12-213-gapejaw_bog.jpg
+
+SHF,SV091,Copperajah,Pkmn › Stage 1,{M},Shiny Rare,$1.51,en_US-SWSH12-214-leafy_camo_poncho.jpg
+
+SHF,SV092,Duraludon,Pkmn › Basic,{M},Shiny Rare,$1.80,en_US-SWSH12-215-v_guard_energy.jpg
+
+SHF,SV093,Minccino,Pkmn › Basic,{C},Shiny Rare,$3.25,en_US-SWSH12-TG001-braixen.jpg
+
+SHF,SV094,Cinccino,Pkmn › Stage 1,{C},Shiny Rare,$2.50,en_US-SWSH12-TG002-milotic.jpg
+
+SHF,SV095,Ducklett,Pkmn › Basic,{C},Shiny Rare,$2.02,en_US-SWSH12-TG003-flaaffy.jpg
+
+SHF,SV096,Swanna,Pkmn › Stage 1,{C},Shiny Rare,$1.63,en_US-SWSH12-TG004-jynx.jpg
+
+SHF,SV097,Bunnelby,Pkmn › Basic,{C},Shiny Rare,$0.65,en_US-SWSH12-TG005-gardevoir.jpg
+
+SHF,SV098,Oranguru,Pkmn › Basic,{C},Shiny Rare,$1.71,en_US-SWSH12-TG006-malamar.jpg
+
+SHF,SV099,Skwovet,Pkmn › Basic,{C},Shiny Rare,$1.50,en_US-SWSH12-TG007-rockruff.jpg
+
+SHF,SV100,Greedent,Pkmn › Stage 1,{C},Shiny Rare,$1.53,en_US-SWSH12-TG008-passimian.jpg
+
+SHF,SV101,Rookidee,Pkmn › Basic,{C},Shiny Rare,$1.88,en_US-SWSH12-TG009-druddigon.jpg
+
+SHF,SV102,Corvisquire,Pkmn › Stage 1,{C},Shiny Rare,$1.66,en_US-SWSH12-TG010-smeargle.jpg
+
+SHF,SV103,Wooloo,Pkmn › Basic,{C},Shiny Rare,$0.75,en_US-SWSH12-TG011-altaria.jpg
+
+SHF,SV104,Dubwool,Pkmn › Stage 1,{C},Shiny Rare,$1.26,en_US-SWSH12-TG012-kricketune_v.jpg
+
+SHF,SV105,Rillaboom V,Pkmn › Basic,{G},Shiny Rare V or VMAX,$0.98,en_US-SWSH12-TG013-serperior_v.jpg
+
+SHF,SV106,Rillaboom VMAX,Pkmn › VMAX,{G},Shiny Rare V or VMAX,$2.59,en_US-SWSH12-TG014-blaziken_v.jpg
+
+SHF,SV107,Charizard VMAX,Pkmn › VMAX,{R},Shiny Rare V or VMAX,$83.11,en_US-SWSH12-TG015-blaziken_vmax.jpg
+
+SHF,SV108,Centiskorch V,Pkmn › Basic,{R},Shiny Rare V or VMAX,$0.87,en_US-SWSH12-TG016-zeraora_v.jpg
+
+SHF,SV109,Centiskorch VMAX,Pkmn › VMAX,{R},Shiny Rare V or VMAX,$2.17,en_US-SWSH12-TG017-mawile_v.jpg
+
+SHF,SV110,Lapras V,Pkmn › Basic,{W},Shiny Rare V or VMAX,$1.40,en_US-SWSH12-TG018-corviknight_v.jpg
+
+SHF,SV111,Lapras VMAX,Pkmn › VMAX,{W},Shiny Rare V or VMAX,$3.53,en_US-SWSH12-TG019-corviknight_vmax.jpg
+
+SHF,SV112,Toxtricity V,Pkmn › Basic,{L},Shiny Rare V or VMAX,$0.91,en_US-SWSH12-TG020-rayquaza_vmax.jpg
+
+SHF,SV113,Toxtricity VMAX,Pkmn › VMAX,{L},Shiny Rare V or VMAX,$2.78,en_US-SWSH12-TG021-duraludon_vmax.jpg
+
+SHF,SV114,Indeedee V,Pkmn › Basic,{P},Shiny Rare V or VMAX,$0.65,en_US-SWSH12-TG022-blissey_v.jpg
+
+SHF,SV115,Falinks V,Pkmn › Basic,{F},Shiny Rare V or VMAX,$0.80,en_US-SWSH12-TG023-friends_in_galar.jpg
+
+SHF,SV116,Grimmsnarl V,Pkmn › Basic,{D},Shiny Rare V or VMAX,$0.94,en_US-SWSH12-TG024-gordie.jpg
+
+SHF,SV117,Grimmsnarl VMAX,Pkmn › VMAX,{D},Shiny Rare V or VMAX,$3.89,en_US-SWSH12-TG025-judge.jpg
+
+SHF,SV118,Ditto V,Pkmn › Basic,{C},Shiny Rare V or VMAX,$1.41,en_US-SWSH12-TG026-professor_burnet.jpg
+
+SHF,SV119,Ditto VMAX,Pkmn › VMAX,{C},Shiny Rare V or VMAX,$5.19,en_US-SWSH12-TG027-raihan.jpg
+
+SHF,SV120,Dubwool V,Pkmn › Basic,{C},Shiny Rare V or VMAX,$0.77,en_US-SWSH12-TG028-sordward_shielbert.jpg
+
+SHF,SV121,Eternatus V,Pkmn › Basic,{D},Rare Secret,$2.94,en_US-SWSH12-TG029-rayquaza_vmax.jpg
+
+SHF,SV122,Eternatus VMAX,Pkmn › VMAX,{D},Rare Secret,$3.7,en_US-SWSH12-TG030-duraludon_vmax.jpg
+

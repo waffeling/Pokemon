@@ -1,0 +1,416 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+
+EW,001,Bulbasaur,Pkmn › Basic,{G},Common,$0.22,sv3-5_en_001_std.jpg
+
+MEW,002,Ivysaur,Pkmn › Stage 1,{G},Uncommon,$0.08,sv3-5_en_002_std.jpg
+
+MEW,003,Venusaur ex,Pkmn › Stage 2,{G},Double Rare,$1.58,sv3-5_en_003_std.jpg
+
+MEW,004,Charmander,Pkmn › Basic,{R},Common,$0.10,sv3-5_en_004_std.jpg
+
+MEW,005,Charmeleon,Pkmn › Stage 1,{R},Uncommon,$0.10,sv3-5_en_005_std.jpg
+
+MEW,006,Charizard ex,Pkmn › Stage 2,{R},Double Rare,$4.26,sv3-5_en_006_std.jpg
+
+MEW,007,Squirtle,Pkmn › Basic,{W},Common,$0.08,sv3-5_en_007_std.jpg
+
+MEW,008,Wartortle,Pkmn › Stage 1,{W},Uncommon,$0.09,sv3-5_en_008_std.jpg
+
+MEW,009,Blastoise ex,Pkmn › Stage 2,{W},Double Rare,$2.21,sv3-5_en_009_std.jpg
+
+MEW,010,Caterpie,Pkmn › Basic,{G},Common,$0.16,sv3-5_en_010_std.jpg
+
+MEW,011,Metapod,Pkmn › Stage 1,{G},Common,$0.14,sv3-5_en_011_std.jpg
+
+MEW,012,Butterfree,Pkmn › Stage 2,{G},Uncommon,$0.06,sv3-5_en_012_std.jpg
+
+MEW,013,Weedle,Pkmn › Basic,{G},Common,$0.08,sv3-5_en_013_std.jpg
+
+MEW,014,Kakuna,Pkmn › Stage 1,{G},Common,$0.13,sv3-5_en_014_std.jpg
+
+MEW,015,Beedrill,Pkmn › Stage 2,{G},Rare,$0.11,sv3-5_en_015_std.jpg
+
+MEW,016,Pidgey,Pkmn › Basic,{C},Common,$0.19,sv3-5_en_016_std.jpg
+
+MEW,017,Pidgeotto,Pkmn › Stage 1,{C},Common,$0.13,sv3-5_en_017_std.jpg
+
+MEW,018,Pidgeot,Pkmn › Stage 2,{C},Uncommon,$0.07,sv3-5_en_018_std.jpg
+
+MEW,019,Rattata,Pkmn › Basic,{C},Common,$0.04,sv3-5_en_019_std.jpg
+
+MEW,020,Raticate,Pkmn › Stage 1,{C},Uncommon,$0.06,sv3-5_en_020_std.jpg
+
+MEW,021,Spearow,Pkmn › Basic,{C},Common,$0.04,sv3-5_en_021_std.jpg
+
+MEW,022,Fearow,Pkmn › Stage 1,{C},Uncommon,$0.06,sv3-5_en_022_std.jpg
+
+MEW,023,Ekans,Pkmn › Basic,{D},Common,$0.17,sv3-5_en_023_std.jpg
+
+MEW,024,Arbok ex,Pkmn › Stage 1,{D},Double Rare,$1.36,sv3-5_en_024_std.jpg
+
+MEW,025,Pikachu,Pkmn › Basic,{L},Common,$0.08,sv3-5_en_025_std.jpg
+
+MEW,026,Raichu,Pkmn › Stage 1,{L},Rare,$0.11,sv3-5_en_026_std.jpg
+
+MEW,027,Sandshrew,Pkmn › Basic,{F},Common,$0.16,sv3-5_en_027_std.jpg
+
+MEW,028,Sandslash,Pkmn › Stage 1,{F},Uncommon,$0.06,sv3-5_en_028_std.jpg
+
+MEW,029,Nidoran Female,Pkmn › Basic,{D},Common,$0.13,sv3-5_en_029_std.jpg
+
+MEW,030,Nidorina,Pkmn › Stage 1,{D},Uncommon,$0.07,sv3-5_en_030_std.jpg
+
+MEW,031,Nidoqueen,Pkmn › Stage 2,{D},Uncommon,$0.06,sv3-5_en_031_std.jpg
+
+MEW,032,Nidoran Male,Pkmn › Basic,{D},Common,$0.14,sv3-5_en_032_std.jpg
+
+MEW,033,Nidorino,Pkmn › Stage 1,{D},Uncommon,$0.07,sv3-5_en_033_std.jpg
+
+MEW,034,Nidoking,Pkmn › Stage 2,{D},Rare,$0.15,sv3-5_en_034_std.jpg
+
+MEW,035,Clefairy,Pkmn › Basic,{P},Common,$0.04,sv3-5_en_035_std.jpg
+
+MEW,036,Clefable,Pkmn › Stage 1,{P},Uncommon,$0.07,sv3-5_en_036_std.jpg
+
+MEW,037,Vulpix,Pkmn › Basic,{R},Common,$0.04,sv3-5_en_037_std.jpg
+
+MEW,038,Ninetales ex,Pkmn › Stage 1,{R},Double Rare,$0.95,sv3-5_en_038_std.jpg
+
+MEW,039,Jigglypuff,Pkmn › Basic,{C},Common,$0.11,sv3-5_en_039_std.jpg
+
+MEW,040,Wigglytuff ex,Pkmn › Stage 1,{C},Double Rare,$0.71,sv3-5_en_040_std.jpg
+
+MEW,041,Zubat,Pkmn › Basic,{D},Common,$0.03,sv3-5_en_041_std.jpg
+
+MEW,042,Golbat,Pkmn › Stage 1,{D},Uncommon,$0.05,sv3-5_en_042_std.jpg
+
+MEW,043,Oddish,Pkmn › Basic,{G},Common,$0.16,sv3-5_en_043_std.jpg
+
+MEW,044,Gloom,Pkmn › Stage 1,{G},Uncommon,$0.08,sv3-5_en_044_std.jpg
+
+MEW,045,Vileplume,Pkmn › Stage 2,{G},Rare,$0.14,sv3-5_en_045_std.jpg
+
+MEW,046,Paras,Pkmn › Basic,{G},Common,$0.05,sv3-5_en_046_std.jpg
+
+MEW,047,Parasect,Pkmn › Stage 1,{G},Uncommon,$0.11,sv3-5_en_047_std.jpg
+
+MEW,048,Venonat,Pkmn › Basic,{G},Common,$0.05,sv3-5_en_048_std.jpg
+
+MEW,049,Venomoth,Pkmn › Stage 1,{G},Uncommon,$0.10,sv3-5_en_049_std.jpg
+
+MEW,050,Diglett,Pkmn › Basic,{F},Common,$0.13,sv3-5_en_050_std.jpg
+
+MEW,051,Dugtrio,Pkmn › Stage 1,{F},Uncommon,$0.07,sv3-5_en_051_std.jpg
+
+MEW,052,Meowth,Pkmn › Basic,{C},Common,$0.05,sv3-5_en_052_std.jpg
+
+MEW,053,Persian,Pkmn › Stage 1,{C},Uncommon,$0.06,sv3-5_en_053_std.jpg
+
+MEW,054,Psyduck,Pkmn › Basic,{W},Common,$0.18,sv3-5_en_054_std.jpg
+
+MEW,055,Golduck,Pkmn › Stage 1,{W},Uncommon,sold out,sv3-5_en_055_std.jpg
+
+MEW,056,Mankey,Pkmn › Basic,{F},Common,$0.04,sv3-5_en_056_std.jpg
+
+MEW,057,Primeape,Pkmn › Stage 1,{F},Uncommon,$0.04,sv3-5_en_057_std.jpg
+
+MEW,058,Growlithe,Pkmn › Basic,{R},Common,$0.17,sv3-5_en_058_std.jpg
+
+MEW,059,Arcanine,Pkmn › Stage 1,{R},Uncommon,$0.07,sv3-5_en_059_std.jpg
+
+MEW,060,Poliwag,Pkmn › Basic,{W},Common,$0.05,sv3-5_en_060_std.jpg
+
+MEW,061,Poliwhirl,Pkmn › Stage 1,{W},Common,$0.11,sv3-5_en_061_std.jpg
+
+MEW,062,Poliwrath,Pkmn › Stage 2,{W},Uncommon,$0.05,sv3-5_en_062_std.jpg
+
+MEW,063,Abra,Pkmn › Basic,{P},Common,$0.04,sv3-5_en_063_std.jpg
+
+MEW,064,Kadabra,Pkmn › Stage 1,{P},Uncommon,$0.06,sv3-5_en_064_std.jpg
+
+MEW,065,Alakazam ex,Pkmn › Stage 2,{P},Double Rare,$1.20,sv3-5_en_065_std.jpg
+
+MEW,066,Machop,Pkmn › Basic,{F},Common,$0.04,sv3-5_en_066_std.jpg
+
+MEW,067,Machoke,Pkmn › Stage 1,{F},Uncommon,$0.22,sv3-5_en_067_std.jpg
+
+MEW,068,Machamp,Pkmn › Stage 2,{F},Rare,$0.10,sv3-5_en_068_std.jpg
+
+MEW,069,Bellsprout,Pkmn › Basic,{G},Common,$0.05,sv3-5_en_069_std.jpg
+
+MEW,070,Weepinbell,Pkmn › Stage 1,{G},Common,$0.10,sv3-5_en_070_std.jpg
+
+MEW,071,Victreebel,Pkmn › Stage 2,{G},Uncommon,$0.06,sv3-5_en_071_std.jpg
+
+MEW,072,Tentacool,Pkmn › Basic,{W},Common,$0.03,sv3-5_en_072_std.jpg
+
+MEW,073,Tentacruel,Pkmn › Stage 1,{W},Uncommon,$0.04,sv3-5_en_073_std.jpg
+
+MEW,074,Geodude,Pkmn › Basic,{F},Common,$0.05,sv3-5_en_074_std.jpg
+
+MEW,075,Graveler,Pkmn › Stage 1,{F},Uncommon,$0.05,sv3-5_en_075_std.jpg
+
+MEW,076,Golem ex,Pkmn › Stage 2,{F},Double Rare,$0.74,sv3-5_en_076_std.jpg
+
+MEW,077,Ponyta,Pkmn › Basic,{R},Common,$0.04,sv3-5_en_077_std.jpg
+
+MEW,078,Rapidash,Pkmn › Stage 1,{R},Uncommon,$0.06,sv3-5_en_078_std.jpg
+
+MEW,079,Slowpoke,Pkmn › Basic,{P},Common,$0.05,sv3-5_en_079_std.jpg
+
+MEW,080,Slowbro,Pkmn › Stage 1,{P},Uncommon,$0.05,sv3-5_en_080_std.jpg
+
+MEW,081,Magnemite,Pkmn › Basic,{L},Common,$0.05,sv3-5_en_081_std.jpg
+
+MEW,082,Magneton,Pkmn › Stage 1,{L},Uncommon,$0.05,sv3-5_en_082_std.jpg
+
+MEW,083,Farfetch’d,Pkmn › Basic,{C},Common,$0.03,sv3-5_en_083_std.jpg
+
+MEW,084,Doduo,Pkmn › Basic,{C},Common,$0.05,sv3-5_en_084_std.jpg
+
+MEW,085,Dodrio,Pkmn › Stage 1,{C},Rare,$0.14,sv3-5_en_085_std.jpg
+
+MEW,086,Seel,Pkmn › Basic,{W},Common,$0.04,sv3-5_en_086_std.jpg
+
+MEW,087,Dewgong,Pkmn › Stage 1,{W},Uncommon,$0.08,sv3-5_en_087_std.jpg
+
+MEW,088,Grimer,Pkmn › Basic,{D},Common,$0.07,sv3-5_en_088_std.jpg
+
+MEW,089,Muk,Pkmn › Stage 1,{D},Uncommon,$0.05,sv3-5_en_089_std.jpg
+
+MEW,090,Shellder,Pkmn › Basic,{W},Common,$0.15,sv3-5_en_090_std.jpg
+
+MEW,091,Cloyster,Pkmn › Stage 1,{W},Uncommon,$0.07,sv3-5_en_091_std.jpg
+
+MEW,092,Gastly,Pkmn › Basic,{P},Common,$0.06,sv3-5_en_092_std.jpg
+
+MEW,093,Haunter,Pkmn › Stage 1,{P},Uncommon,$0.06,sv3-5_en_093_std.jpg
+
+MEW,094,Gengar,Pkmn › Stage 2,{P},Rare,$0.15,sv3-5_en_094_std.jpg
+
+MEW,095,Onix,Pkmn › Basic,{F},Uncommon,$0.05,sv3-5_en_095_std.jpg
+
+MEW,096,Drowzee,Pkmn › Basic,{P},Common,$0.04,sv3-5_en_096_std.jpg
+
+MEW,097,Hypno,Pkmn › Stage 1,{P},Uncommon,sold out,sv3-5_en_097_std.jpg
+
+MEW,098,Krabby,Pkmn › Basic,{W},Common,$0.04,sv3-5_en_098_std.jpg
+
+MEW,099,Kingler,Pkmn › Stage 1,{W},Uncommon,$0.06,sv3-5_en_099_std.jpg
+
+MEW,100,Voltorb,Pkmn › Basic,{L},Common,$0.04,sv3-5_en_100_std.jpg
+
+MEW,101,Electrode,Pkmn › Stage 1,{L},Rare,$0.11,sv3-5_en_101_std.jpg
+
+MEW,102,Exeggcute,Pkmn › Basic,{G},Common,$0.04,sv3-5_en_102_std.jpg
+
+MEW,103,Exeggutor,Pkmn › Stage 1,{G},Uncommon,$0.05,sv3-5_en_103_std.jpg
+
+MEW,104,Cubone,Pkmn › Basic,{F},Common,$0.08,sv3-5_en_104_std.jpg
+
+MEW,105,Marowak,Pkmn › Stage 1,{F},Rare,$0.13,sv3-5_en_105_std.jpg
+
+MEW,106,Hitmonlee,Pkmn › Basic,{F},Uncommon,$0.06,sv3-5_en_106_std.jpg
+
+MEW,107,Hitmonchan,Pkmn › Basic,{F},Uncommon,$0.07,sv3-5_en_107_std.jpg
+
+MEW,108,Lickitung,Pkmn › Basic,{C},Common,$0.04,sv3-5_en_108_std.jpg
+
+MEW,109,Koffing,Pkmn › Basic,{D},Common,$0.06,sv3-5_en_109_std.jpg
+
+MEW,110,Weezing,Pkmn › Stage 1,{D},Rare,$0.12,sv3-5_en_110_std.jpg
+
+MEW,111,Rhyhorn,Pkmn › Basic,{F},Common,$0.05,sv3-5_en_111_std.jpg
+
+MEW,112,Rhydon,Pkmn › Stage 1,{F},Uncommon,$0.05,sv3-5_en_112_std.jpg
+
+MEW,113,Chansey,Pkmn › Basic,{C},Rare,$0.13,sv3-5_en_113_std.jpg
+
+MEW,114,Tangela,Pkmn › Basic,{G},Common,$0.03,sv3-5_en_114_std.jpg
+
+MEW,115,Kangaskhan ex,Pkmn › Basic,{C},Double Rare,$0.85,sv3-5_en_115_std.jpg
+
+MEW,116,Horsea,Pkmn › Basic,{W},Common,$0.06,sv3-5_en_116_std.jpg
+
+MEW,117,Seadra,Pkmn › Stage 1,{W},Uncommon,$0.04,sv3-5_en_117_std.jpg
+
+MEW,118,Goldeen,Pkmn › Basic,{W},Common,$0.06,sv3-5_en_118_std.jpg
+
+MEW,119,Seaking,Pkmn › Stage 1,{W},Uncommon,$0.07,sv3-5_en_119_std.jpg
+
+MEW,120,Staryu,Pkmn › Basic,{W},Common,$0.04,sv3-5_en_120_std.jpg
+
+MEW,121,Starmie,Pkmn › Stage 1,{W},Rare,$0.12,sv3-5_en_121_std.jpg
+
+MEW,122,Mr. Mime,Pkmn › Basic,{P},Rare,$0.11,sv3-5_en_122_std.jpg
+
+MEW,123,Scyther,Pkmn › Basic,{G},Uncommon,$0.12,sv3-5_en_123_std.jpg
+
+MEW,124,Jynx ex,Pkmn › Basic,{W},Double Rare,$1.03,sv3-5_en_124_std.jpg
+
+MEW,125,Electabuzz,Pkmn › Basic,{L},Common,$0.05,sv3-5_en_125_std.jpg
+
+MEW,126,Magmar,Pkmn › Basic,{R},Common,$0.04,sv3-5_en_126_std.jpg
+
+MEW,127,Pinsir,Pkmn › Basic,{G},Uncommon,$0.08,sv3-5_en_127_std.jpg
+
+MEW,128,Tauros,Pkmn › Basic,{C},Uncommon,$0.05,sv3-5_en_128_std.jpg
+
+MEW,129,Magikarp,Pkmn › Basic,{W},Common,$0.14,sv3-5_en_129_std.jpg
+
+MEW,130,Gyarados,Pkmn › Stage 1,{W},Rare,$0.12,sv3-5_en_130_std.jpg
+
+MEW,131,Lapras,Pkmn › Basic,{W},Uncommon,$0.05,sv3-5_en_131_std.jpg
+
+MEW,132,Ditto,Pkmn › Basic,{C},Rare,$0.18,sv3-5_en_132_std.jpg
+
+MEW,133,Eevee,Pkmn › Basic,{C},Common,$0.07,sv3-5_en_133_std.jpg
+
+MEW,134,Vaporeon,Pkmn › Stage 1,{W},Rare,$0.18,sv3-5_en_134_std.jpg
+
+MEW,135,Jolteon,Pkmn › Stage 1,{L},Rare,$0.15,sv3-5_en_135_std.jpg
+
+MEW,136,Flareon,Pkmn › Stage 1,{R},Rare,$0.15,sv3-5_en_136_std.jpg
+
+MEW,137,Porygon,Pkmn › Basic,{C},Common,$0.04,sv3-5_en_137_std.jpg
+
+MEW,138,Omanyte,Pkmn › Stage 1,{W},Uncommon,$0.09,sv3-5_en_138_std.jpg
+
+MEW,139,Omastar,Pkmn › Stage 2,{W},Rare,$0.08,sv3-5_en_139_std.jpg
+
+MEW,140,Kabuto,Pkmn › Stage 1,{F},Uncommon,$0.11,sv3-5_en_140_std.jpg
+
+MEW,141,Kabutops,Pkmn › Stage 2,{F},Rare,$0.11,sv3-5_en_141_std.jpg
+
+MEW,142,Aerodactyl,Pkmn › Stage 1,{C},Rare,$0.14,sv3-5_en_142_std.jpg
+
+MEW,143,Snorlax,Pkmn › Basic,{C},Uncommon,$0.06,sv3-5_en_143_std.jpg
+
+MEW,144,Articuno,Pkmn › Basic,{W},Rare,$0.15,sv3-5_en_144_std.jpg
+
+MEW,145,Zapdos ex,Pkmn › Basic,{L},Double Rare,$1.28,sv3-5_en_145_std.jpg
+
+MEW,146,Moltres,Pkmn › Basic,{R},Rare,$0.14,sv3-5_en_146_std.jpg
+
+MEW,147,Dratini,Pkmn › Basic,{N},Common,$0.11,sv3-5_en_147_std.jpg
+
+MEW,148,Dragonair,Pkmn › Stage 1,{N},Uncommon,$0.09,sv3-5_en_148_std.jpg
+
+MEW,149,Dragonite,Pkmn › Stage 2,{N},Rare,$0.18,sv3-5_en_149_std.jpg
+
+MEW,150,Mewtwo,Pkmn › Basic,{P},Rare,$0.23,sv3-5_en_150_std.jpg
+
+MEW,151,Mew ex,Pkmn › Basic,{P},Double Rare,$4.55,sv3-5_en_151_std.jpg
+
+MEW,152,Antique Dome Fossil,Trainer › Item,,Common,$0.08,sv3-5_en_152_std.jpg
+
+MEW,153,Antique Helix Fossil,Trainer › Item,,Common,$0.11,sv3-5_en_153_std.jpg
+
+MEW,154,Antique Old Amber,Trainer › Item,,Common,$0.10,sv3-5_en_154_std.jpg
+
+MEW,155,Big Air Balloon,Trainer › Tool,,Uncommon,$0.07,sv3-5_en_155_std.jpg
+
+MEW,156,Bill’s Transfer,Trainer › Supporter,,Uncommon,$0.09,sv3-5_en_156_std.jpg
+
+MEW,157,Cycling Road,Trainer › Stadium,,Uncommon,$0.06,sv3-5_en_157_std.jpg
+
+MEW,158,Daisy’s Help,Trainer › Supporter,,Uncommon,$0.07,sv3-5_en_158_std.jpg
+
+MEW,159,Energy Sticker,Trainer › Item,,Uncommon,$0.20,sv3-5_en_159_std.jpg
+
+MEW,160,Erika’s Invitation,Trainer › Supporter,,Uncommon,$0.08,sv3-5_en_160_std.jpg
+
+MEW,161,Giovanni’s Charisma,Trainer › Supporter,,Uncommon,$0.11,sv3-5_en_161_std.jpg
+
+MEW,162,Grabber,Trainer › Item,,Uncommon,$0.25,sv3-5_en_162_std.jpg
+
+MEW,163,Leftovers,Trainer › Tool,,Uncommon,$0.09,sv3-5_en_163_std.jpg
+
+MEW,164,Protective Goggles,Trainer › Tool,,Uncommon,$0.13,sv3-5_en_164_std.jpg
+
+MEW,165,Rigid Band,Trainer › Tool,,Uncommon,$0.09,sv3-5_en_165_std.jpg
+
+MEW,166,Bulbasaur,Pkmn › Basic,{G},Illustration Rare,$26.21,sv3-5_en_166_std.jpg
+
+MEW,167,Ivysaur,Pkmn › Stage 1,{G},Illustration Rare,$19.73,sv3-5_en_167_std.jpg
+
+MEW,168,Charmander,Pkmn › Basic,{R},Illustration Rare,$28.04,sv3-5_en_168_std.jpg
+
+MEW,169,Charmeleon,Pkmn › Stage 1,{R},Illustration Rare,$20.83,sv3-5_en_169_std.jpg
+
+MEW,170,Squirtle,Pkmn › Basic,{W},Illustration Rare,$27.58,sv3-5_en_170_std.jpg
+
+MEW,171,Wartortle,Pkmn › Stage 1,{W},Illustration Rare,$22.01,sv3-5_en_171_std.jpg
+
+MEW,172,Caterpie,Pkmn › Basic,{G},Illustration Rare,$9.00,sv3-5_en_172_std.jpg
+
+MEW,173,Pikachu,Pkmn › Basic,{L},Illustration Rare,$18.67,sv3-5_en_173_std.jpg
+
+MEW,174,Nidoking,Pkmn › Stage 2,{D},Illustration Rare,$8.96,sv3-5_en_174_std.jpg
+
+MEW,175,Psyduck,Pkmn › Basic,{W},Illustration Rare,sold out,sv3-5_en_175_std.jpg
+
+MEW,176,Poliwhirl,Pkmn › Stage 1,{W},Illustration Rare,$10.75,sv3-5_en_176_std.jpg
+
+MEW,177,Machoke,Pkmn › Stage 1,{F},Illustration Rare,$6.79,sv3-5_en_177_std.jpg
+
+MEW,178,Tangela,Pkmn › Basic,{G},Illustration Rare,$5.58,sv3-5_en_178_std.jpg
+
+MEW,179,Mr. Mime,Pkmn › Basic,{P},Illustration Rare,$5.14,sv3-5_en_179_std.jpg
+
+MEW,180,Omanyte,Pkmn › Stage 1,{W},Illustration Rare,$6.56,sv3-5_en_180_std.jpg
+
+MEW,181,Dragonair,Pkmn › Stage 1,{N},Illustration Rare,$16.30,sv3-5_en_181_std.jpg
+
+MEW,182,Venusaur ex,Pkmn › Stage 2,{G},Ultra Rare,$17.20,sv3-5_en_182_std.jpg
+
+MEW,183,Charizard ex,Pkmn › Stage 2,{R},Ultra Rare,$38.15,sv3-5_en_183_std.jpg
+
+MEW,184,Blastoise ex,Pkmn › Stage 2,{W},Ultra Rare,$19.50,sv3-5_en_184_std.jpg
+
+MEW,185,Arbok ex,Pkmn › Stage 1,{D},Ultra Rare,$9.57,sv3-5_en_185_std.jpg
+
+MEW,186,Ninetales ex,Pkmn › Stage 1,{R},Ultra Rare,$15.95,sv3-5_en_186_std.jpg
+
+MEW,187,Wigglytuff ex,Pkmn › Stage 1,{C},Ultra Rare,$8.03,sv3-5_en_187_std.jpg
+
+MEW,188,Alakazam ex,Pkmn › Stage 2,{P},Ultra Rare,$12.29,sv3-5_en_188_std.jpg
+
+MEW,189,Golem ex,Pkmn › Stage 2,{F},Ultra Rare,$8.80,sv3-5_en_189_std.jpg
+
+MEW,190,Kangaskhan ex,Pkmn › Basic,{C},Ultra Rare,$10.11,sv3-5_en_190_std.jpg
+
+MEW,191,Jynx ex,Pkmn › Basic,{W},Ultra Rare,$8.66,sv3-5_en_191_std.jpg
+
+MEW,192,Zapdos ex,Pkmn › Basic,{L},Ultra Rare,$14.33,sv3-5_en_192_std.jpg
+
+MEW,193,Mew ex,Pkmn › Basic,{P},Ultra Rare,$20.68,sv3-5_en_193_std.jpg
+
+MEW,194,Bill’s Transfer,Trainer › Supporter,,Ultra Rare,$5.75,sv3-5_en_194_std.jpg
+
+MEW,195,Daisy’s Help,Trainer › Supporter,,Ultra Rare,$6.18,sv3-5_en_195_std.jpg
+
+MEW,196,Erika’s Invitation,Trainer › Supporter,,Ultra Rare,$11.26,sv3-5_en_196_std.jpg
+
+MEW,197,Giovanni’s Charisma,Trainer › Supporter,,Ultra Rare,$4.84,sv3-5_en_197_std.jpg
+
+MEW,198,Venusaur ex,Pkmn › Stage 2,{G},Special Illustration Rare,$41.00,sv3-5_en_198_std.jpg
+
+MEW,199,Charizard ex,Pkmn › Stage 2,{R},Special Illustration Rare,$111.24,sv3-5_en_199_std.jpg
+
+MEW,200,Blastoise ex,Pkmn › Stage 2,{W},Special Illustration Rare,$47.62,sv3-5_en_200_std.jpg
+
+MEW,201,Alakazam ex,Pkmn › Stage 2,{P},Special Illustration Rare,$28.95,sv3-5_en_201_std.jpg
+
+MEW,202,Zapdos ex,Pkmn › Basic,{L},Special Illustration Rare,$36.32,sv3-5_en_202_std.jpg
+
+MEW,203,Erika’s Invitation,Trainer › Supporter,,Special Illustration Rare,$19.82,sv3-5_en_203_std.jpg
+
+MEW,204,Giovanni’s Charisma,Trainer › Supporter,,Special Illustration Rare,$9.31,sv3-5_en_204_std.jpg
+
+MEW,205,Mew ex,Pkmn › Basic,{P},Hyper Rare,$7.05,sv3-5_en_205_std.jpg
+
+MEW,206,Switch,Trainer › Item,,Hyper Rare,$4.68,sv3-5_en_206_std.jpg
+
+MEW,207,Basic {P} Energy,Energy › Basic,,Hyper Rare,$4.0,sv3-5_en_207_std.jpg
+

@@ -27,7 +27,9 @@ CREATE TABLE IF NOT EXISTS cards (
 
     price VARCHAR (255) NOT NULL,
 
-    rarity VARCHAR (255)
+    rarity VARCHAR (255),
+
+    image_name VARCHAR (255)
 
 );
 

@@ -1,0 +1,491 @@
+Set,No.,Name,Stage,Type,Rarity,Sale Status
+,,,,,,
+PAF,1,Pineco,Pkmn › Basic,{G},Common,$0.06,sv4_en_001_std.jpg
+,,,,,,
+PAF,2,Forretress ex,Pkmn › Stage 1,{G},Double Rare,$0.28,sv4_en_002_std.jpg
+,,,,,,
+PAF,3,Maractus,Pkmn › Basic,{G},Common,$0.06,sv4_en_003_std.jpg
+,,,,,,
+PAF,4,Toedscool,Pkmn › Basic,{G},Common,sold out,sv4_en_004_std.jpg
+,,,,,,
+PAF,5,Toedscruel ex,Pkmn › Stage 1,{G},Double Rare,$0.28,sv4_en_005_std.jpg
+,,,,,,
+PAF,6,Espathra ex,Pkmn › Stage 1,{G},Double Rare,$0.41,sv4_en_006_std.jpg
+,,,,,,
+PAF,7,Charmander,Pkmn › Basic,{R},Common,$0.20,sv4_en_007_std.jpg
+,,,,,,
+PAF,8,Charmeleon,Pkmn › Stage 1,{R},Uncommon,$0.13,sv4_en_008_std.jpg
+,,,,,,
+PAF,9,Magmar,Pkmn › Basic,{R},Common,$0.03,sv4_en_009_std.jpg
+,,,,,,
+PAF,10,Magmortar,Pkmn › Stage 1,{R},Rare,$0.06,sv4_en_010_std.jpg
+,,,,,,
+PAF,11,Numel,Pkmn › Basic,{R},Common,$0.03,sv4_en_011_std.jpg
+,,,,,,
+PAF,12,Camerupt,Pkmn › Stage 1,{R},Uncommon,$0.04,sv4_en_012_std.jpg
+,,,,,,
+PAF,13,Heat Rotom,Pkmn › Basic,{R},Rare,$0.14,sv4_en_013_std.jpg
+,,,,,,
+PAF,14,Charcadet,Pkmn › Basic,{R},Common,$0.04,sv4_en_014_std.jpg
+,,,,,,
+PAF,15,Armarouge,Pkmn › Stage 1,{R},Rare,$0.06,sv4_en_015_std.jpg
+,,,,,,
+PAF,16,Lapras,Pkmn › Basic,{W},Common,$0.08,sv4_en_016_std.jpg
+,,,,,,
+PAF,17,Frigibax,Pkmn › Basic,{W},Common,$0.17,sv4_en_017_std.jpg
+,,,,,,
+PAF,18,Pikachu,Pkmn › Basic,{L},Common,$0.07,sv4_en_018_std.jpg
+,,,,,,
+PAF,19,Raichu,Pkmn › Stage 1,{L},Rare,$0.09,sv4_en_019_std.jpg
+,,,,,,
+PAF,20,Chinchou,Pkmn › Basic,{L},Common,$0.02,sv4_en_020_std.jpg
+,,,,,,
+PAF,21,Lanturn,Pkmn › Stage 1,{L},Uncommon,$0.03,sv4_en_021_std.jpg
+,,,,,,
+PAF,22,Kilowattrel,Pkmn › Stage 1,{L},Uncommon,$0.02,sv4_en_022_std.jpg
+,,,,,,
+PAF,23,Exeggcute,Pkmn › Basic,{P},Common,$0.02,sv4_en_023_std.jpg
+,,,,,,
+PAF,24,Exeggutor,Pkmn › Stage 1,{P},Rare,$0.04,sv4_en_024_std.jpg
+,,,,,,
+PAF,25,Natu,Pkmn › Basic,{P},Common,$0.05,sv4_en_025_std.jpg
+,,,,,,
+PAF,26,Xatu,Pkmn › Stage 1,{P},Rare,$0.07,sv4_en_026_std.jpg
+,,,,,,
+PAF,27,Ralts,Pkmn › Basic,{P},Common,$0.04,sv4_en_027_std.jpg
+,,,,,,
+PAF,28,Kirlia,Pkmn › Stage 1,{P},Uncommon,$0.03,sv4_en_028_std.jpg
+,,,,,,
+PAF,29,Gardevoir ex,Pkmn › Stage 2,{P},Double Rare,$0.41,sv4_en_029_std.jpg
+,,,,,,
+PAF,30,Chimecho,Pkmn › Basic,{P},Common,$0.02,sv4_en_030_std.jpg
+,,,,,,
+PAF,31,Mime Jr.,Pkmn › Basic,{P},Common,$0.09,sv4_en_031_std.jpg
+,,,,,,
+PAF,32,Woobat,Pkmn › Basic,{P},Common,$0.03,sv4_en_032_std.jpg
+,,,,,,
+PAF,33,Swoobat,Pkmn › Stage 1,{P},Uncommon,$0.04,sv4_en_033_std.jpg
+,,,,,,
+PAF,34,Cottonee,Pkmn › Basic,{P},Common,$0.02,sv4_en_034_std.jpg
+,,,,,,
+PAF,35,Whimsicott,Pkmn › Stage 1,{P},Uncommon,$0.04,sv4_en_035_std.jpg
+,,,,,,
+PAF,36,Dedenne,Pkmn › Basic,{P},Common,$0.03,sv4_en_036_std.jpg
+,,,,,,
+PAF,37,Mimikyu,Pkmn › Basic,{P},Rare,$0.11,sv4_en_037_std.jpg
+,,,,,,
+PAF,38,Fidough,Pkmn › Basic,{P},Common,$0.02,sv4_en_038_std.jpg
+,,,,,,
+PAF,39,Dachsbun,Pkmn › Stage 1,{P},Uncommon,$0.03,sv4_en_039_std.jpg
+,,,,,,
+PAF,40,Ceruledge,Pkmn › Stage 1,{P},Rare,$0.07,sv4_en_040_std.jpg
+,,,,,,
+PAF,41,Flittle,Pkmn › Basic,{P},Common,$0.03,sv4_en_041_std.jpg
+,,,,,,
+PAF,42,Greavard,Pkmn › Basic,{P},Common,$0.09,sv4_en_042_std.jpg
+,,,,,,
+PAF,43,Houndstone,Pkmn › Stage 1,{P},Rare,$0.05,sv4_en_043_std.jpg
+,,,,,,
+PAF,44,Gimmighoul,Pkmn › Basic,{P},Common,$0.16,sv4_en_044_std.jpg
+,,,,,,
+PAF,45,Mankey,Pkmn › Basic,{F},Common,$0.04,sv4_en_045_std.jpg
+,,,,,,
+PAF,46,Primeape,Pkmn › Stage 1,{F},Uncommon,$0.05,sv4_en_046_std.jpg
+,,,,,,
+PAF,47,Annihilape,Pkmn › Stage 2,{F},Rare,$0.07,sv4_en_047_std.jpg
+,,,,,,
+PAF,48,Phanpy,Pkmn › Basic,{F},Common,$0.07,sv4_en_048_std.jpg
+,,,,,,
+PAF,49,Donphan,Pkmn › Stage 1,{F},Uncommon,$0.04,sv4_en_049_std.jpg
+,,,,,,
+PAF,50,Barboach,Pkmn › Basic,{F},Common,$0.02,sv4_en_050_std.jpg
+,,,,,,
+PAF,51,Clobbopus,Pkmn › Basic,{F},Common,$0.04,sv4_en_051_std.jpg
+,,,,,,
+PAF,52,Grapploct,Pkmn › Stage 1,{F},Uncommon,$0.06,sv4_en_052_std.jpg
+,,,,,,
+PAF,53,Great Tusk ex,Pkmn › Basic,{F},Double Rare,$0.31,sv4_en_053_std.jpg
+,,,,,,
+PAF,54,Charizard ex,Pkmn › Stage 2,{D},Double Rare,$3.37,sv4_en_054_std.jpg
+,,,,,,
+PAF,55,Gastly,Pkmn › Basic,{D},Common,$0.06,sv4_en_055_std.jpg
+,,,,,,
+PAF,56,Haunter,Pkmn › Stage 1,{D},Common,$0.04,sv4_en_056_std.jpg
+,,,,,,
+PAF,57,Gengar,Pkmn › Stage 2,{D},Uncommon,$0.18,sv4_en_057_std.jpg
+,,,,,,
+PAF,58,Paldean Wooper,Pkmn › Basic,{D},Common,$0.02,sv4_en_058_std.jpg
+,,,,,,
+PAF,59,Paldean Clodsire ex,Pkmn › Stage 1,{D},Double Rare,sold out,sv4_en_059_std.jpg
+,,,,,,
+PAF,60,Scraggy,Pkmn › Basic,{D},Common,sold out,sv4_en_060_std.jpg
+,,,,,,
+PAF,61,Scrafty,Pkmn › Stage 1,{D},Uncommon,sold out,sv4_en_061_std.jpg
+,,,,,,
+PAF,62,Maschiff,Pkmn › Basic,{D},Common,sold out,sv4_en_062_std.jpg
+,,,,,,
+PAF,63,Mabosstiff,Pkmn › Stage 1,{D},Rare,sold out,sv4_en_063_std.jpg
+,,,,,,
+PAF,64,Varoom,Pkmn › Basic,{M},Common,sold out,sv4_en_064_std.jpg
+,,,,,,
+PAF,65,Revavroom,Pkmn › Stage 1,{M},Rare,sold out,sv4_en_065_std.jpg
+,,,,,,
+PAF,66,Iron Treads ex,Pkmn › Basic,{M},Double Rare,sold out,sv4_en_066_std.jpg
+,,,,,,
+PAF,67,Gholdengo,Pkmn › Stage 1,{M},Rare,sold out,sv4_en_067_std.jpg
+,,,,,,
+PAF,68,Noibat,Pkmn › Basic,{N},Common,sold out,sv4_en_068_std.jpg
+,,,,,,
+PAF,69,Noivern ex,Pkmn › Stage 1,{N},Double Rare,sold out,sv4_en_069_std.jpg
+,,,,,,
+PAF,70,Cyclizar,Pkmn › Basic,{N},Rare,sold out,sv4_en_070_std.jpg
+,,,,,,
+PAF,71,Lechonk,Pkmn › Basic,{C},Common,sold out,sv4_en_071_std.jpg
+,,,,,,
+PAF,72,Oinkologne,Pkmn › Stage 1,{C},Uncommon,sold out,sv4_en_072_std.jpg
+,,,,,,
+PAF,73,Tandemaus,Pkmn › Basic,{C},Common,sold out,sv4_en_073_std.jpg
+,,,,,,
+PAF,74,Maushold,Pkmn › Stage 1,{C},Uncommon,sold out,sv4_en_074_std.jpg
+,,,,,,
+PAF,75,Squawkabilly ex,Pkmn › Basic,{C},Double Rare,sold out,sv4_en_075_std.jpg
+,,,,,,
+PAF,76,Artazon,Trainer › Stadium,,Uncommon,sold out,sv4_en_076_std.jpg
+,,,,,,
+PAF,77,Atticus,Trainer › Supporter,,Uncommon,sold out,sv4_en_077_std.jpg
+,,,,,,
+PAF,78,Clive,Trainer › Supporter,,Uncommon,sold out,sv4_en_078_std.jpg
+,,,,,,
+PAF,79,Electric Generator,Trainer › Item,,Uncommon,sold out,sv4_en_079_std.jpg
+,,,,,,
+PAF,80,Iono,Trainer › Supporter,,Uncommon,sold out,sv4_en_080_std.jpg
+,,,,,,
+PAF,81,Moonlit Hill,Trainer › Stadium,,Uncommon,sold out,sv4_en_081_std.jpg
+,,,,,,
+PAF,82,Nemona,Trainer › Supporter,,Common,sold out,sv4_en_082_std.jpg
+,,,,,,
+PAF,83,Nemona’s Backpack,Trainer › Item,,Uncommon,sold out,sv4_en_083_std.jpg
+,,,,,,
+PAF,84,Nest Ball,Trainer › Item,,Uncommon,sold out,sv4_en_084_std.jpg
+,,,,,,
+PAF,85,Paldean Student,Trainer › Supporter,,Common,sold out,sv4_en_085_std.jpg
+,,,,,,
+PAF,86,Paldean Student,Trainer › Supporter,,Common,sold out,sv4_en_086_std.jpg
+,,,,,,
+PAF,87,Professor’s Research,Trainer › Supporter,,Rare,sold out,sv4_en_087_std.jpg
+,,,,,,
+PAF,88,Professor’s Research,Trainer › Supporter,,Rare,sold out,sv4_en_088_std.jpg
+,,,,,,
+PAF,89,Rare Candy,Trainer › Item,,Common,sold out,sv4_en_089_std.jpg
+,,,,,,
+PAF,90,Technical Machine: Crisis Punch,Trainer › Tool,,Uncommon,sold out,sv4_en_090_std.jpg
+,,,,,,
+PAF,91,Ultra Ball,Trainer › Item,,Uncommon,sold out,sv4_en_091_std.jpg
+,,,,,,
+PAF,92,Oddish,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_092_std.jpg
+,,,,,,
+PAF,93,Gloom,Pkmn › Stage 1,{G},Shiny Rare,sold out,sv4_en_093_std.jpg
+,,,,,,
+PAF,94,Vileplume,Pkmn › Stage 2,{G},Shiny Rare,sold out,sv4_en_094_std.jpg
+,,,,,,
+PAF,95,Scyther,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_095_std.jpg
+,,,,,,
+PAF,96,Hoppip,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_096_std.jpg
+,,,,,,
+PAF,97,Skiploom,Pkmn › Stage 1,{G},Shiny Rare,sold out,sv4_en_097_std.jpg
+,,,,,,
+PAF,98,Jumpluff,Pkmn › Stage 2,{G},Shiny Rare,sold out,sv4_en_098_std.jpg
+,,,,,,
+PAF,99,Pineco,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_099_std.jpg
+,,,,,,
+PAF,100,Snover,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_100_std.jpg
+,,,,,,
+PAF,101,Abomasnow,Pkmn › Stage 1,{G},Shiny Rare,sold out,sv4_en_101_std.jpg
+,,,,,,
+PAF,102,Smoliv,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_102_std.jpg
+,,,,,,
+PAF,103,Dolliv,Pkmn › Stage 1,{G},Shiny Rare,sold out,sv4_en_103_std.jpg
+,,,,,,
+PAF,104,Arboliva,Pkmn › Stage 2,{G},Shiny Rare,sold out,sv4_en_104_std.jpg
+,,,,,,
+PAF,105,Toedscool,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_105_std.jpg
+,,,,,,
+PAF,106,Capsakid,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_106_std.jpg
+,,,,,,
+PAF,107,Scovillain,Pkmn › Stage 1,{G},Shiny Rare,sold out,sv4_en_107_std.jpg
+,,,,,,
+PAF,108,Rellor,Pkmn › Basic,{G},Shiny Rare,sold out,sv4_en_108_std.jpg
+,,,,,,
+PAF,109,Charmander,Pkmn › Basic,{R},Shiny Rare,sold out,sv4_en_109_std.jpg
+,,,,,,
+PAF,110,Charmeleon,Pkmn › Stage 1,{R},Shiny Rare,sold out,sv4_en_110_std.jpg
+,,,,,,
+PAF,111,Paldean Tauros,Pkmn › Basic,{R},Shiny Rare,sold out,sv4_en_111_std.jpg
+,,,,,,
+PAF,112,Entei,Pkmn › Basic,{R},Shiny Rare,sold out,sv4_en_112_std.jpg
+,,,,,,
+PAF,113,Oricorio,Pkmn › Basic,{R},Shiny Rare,sold out,sv4_en_113_std.jpg
+,,,,,,
+PAF,114,Charcadet,Pkmn › Basic,{R},Shiny Rare,sold out,sv4_en_114_std.jpg
+,,,,,,
+PAF,115,Armarouge,Pkmn › Stage 1,{R},Shiny Rare,sold out,sv4_en_115_std.jpg
+,,,,,,
+PAF,116,Slowpoke,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_116_std.jpg
+,,,,,,
+PAF,117,Slowbro,Pkmn › Stage 1,{W},Shiny Rare,sold out,sv4_en_117_std.jpg
+,,,,,,
+PAF,118,Staryu,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_118_std.jpg
+,,,,,,
+PAF,119,Starmie,Pkmn › Stage 1,{W},Shiny Rare,sold out,sv4_en_119_std.jpg
+,,,,,,
+PAF,120,Paldean Tauros,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_120_std.jpg
+,,,,,,
+PAF,121,Wiglett,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_121_std.jpg
+,,,,,,
+PAF,122,Wugtrio,Pkmn › Stage 1,{W},Shiny Rare,sold out,sv4_en_122_std.jpg
+,,,,,,
+PAF,123,Finizen,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_123_std.jpg
+,,,,,,
+PAF,124,Palafin,Pkmn › Stage 1,{W},Shiny Rare,sold out,sv4_en_124_std.jpg
+,,,,,,
+PAF,125,Veluza,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_125_std.jpg
+,,,,,,
+PAF,126,Dondozo,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_126_std.jpg
+,,,,,,
+PAF,127,Tatsugiri,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_127_std.jpg
+,,,,,,
+PAF,128,Frigibax,Pkmn › Basic,{W},Shiny Rare,sold out,sv4_en_128_std.jpg
+,,,,,,
+PAF,129,Arctibax,Pkmn › Stage 1,{W},Shiny Rare,sold out,sv4_en_129_std.jpg
+,,,,,,
+PAF,130,Baxcalibur,Pkmn › Stage 2,{W},Shiny Rare,sold out,sv4_en_130_std.jpg
+,,,,,,
+PAF,131,Pikachu,Pkmn › Basic,{L},Shiny Rare,sold out,sv4_en_131_std.jpg
+,,,,,,
+PAF,132,Raichu,Pkmn › Stage 1,{L},Shiny Rare,sold out,sv4_en_132_std.jpg
+,,,,,,
+PAF,133,Voltorb,Pkmn › Basic,{L},Shiny Rare,sold out,sv4_en_133_std.jpg
+,,,,,,
+PAF,134,Electrode,Pkmn › Stage 1,{L},Shiny Rare,sold out,sv4_en_134_std.jpg
+,,,,,,
+PAF,135,Shinx,Pkmn › Basic,{L},Shiny Rare,sold out,sv4_en_135_std.jpg
+,,,,,,
+PAF,136,Luxio,Pkmn › Stage 1,{L},Shiny Rare,sold out,sv4_en_136_std.jpg
+,,,,,,
+PAF,137,Luxray,Pkmn › Stage 2,{L},Shiny Rare,sold out,sv4_en_137_std.jpg
+,,,,,,
+PAF,138,Pachirisu,Pkmn › Basic,{L},Shiny Rare,sold out,sv4_en_138_std.jpg
+,,,,,,
+PAF,139,Thundurus,Pkmn › Basic,{L},Shiny Rare,sold out,sv4_en_139_std.jpg
+,,,,,,
+PAF,140,Toxel,Pkmn › Basic,{L},Shiny Rare,sold out,sv4_en_140_std.jpg
+,,,,,,
+PAF,141,Toxtricity,Pkmn › Stage 1,{L},Shiny Rare,sold out,sv4_en_141_std.jpg
+,,,,,,
+PAF,142,Pawmi,Pkmn › Basic,{L},Shiny Rare,sold out,sv4_en_142_std.jpg
+,,,,,,
+PAF,143,Pawmo,Pkmn › Stage 1,{L},Shiny Rare,sold out,sv4_en_143_std.jpg
+,,,,,,
+PAF,144,Pawmot,Pkmn › Stage 2,{L},Shiny Rare,sold out,sv4_en_144_std.jpg
+,,,,,,
+PAF,145,Wattrel,Pkmn › Basic,{L},Shiny Rare,sold out,sv4_en_145_std.jpg
+,,,,,,
+PAF,146,Kilowattrel,Pkmn › Stage 1,{L},Shiny Rare,sold out,sv4_en_146_std.jpg
+,,,,,,
+PAF,147,Wigglytuff,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_147_std.jpg
+,,,,,,
+PAF,148,Abra,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_148_std.jpg
+,,,,,,
+PAF,149,Kadabra,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_149_std.jpg
+,,,,,,
+PAF,150,Cleffa,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_150_std.jpg
+,,,,,,
+PAF,151,Natu,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_151_std.jpg
+,,,,,,
+PAF,152,Xatu,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_152_std.jpg
+,,,,,,
+PAF,153,Ralts,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_153_std.jpg
+,,,,,,
+PAF,154,Kirlia,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_154_std.jpg
+,,,,,,
+PAF,155,Drifloon,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_155_std.jpg
+,,,,,,
+PAF,156,Drifblim,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_156_std.jpg
+,,,,,,
+PAF,157,Mime Jr.,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_157_std.jpg
+,,,,,,
+PAF,158,Spiritomb,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_158_std.jpg
+,,,,,,
+PAF,159,Klefki,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_159_std.jpg
+,,,,,,
+PAF,160,Mimikyu,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_160_std.jpg
+,,,,,,
+PAF,161,Dachsbun,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_161_std.jpg
+,,,,,,
+PAF,162,Ceruledge,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_162_std.jpg
+,,,,,,
+PAF,163,Rabsca,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_163_std.jpg
+,,,,,,
+PAF,164,Flittle,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_164_std.jpg
+,,,,,,
+PAF,165,Tinkatink,Pkmn › Basic,{P},Shiny Rare,sold out,sv4_en_165_std.jpg
+,,,,,,
+PAF,166,Tinkatuff,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_166_std.jpg
+,,,,,,
+PAF,167,Tinkaton,Pkmn › Stage 2,{P},Shiny Rare,sold out,sv4_en_167_std.jpg
+,,,,,,
+PAF,168,Houndstone,Pkmn › Stage 1,{P},Shiny Rare,sold out,sv4_en_168_std.jpg
+,,,,,,
+PAF,169,Mankey,Pkmn › Basic,{F},Shiny Rare,sold out,sv4_en_169_std.jpg
+,,,,,,
+PAF,170,Primeape,Pkmn › Stage 1,{F},Shiny Rare,sold out,sv4_en_170_std.jpg
+,,,,,,
+PAF,171,Annihilape,Pkmn › Stage 2,{F},Shiny Rare,sold out,sv4_en_171_std.jpg
+,,,,,,
+PAF,172,Paldean Tauros,Pkmn › Basic,{F},Shiny Rare,sold out,sv4_en_172_std.jpg
+,,,,,,
+PAF,173,Riolu,Pkmn › Basic,{F},Shiny Rare,sold out,sv4_en_173_std.jpg
+,,,,,,
+PAF,174,Lucario,Pkmn › Stage 1,{F},Shiny Rare,sold out,sv4_en_174_std.jpg
+,,,,,,
+PAF,175,Hawlucha,Pkmn › Basic,{F},Shiny Rare,sold out,sv4_en_175_std.jpg
+,,,,,,
+PAF,176,Nacli,Pkmn › Basic,{F},Shiny Rare,sold out,sv4_en_176_std.jpg
+,,,,,,
+PAF,177,Naclstack,Pkmn › Stage 1,{F},Shiny Rare,sold out,sv4_en_177_std.jpg
+,,,,,,
+PAF,178,Garganacl,Pkmn › Stage 2,{F},Shiny Rare,sold out,sv4_en_178_std.jpg
+,,,,,,
+PAF,179,Glimmet,Pkmn › Basic,{F},Shiny Rare,sold out,sv4_en_179_std.jpg
+,,,,,,
+PAF,180,Paldean Wooper,Pkmn › Basic,{D},Shiny Rare,sold out,sv4_en_180_std.jpg
+,,,,,,
+PAF,181,Murkrow,Pkmn › Basic,{D},Shiny Rare,sold out,sv4_en_181_std.jpg
+,,,,,,
+PAF,182,Sneasel,Pkmn › Basic,{D},Shiny Rare,sold out,sv4_en_182_std.jpg
+,,,,,,
+PAF,183,Weavile,Pkmn › Stage 1,{D},Shiny Rare,sold out,sv4_en_183_std.jpg
+,,,,,,
+PAF,184,Sableye,Pkmn › Basic,{D},Shiny Rare,sold out,sv4_en_184_std.jpg
+,,,,,,
+PAF,185,Pawniard,Pkmn › Basic,{D},Shiny Rare,sold out,sv4_en_185_std.jpg
+,,,,,,
+PAF,186,Bisharp,Pkmn › Stage 1,{D},Shiny Rare,sold out,sv4_en_186_std.jpg
+,,,,,,
+PAF,187,Kingambit,Pkmn › Stage 2,{D},Shiny Rare,sold out,sv4_en_187_std.jpg
+,,,,,,
+PAF,188,Mabosstiff,Pkmn › Stage 1,{D},Shiny Rare,sold out,sv4_en_188_std.jpg
+,,,,,,
+PAF,189,Shroodle,Pkmn › Basic,{D},Shiny Rare,sold out,sv4_en_189_std.jpg
+,,,,,,
+PAF,190,Grafaiai,Pkmn › Stage 1,{D},Shiny Rare,sold out,sv4_en_190_std.jpg
+,,,,,,
+PAF,191,Scizor,Pkmn › Stage 1,{M},Shiny Rare,sold out,sv4_en_191_std.jpg
+,,,,,,
+PAF,192,Varoom,Pkmn › Basic,{M},Shiny Rare,sold out,sv4_en_192_std.jpg
+,,,,,,
+PAF,193,Revavroom,Pkmn › Stage 1,{M},Shiny Rare,sold out,sv4_en_193_std.jpg
+,,,,,,
+PAF,194,Noibat,Pkmn › Basic,{N},Shiny Rare,sold out,sv4_en_194_std.jpg
+,,,,,,
+PAF,195,Cyclizar,Pkmn › Basic,{N},Shiny Rare,sold out,sv4_en_195_std.jpg
+,,,,,,
+PAF,196,Pidgey,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_196_std.jpg
+,,,,,,
+PAF,197,Pidgeotto,Pkmn › Stage 1,{C},Shiny Rare,sold out,sv4_en_197_std.jpg
+,,,,,,
+PAF,198,Jigglypuff,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_198_std.jpg
+,,,,,,
+PAF,199,Doduo,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_199_std.jpg
+,,,,,,
+PAF,200,Dodrio,Pkmn › Stage 1,{C},Shiny Rare,sold out,sv4_en_200_std.jpg
+,,,,,,
+PAF,201,Ditto,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_201_std.jpg
+,,,,,,
+PAF,202,Snorlax,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_202_std.jpg
+,,,,,,
+PAF,203,Wingull,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_203_std.jpg
+,,,,,,
+PAF,204,Pelipper,Pkmn › Stage 1,{C},Shiny Rare,sold out,sv4_en_204_std.jpg
+,,,,,,
+PAF,205,Skwovet,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_205_std.jpg
+,,,,,,
+PAF,206,Greedent,Pkmn › Stage 1,{C},Shiny Rare,sold out,sv4_en_206_std.jpg
+,,,,,,
+PAF,207,Lechonk,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_207_std.jpg
+,,,,,,
+PAF,208,Oinkologne,Pkmn › Stage 1,{C},Shiny Rare,sold out,sv4_en_208_std.jpg
+,,,,,,
+PAF,209,Tandemaus,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_209_std.jpg
+,,,,,,
+PAF,210,Maushold,Pkmn › Stage 1,{C},Shiny Rare,sold out,sv4_en_210_std.jpg
+,,,,,,
+PAF,211,Flamigo,Pkmn › Basic,{C},Shiny Rare,sold out,sv4_en_211_std.jpg
+,,,,,,
+PAF,212,Forretress ex,Pkmn › Stage 1,{G},Shiny Ultra Rare,sold out,sv4_en_212_std.jpg
+,,,,,,
+PAF,213,Toedscruel ex,Pkmn › Stage 1,{G},Shiny Ultra Rare,sold out,sv4_en_213_std.jpg
+,,,,,,
+PAF,214,Espathra ex,Pkmn › Stage 1,{G},Shiny Ultra Rare,sold out,sv4_en_214_std.jpg
+,,,,,,
+PAF,215,Alakazam ex,Pkmn › Stage 2,{P},Shiny Ultra Rare,sold out,sv4_en_215_std.jpg
+,,,,,,
+PAF,216,Mew ex,Pkmn › Basic,{P},Shiny Ultra Rare,sold out,sv4_en_216_std.jpg
+,,,,,,
+PAF,217,Gardevoir ex,Pkmn › Stage 2,{P},Shiny Ultra Rare,sold out,sv4_en_217_std.jpg
+,,,,,,
+PAF,218,Glimmora ex,Pkmn › Stage 1,{F},Shiny Ultra Rare,sold out,sv4_en_218_std.jpg
+,,,,,,
+PAF,219,Paldean Clodsire ex,Pkmn › Stage 1,{D},Shiny Ultra Rare,sold out,sv4_en_219_std.jpg
+,,,,,,
+PAF,220,Noivern ex,Pkmn › Stage 1,{N},Shiny Ultra Rare,sold out,sv4_en_220_std.jpg
+,,,,,,
+PAF,221,Pidgeot ex,Pkmn › Stage 2,{C},Shiny Ultra Rare,sold out,sv4_en_221_std.jpg
+,,,,,,
+PAF,222,Wigglytuff ex,Pkmn › Stage 1,{C},Shiny Ultra Rare,sold out,sv4_en_222_std.jpg
+,,,,,,
+PAF,223,Squawkabilly ex,Pkmn › Basic,{C},Shiny Ultra Rare,sold out,sv4_en_223_std.jpg
+,,,,,,
+PAF,224,Wugtrio,Pkmn › Stage 1,{W},Illustration Rare,sold out,sv4_en_224_std.jpg
+,,,,,,
+PAF,225,Palafin,Pkmn › Stage 1,{W},Illustration Rare,sold out,sv4_en_225_std.jpg
+,,,,,,
+PAF,226,Pawmi,Pkmn › Basic,{L},Illustration Rare,sold out,sv4_en_226_std.jpg
+,,,,,,
+PAF,227,Clive,Trainer › Supporter,,Ultra Rare,sold out,sv4_en_227_std.jpg
+,,,,,,
+PAF,228,Judge,Trainer › Supporter,,Ultra Rare,sold out,sv4_en_228_std.jpg
+,,,,,,
+PAF,229,Nemona,Trainer › Supporter,,Ultra Rare,sold out,sv4_en_229_std.jpg
+,,,,,,
+PAF,230,Paldean Student,Trainer › Supporter,,Ultra Rare,sold out,sv4_en_230_std.jpg
+,,,,,,
+PAF,231,Paldean Student,Trainer › Supporter,,Ultra Rare,sold out,sv4_en_231_std.jpg
+,,,,,,
+PAF,232,Mew ex,Pkmn › Basic,{P},Special Illustration Rare,sold out,sv4_en_232_std.jpg
+,,,,,,
+PAF,233,Gardevoir ex,Pkmn › Stage 2,{P},Special Illustration Rare,sold out,sv4_en_233_std.jpg
+,,,,,,
+PAF,234,Charizard ex,Pkmn › Stage 2,{D},Special Illustration Rare,sold out,sv4_en_234_std.jpg
+,,,,,,
+PAF,235,Arven,Trainer › Supporter,,Special Illustration Rare,sold out,sv4_en_235_std.jpg
+,,,,,,
+PAF,236,Clive,Trainer › Supporter,,Special Illustration Rare,sold out,sv4_en_236_std.jpg
+,,,,,,
+PAF,237,Iono,Trainer › Supporter,,Special Illustration Rare,sold out,sv4_en_237_std.jpg
+,,,,,,
+PAF,238,Nemona,Trainer › Supporter,,Special Illustration Rare,sold out,sv4_en_238_std.jpg
+,,,,,,
+PAF,239,Penny,Trainer › Supporter,,Special Illustration Rare,sold out,sv4_en_239_std.jpg
+,,,,,,
+PAF,240,Wo-Chien ex,Pkmn › Basic,{G},Hyper Rare,sold out,sv4_en_240_std.jpg
+,,,,,,
+PAF,241,Chi-Yu ex,Pkmn › Basic,{R},Hyper Rare,sold out,sv4_en_241_std.jpg
+,,,,,,
+PAF,242,Chien-Pao ex,Pkmn › Basic,{W},Hyper Rare,sold out,sv4_en_242_std.jpg
+,,,,,,
+PAF,243,Miraidon ex,Pkmn › Basic,{L},Hyper Rare,sold out,sv4_en_243_std.jpg
+,,,,,,
+PAF,244,Ting-Lu ex,Pkmn › Basic,{F},Hyper Rare,sold out,sv4_en_244_std.jpg
+,,,,,,
+PAF,245,Koraidon ex,Pkmn › Basic,{F},Hyper Rare,sold ou,sv4_en_245_std.jpg
